@@ -21,7 +21,10 @@ This list is intended as a public good open source project, and as such contribu
 - Articles
 - Education 
 - Finding Work
+  - Bounties
+  - Job Boards
 - Funding
+  - Grants 
 - Influencers
 - Service DAOs
 - Tools
@@ -43,7 +46,13 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Finding Work
 
+### Bounties
+
+### Job Boards
+
 ## Funding
+
+### Grants
 
 ## Influencers
 
