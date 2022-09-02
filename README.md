@@ -46,14 +46,38 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Finding Work
 
+- Voice DAO
+- Opolis
+
+
 ### Bounties
 
+- Dework
+- 
 ### Job Boards
 
 ## Funding
 
 ### Grants
 
+- [Alchemy WAGBI Grants](https://www.alchemy.com/developer-grant-program)
+- [Bit DAO](https://www.bitdao.io/)
+- [Cult DAO](https://cultdao.io/)
+- [Ethereum Foundation](https://ethereum.org/en/community/grants/)
+- [Gitcoin](https://gitcoin.co/)
+- Giveth
+- Gnosis DAO
+- Hyperscale Fund
+- Meta Cartel
+- Moloch DAO
+- OpenSea Ecosystem Grants Program
+- Optimism Grants
+- Protocol Labs
+- Questbook
+- Radicle Grants
+- stemr
+- The Graph Grants
+- 
 ## Influencers
 
 ## Service DAOs
@@ -62,10 +86,35 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Communication
 
+- Atlantis
+- Discord
+- Discourse
+- Telegram
+
+
 ### DAO Creation
 
-### Governance
+- Aragon
+- Colony
+- Compound
+- DAOhaus
+- Orca
+- xDAO
+
+### Governance Extensions
+
+- AUT
+- Boardroom
+- Tally
 
 ### Identity/Reputation
 
+- Hats
+- Lens
+
 ### Project Management
+
+- Chamverse
+- Github
+- Hackmd
+- Notion
