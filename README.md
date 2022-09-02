@@ -25,7 +25,6 @@ This list is intended as a public good open source project, and as such contribu
   - Job Boards
 - Funding
   - Grants 
-- Influencers
 - Service DAOs
 - Tools
   - Communication
@@ -34,7 +33,7 @@ This list is intended as a public good open source project, and as such contribu
   - Identity/Reputation
   - Project Management
   - 
-- 
+- Twitter Influencers 
 - 
 
 ---
@@ -78,7 +77,6 @@ This list is intended as a public good open source project, and as such contribu
 - stemr
 - The Graph Grants
 - 
-## Influencers
 
 ## Service DAOs
 
@@ -118,3 +116,9 @@ This list is intended as a public good open source project, and as such contribu
 - Github
 - Hackmd
 - Notion
+
+
+## Twitter Influencers
+
+-
+-
