@@ -18,7 +18,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Contents
 
-- Articles
+- [Articles](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#articles)
 - Education 
 - Finding Work
   - Bounties
