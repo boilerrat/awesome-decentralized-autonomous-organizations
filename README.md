@@ -22,6 +22,7 @@ This list is intended as a public good open source project, and as such contribu
 - Education 
 - Finding Work
 - Funding
+- Influencers
 - Service DAOs
 - Tools
   - Communication
@@ -43,6 +44,8 @@ This list is intended as a public good open source project, and as such contribu
 ## Finding Work
 
 ## Funding
+
+## Influencers
 
 ## Service DAOs
 
