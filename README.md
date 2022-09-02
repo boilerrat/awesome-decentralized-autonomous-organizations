@@ -20,6 +20,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - Articles
 - Education 
+- Finding Work
 - Funding
 - Service DAOs
 - Tools
@@ -32,14 +33,27 @@ This list is intended as a public good open source project, and as such contribu
 - 
 - 
 
+---
+
 ## Articles
--
--
--
+
+
 ## Education
+
+## Finding Work
 
 ## Funding
 
 ## Service DAOs
 
 ## Tools
+
+### Communication
+
+### DAO Creation
+
+### Governance
+
+### Identity/Reputation
+
+### Project Management
