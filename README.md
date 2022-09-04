@@ -24,10 +24,15 @@ This list is intended as a public good open source project, and as such contribu
   - [Bounties](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bounties)
   - [Job Boards](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#job-boards)
 - [Funding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#funding)
-  - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants) 
+  - [Crowdfunding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#crowdfunding)
+  compund- [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants) 
 - [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
 - [Tools](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#tools)
   - [Communication](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#communication)
+    - [Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#apps)
+      - [Non Encrypted](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#non-encrypted)
+      - [Encrypted](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#encrypted)  
+    - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
   - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
   - [Governance Exentsions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
   - [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
@@ -62,6 +67,11 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Funding
 
+### Crowdfunding
+
+- [Juicebox](https://juicebox.money/)
+- [Yeet](https://yeet.daohaus.club/)
+
 ### Grants
 
 - [Alchemy WAGBI Grants](https://www.alchemy.com/developer-grant-program)
@@ -92,50 +102,58 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Communication
 
-- Discord
-- Discourse
-- Telegram
+#### Apps
+
+##### Non Encrypted
+
+- [Discord](https://discord.com/)
+- [Discourse](https://www.discourse.org/)
+- [Telegram](https://telegram.org/)
+
+#### Encrypted
+
+#### Bots
 
 
 ### DAO Creation
 
-- Aragon
-- Colony
-- Compound
-- DAOhaus
-- Orca
-- xDAO
+- [Aragon](https://aragon.org/)
+- [Colony](https://colony.io/)
+- [Compound](https://docs.compound.finance/v2/governance/?ref=medium)
+- [DAOhaus](https://daohaus.club/)
+- [Metropolis](https://www.metropolis.space/)
+- [xDAO](https://www.xdao.app/)
 
 ### Governance Extensions
 
-- AUT
-- Boardroom
-- Tally
+- [AUT](https://aut.id/)
+- [Boardroom](https://boardroom.io/)
+- [Tally](https://www.tally.xyz/)
 
 ### Identity/Reputation
 
-- Hats
-- Lens
-- Sourcecred
+- [Hats](https://mobile.twitter.com/hatsprotocol)
+- [Lens](https://lens.xyz/)
+- [Sourcecred](https://sourcecred.io/)
 
 ### Payroll
 
-- Coordinape
-- disperse
+- [Coordinape](https://coordinape.com/)
+- [disperse](https://disperse.app/)
 - [Opolis](https://opolis.co/)
-- Superfluid
+- [Superfluid](https://www.superfluid.finance/)
 
 ### Project Management
 
-- Chamverse
-- Github
-- Hackmd
-- Notion
+- [Chamverse](https://www.charmverse.io/)
+- [Github](https://github.com/)
+- [Hackmd](https://hackmd.io/)
+- [Notion](https://www.notion.so/)
 
 ### Schedluing
 
-- Calendy
-- lettucemeet
+- [Calendy](https://calendly.com/)
+- [lettucemeet](https://lettucemeet.com/)
 
 ## Twitter
 
