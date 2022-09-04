@@ -34,7 +34,7 @@ This list is intended as a public good open source project, and as such contribu
   - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
   - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
   - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
-- [Twitter Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter-influencers) 
+- [Twitter](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter) 
 - 
 
 ---
@@ -91,7 +91,6 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Communication
 
-- Atlantis
 - Discord
 - Discourse
 - Telegram
@@ -137,7 +136,11 @@ This list is intended as a public good open source project, and as such contribu
 - Calendy
 - lettucemeet
 
-## Twitter Influencers
+## Twitter
 
--
--
+### Influencers
+
+### Lists To Follow
+
+
+
