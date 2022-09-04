@@ -19,22 +19,22 @@ This list is intended as a public good open source project, and as such contribu
 ## Contents
 
 - [Articles](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#articles)
-- Education 
-- Finding Work
-  - Bounties
-  - Job Boards
-- Funding
-  - Grants 
-- Service DAOs
-- Tools
-  - Communication
-  - DAO Creation (Summoning)
-  - Governance
-  - Identity/Reputation
-  - Payroll
-  - Project Management
-  - Schedluing
-- Twitter Influencers 
+- [Education](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#education) 
+- [Finding Work](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#finding-work)
+  - [Bounties](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bounties)
+  - [Job Boards](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#job-boards)
+- [Funding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#funding)
+  - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants) 
+- [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
+- [Tools](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#tools)
+  - [Communication](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#communication)
+  - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
+  - [Governance Exentsions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
+  - [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
+  - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
+  - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
+  - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
+- [Twitter Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter-influencers) 
 - 
 
 ---
@@ -65,19 +65,19 @@ This list is intended as a public good open source project, and as such contribu
 - [Cult DAO](https://cultdao.io/)
 - [Ethereum Foundation](https://ethereum.org/en/community/grants/)
 - [Gitcoin](https://gitcoin.co/)
-- Giveth
-- Gnosis DAO
-- Hyperscale Fund
-- Meta Cartel
-- Moloch DAO
-- OpenSea Ecosystem Grants Program
-- Optimism Grants
-- Protocol Labs
-- Questbook
-- Radicle Grants
-- stemr
-- The Graph Grants
-- 
+- [Giveth](https://giveth.io/)
+- [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736)
+- [Hyperscale Fund](https://www.hyperscalefund.com/)
+- [Meta Cartel](https://www.metacartel.org/grants)
+- [Moloch DAO](https://molochdao.com/)
+- [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as)
+- [Optimism Grants](https://gov.optimism.io/c/proposals/38)
+- [Protocol Labs](https://protocol.ai/)
+- [Questbook](https://t.co/f7O4zCHFqc)
+- [Radicle Grants](https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU)
+- [steamr](https://streamr.network/fund/)
+- [The Graph Grants](https://www.notion.so/The-Graph-Foundation-e822e66d7b614fdd899a647f5db51a68)
+
 
 ## Service DAOs
 
