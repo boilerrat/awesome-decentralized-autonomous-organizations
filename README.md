@@ -44,17 +44,20 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Education
 
+- [Voice DAO](https://www.voicedao.fun/)
+
 ## Finding Work
 
-- Voice DAO
-- Opolis
-
+- [Opolis](https://opolis.co/)
+- [Voice DAO](https://www.voicedao.fun/)
 
 ### Bounties
 
-- Dework
+- [Dework](https://dework.xyz/)
 - 
 ### Job Boards
+
+- [Dework](https://dework.xyz/)
 
 ## Funding
 
@@ -80,6 +83,9 @@ This list is intended as a public good open source project, and as such contribu
 
 
 ## Service DAOs
+
+- [Raid Guild](https://www.raidguild.org/)
+- [YAP DAO](https://www.yapdao.xyz/)
 
 ## Tools
 
@@ -116,7 +122,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - Coordinape
 - disperse
-- Opolis
+- [Opolis](https://opolis.co/)
 - Superfluid
 
 ### Project Management
