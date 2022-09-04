@@ -35,7 +35,8 @@ This list is intended as a public good open source project, and as such contribu
   - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
   - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
 - [Twitter](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter) 
-- 
+  - [Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#influencers)
+  - [Lists to Follow](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#lists-to-follow)
 
 ---
 
