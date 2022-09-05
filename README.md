@@ -277,6 +277,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Intellectual Property
 
+- [Molecule Protocol](https://www.molecule.to/)
 - [Ultra DAO](https://ultradao.org/)
 
 ## Investment DAOs
