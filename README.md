@@ -38,7 +38,9 @@ This list is intended as a public good open source project, and as such contribu
 - [Comic Books](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comic-books)
 - [Gaming DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#gaming-daos)
 - [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
+- [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
+- [Newsletters](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#newletters)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
 - [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
@@ -53,14 +55,16 @@ This list is intended as a public good open source project, and as such contribu
       - [Encrypted](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#encrypted)  
     - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
   - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
-  - [Decentralized Storage](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#decentralized-storage)
+  - [Decentralized Data](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#decentralized-data)
   - [Governance Exentsions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
   - [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
   - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
   - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
   - [Publishing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#publishing)
-  - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
+  - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#scheduling)
+  - [Smart Contracts and Development](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#smart-contracts-and-development)
   - [Social Media](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-media)
+  - [Social Tokens](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-tokens)
   - [Sybil](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sybil)
   - [Treasury](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#trasury)
   - [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
@@ -72,7 +76,12 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Articles
 
+
+- [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+- [Building and Running a DAO: Why Governance Matters](https://future.com/building-and-running-a-dao-why-governance-matters/)
 - [Evolutionary Organizations](https://orca.mirror.xyz/Kx2hWV3tr1crlBHy2WBTBdR6Dup76AKHKbpbSzYW2kw)
+- [How the devil do I use a Moloch DAO?](https://daohaus.mirror.xyz/9zJrqvsPGwwqrz89Eea6RdsBd8ba9ZG0oCjY05_BXsY)
+- [What the devil are Moloch DAOs, and why should you care?](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc)
 
 ## Blockchains
 
@@ -163,6 +172,8 @@ This list is intended as a public good open source project, and as such contribu
 - [Pool Together](https://pooltogether.com/)
 - [Popcorn Finance](https://www.popcorndao.finance/)
 - [Temple DAO](https://templedao.link/)
+- [Shapeshift](https://shapeshift.com/)
+- [SOLV Protocol](https://solv.finance/home)
 - [Symmetric](https://symmetric.finance/)
 
 ## Gaming DAOs
@@ -173,7 +184,13 @@ This list is intended as a public good open source project, and as such contribu
 
 - [ReFi DAO](https://refidao.com/)
 - [Koknut Network](https://kokonut.network/)
+- [Kolektivo](https://www.kolektivo.co/)
 - [Ukraine DAO](https://linktr.ee/ukrainedao)
+
+## Insurance
+
+- [Nexus Mutual](https://nexusmutual.io/)
+- [Unslashed](https://unslashed.finance/)
 
 ## Investment DAOs
 
@@ -182,6 +199,10 @@ This list is intended as a public good open source project, and as such contribu
 - [Orange DAO](https://www.orangedao.xyz/)
 - [The LAO](https://www.thelao.io/)
 
+## Newsletters
+
+- [Rally](https://share.hsforms.com/1n99qm_KMSr6tgn9CSY7nXwbp0ak)
+- [The DAOist](https://www.thedaoist.co/)
 
 ## NFT DAOs
 
@@ -238,8 +259,11 @@ This list is intended as a public good open source project, and as such contribu
 - [Lex DAO](https://www.lexdao.coop/)
 - [Meta Factory](https://www.metafactory.ai/)
 - [Odyssey DAO](https://www.odysseydao.com/)
+- [Open Law](https://www.openlaw.io/)
 - [Raid Guild](https://www.raidguild.org/)
+- [Sarcophagus DAO](https://sarcophagus.io/)
 - [Surge](https://www.surgewomen.io/)
+- [The DAOist](https://www.thedaoist.co/)
 - [YAP DAO](https://www.yapdao.xyz/)
 - [WGMI](https://www.wgmi.community/)
 
@@ -286,11 +310,13 @@ This list is intended as a public good open source project, and as such contribu
 
 ### DAO Creation
 
+- [Adam](https://alpha.adamdao.io/)
 - [Aragon](https://aragon.org/)
 - [Colony](https://colony.io/)
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium)
 - [DAOhaus](https://daohaus.club/)
 - [DAOstack](https://daostack.io/)
+- [Gardens](https://gardens.1hive.org/#/home)
 - [jokedao](https://joke.mirror.xyz/)
 - [Kali DAO](https://www.kali.gg/)
 - [Metropolis](https://www.metropolis.space/)
@@ -300,29 +326,40 @@ This list is intended as a public good open source project, and as such contribu
 - [Superdao](https://superdao.co/)
 - [Syndicate](https://syndicate.io/)
 - [Tribute LABS](https://tributelabs.xyz/)
+- [Unique](https://unique.vc/)
+- [Weezi](https://weezi.io/)
 - [xDAO](https://www.xdao.app/)
 
-### Decentralized Storage
+### Decentralized Data
 
 - [arweave](https://www.arweave.org/)
+- [ceramic](https://ceramic.network/)
 - [IPFS](https://ipfs.tech/)
 
 ### Governance Extensions
 
 - [AUT](https://aut.id/)
 - [Boardroom](https://boardroom.io/)
+- [Commonwealth](https://commonwealth.im/)
 - [Governor DAO](https://governordao.org/)
 - [Govrn](https://linktr.ee/Govrn)
 - [Guild](https://guild.xyz/)
 - [Guild Protocol](https://guildprotocol.io/)
+- [Kleros](https://kleros.io/)
+- [llama](https://llama.xyz/)
+- [SafeSnap](https://docs.snapshot.org/plugins/safesnap)
+- [Swae](https://swae.io/)
 - [Tally](https://www.tally.xyz/)
 - [Terminal](https://www.terminal.co/)
+- [Zodiac](https://github.com/gnosis/zodiac)
 
 ### Identity/Reputation
 
 - [Hats](https://mobile.twitter.com/hatsprotocol)
+- [IDX](https://idx.xyz/)
 - [Lens Protocol](https://lens.xyz/)
 - [Orange Protocol](https://www.orangeprotocol.io/)
+- [poap](https://app.poap.xyz/)
 - [Sourcecred](https://sourcecred.io/)
 
 ### Payroll
@@ -330,7 +367,11 @@ This list is intended as a public good open source project, and as such contribu
 - [Coordinape](https://coordinape.com/)
 - [disperse](https://disperse.app/)
 - [Opolis](https://opolis.co/)
+- [parcel](https://parcel.money/)
+- [Request](https://request.network/en/)
+- [Sablier](https://sablier.finance/)
 - [Superfluid](https://www.superfluid.finance/)
+- [Utopia](https://www.utopialabs.com/)
 
 ### Project Management
 
@@ -351,11 +392,20 @@ This list is intended as a public good open source project, and as such contribu
 - [Calendy](https://calendly.com/)
 - [lettucemeet](https://lettucemeet.com/)
 
+### Smart Contracts and Development
+
+- [api3](https://api3.org/)
+- [Open Zeppelin](https://www.openzeppelin.com/)
+
 ### Social Media
 
 - [Lenster](https://lenster.xyz/)
 - [Phaver](https://phaver.com/)
 - [Twitter](https://twitter.com)
+
+### Social Tokens
+
+- [Rally](https://rally.io/)
 
 ### Sybil
 
@@ -365,7 +415,14 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Treasury
 
+- [coinshift](https://coinshift.xyz/)
+- [enzyme](https://enzyme.finance/)
 - [Gnosis Safe](https://gnosis-safe.io/)
+- [llama](https://llama.xyz/)
+- [multis](https://multis.co/)
+- [parcel](https://parcel.money/)
+- [SOLV Protocol](https://solv.finance/home)
+- [Utopia](https://www.utopialabs.com/)
 
 ### Voting Apps
 
@@ -373,6 +430,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Snapshot](https://snapshot.org/)
 - [RadicalxChange](https://quadraticvote.radicalxchange.org/)
 - [QuadraticVote.co](https://quadraticvote.co/)
+- [Vocdoni](https://aragon.org/vocdoni)
 
 ## Twitter
 
