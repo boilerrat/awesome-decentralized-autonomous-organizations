@@ -39,6 +39,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
+- [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
 - [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
 - [Research-Science DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science-daos)
 - [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
@@ -147,15 +148,19 @@ This list is intended as a public good open source project, and as such contribu
 - [DXDAO](https://dxdao.eth.limo/)
 - [Index Coop](https://www.indexcoop.com/)
 - [Klima DAO](https://www.klimadao.finance/)
+- [Mycelium](https://mycelium.xyz/)
 - [Neptune DAO](https://neptunedao.xyz/)
 - [Olympus DAO](https://www.olympusdao.finance/)
+- [Pool Together](https://pooltogether.com/)
 - [Popcorn Finance](https://www.popcorndao.finance/)
 - [Temple DAO](https://templedao.link/)
 - [Symmetric](https://symmetric.finance/)
 
 ## Impact DAOs
 
+- [ReFi DAO](https://refidao.com/)
 - [Koknut Network](https://kokonut.network/)
+- [Ukraine DAO](https://linktr.ee/ukrainedao)
 
 ## Investment DAOs
 
@@ -179,6 +184,18 @@ This list is intended as a public good open source project, and as such contribu
 - [Tessera](https://tessera.co/)
 - [Ultra DAO](https://ultradao.org/)
 
+## Podcasts
+
+- [DAO or Never](https://dao-or-never.simplecast.com/)
+- [DAOs Unknown](https://podcasts.apple.com/us/podcast/daos-unknown/id1622875930)
+- [Lunarpunk Dreams](https://stephenreid.net/lunarpunk-dreams)
+- [Meta Radio](https://anchor.fm/MetaGame/)
+- [On The Other Side](https://www.othersidepod.xyz/)
+- [Refi Podcast](https://podcast.refidao.com/)
+- [The Daily Gwei](https://www.youtube.com/channel/UCvCp6vKY5jDr87htKH6hgDA)
+- [The Forefront Podcast](https://anchor.fm/forefront-podcast)
+- [The Green Pill Podcast](https://greenpill.party/)
+
 ## Real Estate
 
 - [Cabin DAO](https://www.creatorcabins.com/)
@@ -189,7 +206,9 @@ This list is intended as a public good open source project, and as such contribu
 - [Chainverse](https://www.chainverse.diamonds/)
 - [Genomes DAO](https://genomes.io/)
 - [Global Coin Research](https://globalcoinresearch.com/)
+- [rLoop](https://www.rloop.org/)
 - [RnDAO](https://discord.com/invite/jKaYS2dkXq)
+- [talent DAO](https://www.talentdao.io/)
 - [The Science DAO](https://thesciencedao.io/)
 - [Vita DAO](https://www.vitadao.com/)
 - [Wagmi Labs](https://wagmi.ink/)
@@ -260,6 +279,7 @@ This list is intended as a public good open source project, and as such contribu
 - [NiNDAO](https://nindao.xyz/)
 - [NnsDAO](https://nnsdao.org/)
 - [Party Bid](https://www.partybid.app/)
+- [Superdao](https://superdao.co/)
 - [Syndicate](https://syndicate.io/)
 - [Tribute LABS](https://tributelabs.xyz/)
 - [xDAO](https://www.xdao.app/)
@@ -347,20 +367,25 @@ This list is intended as a public good open source project, and as such contribu
 - [Corbin Page](https://twitter.com/corbpage)
 - [David Hoffman](https://twitter.com/TrustlessState)
 - [Daniele never asks to DM](https://twitter.com/danielesesta)
+- [Dekan Brown](https://twitter.com/DekanBro)
 - [drnick](https://twitter.com/DrNickA)
+- [Elco is a DAOist](https://twitter.com/duartedao)
 - [James Waugh](https://twitter.com/blockchainjames)
 - [Jess](https://twitter.com/thattallguy)
 - [Keith Axline](https://twitter.com/kaxline)
+- [Kevin Owocki](https://twitter.com/owocki)
 - [Metadreamer.ETH](https://twitter.com/META_DREAMER)
 - [Michael Kisselgof](https://twitter.com/SerKisselgof)
 - [ohmzeus](https://twitter.com/ohmzeus)
 - [pet3rpan](https://twitter.com/pet3rpan_)
+- [peth](https://twitter.com/petheth)
 - [punk4156](https://twitter.com/punk4156)
 - [rafa0](https://twitter.com/rafathebuilder)
 - [Samantha Marin](https://twitter.com/samanthajmarin)
 - [Stani Kulechov](https://twitter.com/StaniKulechov)
 - [Stephen Reid](https://twitter.com/lunarpunk_0x)
 - [Spencer Graham](https://twitter.com/spengrah)
+- [Yalor Mewn](https://twitter.com/YalorMewn)
 
 ### Lists
 
