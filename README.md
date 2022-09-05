@@ -82,16 +82,6 @@ This list is intended as a public good open source project, and as such contribu
 - [How the devil do I use a Moloch DAO?](https://daohaus.mirror.xyz/9zJrqvsPGwwqrz89Eea6RdsBd8ba9ZG0oCjY05_BXsY)
 - [What the devil are Moloch DAOs, and why should you care?](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc)
 
-## Bots
-
-- [Carl-bot](https://carl.gg/)
-- [Collab.Land](https://collab.land/)
-- [Double Counter](https://dcounter.space/)
-- [Dyno](https://dyno.gg/)
-- [mee6](https://mee6.xyz/)
-- [Sesh](https://sesh.fyi/)
-- [tip.cc](https://tip.cc/)
-- [Wick](https://wickbot.com/)
 
 ## Blockchains
 
@@ -103,6 +93,17 @@ This list is intended as a public good open source project, and as such contribu
 - [Optimism](https://www.optimism.io/)
 - [Polygon](https://polygon.technology/)
 - [Solana](https://solana.com/)
+
+## Bots
+
+- [Carl-bot](https://carl.gg/)
+- [Collab.Land](https://collab.land/)
+- [Double Counter](https://dcounter.space/)
+- [Dyno](https://dyno.gg/)
+- [mee6](https://mee6.xyz/)
+- [Sesh](https://sesh.fyi/)
+- [tip.cc](https://tip.cc/)
+- [Wick](https://wickbot.com/)
 
 ## Comics
 
