@@ -112,34 +112,34 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Communication Apps
 
-- [Discord](https://discord.com/)
-- [Discourse](https://www.discourse.org/)
-- [Session](https://getsession.org/)
-- [Syndicate](https://syndicat.es/)
-- [Telegram](https://telegram.org/)
+- [Discord](https://discord.com/) -  is a free voice, video, and text chat app
+- [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more
+- [Session](https://getsession.org/) - a private messenger offering privacy, anonymity, and security. With end-to-end encryption, no phone numbers for sign-up, and decentralisation, Session is a messenger that truly keeps your messages private and secure.
+- [Syndicate](https://syndicat.es/) - web3 community chat app
+- [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
 
 
 ## DAO Creation
 
-- [Adam](https://alpha.adamdao.io/)
-- [Aragon](https://aragon.org/)
-- [Colony](https://colony.io/)
-- [Compound](https://docs.compound.finance/v2/governance/?ref=medium)
-- [DAOhaus](https://daohaus.club/)
-- [DAOstack](https://daostack.io/)
-- [Gardens](https://gardens.1hive.org/#/home)
-- [jokedao](https://joke.mirror.xyz/)
-- [Kali DAO](https://www.kali.gg/)
-- [Metropolis](https://www.metropolis.space/)
-- [NiNDAO](https://nindao.xyz/)
-- [NnsDAO](https://nnsdao.org/)
-- [Party Bid](https://www.partybid.app/)
-- [Superdao](https://superdao.co/)
-- [Syndicate](https://syndicate.io/)
-- [Tribute LABS](https://tributelabs.xyz/)
-- [Unique](https://unique.vc/)
-- [Weezi](https://weezi.io/)
-- [xDAO](https://www.xdao.app/)
+- [Adam](https://alpha.adamdao.io/) - a platform for communities to unleash their values with no-code DAO creation within minutes
+- [Aragon](https://aragon.org/) - Aragon is an open-source software used to maintain and create decentralized autonomous organizations (DAOs) on the Ethereum blockchain
+- [Colony](https://colony.io/) - Colony makes it easy for people all over the world to build organizations together, online.
+- [Compound](https://docs.compound.finance/v2/governance/?ref=medium) - Application developers can build their own custom workflows and interfaces to facilitate the participation of their users and communities in Compound governance. 
+- [DAOhaus](https://daohaus.club/) - a no-code platform for launching and operating DAOs, which uses the Moloch open source code. It includes functionality to: Launch, vote on, and process proposals.
+- [DAOstack](https://daostack.io/) - DAOstack is designed to catalyze the future of collaboration. It's a platform for decentralized governance that enables collectives to self-organize around shared goals or values, easily and efficiently
+- [Gardens](https://gardens.1hive.org/#/home) - Gardens are composable, sufficiently decentralized, and self-improving DAOs, limited only by your collective imagination
+- [jokedao](https://joke.mirror.xyz/) - JokeDAO is an open-source, collaborative decision-making platform
+- [Kali DAO](https://www.kali.gg/) - DAOs are what you make of decentralized infra Launch a tokenized LLC and issue equity on KALI in minutes
+- [Metropolis](https://www.metropolis.space/) - (formerly Orca Protocol) enables DAOs to implement pods. Pods give users a clean and easy-to-use UI to create and approve proposals within a small working group and allow DAOs to create organizational structure
+- [NiNDAO](https://nindao.xyz/) - NinDAO is a cyborg-ninja programmed with a future-funk nindō: to build infrastructures for communities as they happen
+- [NnsDAO](https://nnsdao.org/) - NnsDAO is simply a borderless autonomous organization that provides some basic modular programmable services for building the world of DAOn
+- [Party Bid](https://www.partybid.app/) - PartyBid is the protocol for buying NFTs as a team. Start a party on any NFT, contribute ETH with others and win together.
+- [Superdao](https://superdao.co/) - Superdao is the operating system for the DAO. The system will be able to generate DASuperdao is an operating system for DAOs. It supports one-click DAO creation
+- [Syndicate](https://syndicate.io/) - Syndicate is revolutionizing investing by changing how communities and capital work together through accessible, effortless, and social web3 technologies. Invest in tokens and NFTs—as well as startups (via a legal entity)
+- [Tribute LABS](https://tributelabs.xyz/) - open‐source stack to evolve the needs of secure, multifunctional DAO operations
+- [Unique](https://unique.vc/) - Create or join a web3 venture club
+- [Weezi](https://weezi.io/) - simple CRM for DAO Asset Management in DeFi, NFT and GameFi
+- [xDAO](https://www.xdao.app/) - XDAO is a fully customizable tool that can be used for treasury management, multisig wallet and the platform for investment.
 
 ## Data Access 
 
