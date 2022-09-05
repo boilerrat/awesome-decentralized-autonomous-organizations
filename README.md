@@ -218,6 +218,9 @@ This list is intended as a public good open source project, and as such contribu
 
 #### Bots
 
+- [Carl-bot]
+- [Dyno](https://dyno.gg/)
+- [Sesh](https://sesh.fyi/)
 
 ### DAO Creation
 
