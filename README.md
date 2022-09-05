@@ -1,3 +1,7 @@
+---
+tags: DAOs, Awesome List
+---
+
 # awesome-decentralized-autonomous-organizations
 
 [![hackmd-github-sync-badge](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ/badge)](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ)
@@ -29,8 +33,10 @@ This list is intended as a public good open source project, and as such contribu
 - [Funding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#funding)
   - [Crowdfunding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#crowdfunding)
   - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants)
+  - [Incubators](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#incubators)
 - [Comic Books](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comic-books)
 - [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
+- [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
 - [Research-Science DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science-daos)
@@ -67,7 +73,9 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Buildspace](https://buildspace.so/)
 - [Developer DAO](https://www.developerdao.com/)
+- [Forefront](https://forefront.market/)
 - [Layer3](https://beta.layer3.xyz/)
+- [Rabbithole](https://rabbithole.gg/)
 - [Voice DAO](https://www.voicedao.fun/)
 
 ## Finding Work
@@ -79,7 +87,9 @@ This list is intended as a public good open source project, and as such contribu
 ### Bounties
 
 - [Dework](https://dework.xyz/)
-- 
+- [Wonderverse](https://www.wonderverse.xyz/)
+
+
 ### Job Boards
 
 - [Dework](https://dework.xyz/)
@@ -104,6 +114,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Hyperscale Fund](https://www.hyperscalefund.com/)
 - [Layer2DAO](https://www.layer2dao.org/#/)
 - [Meta Cartel](https://www.metacartel.org/grants)
+- [Meta Gamma Delta](https://t.co/OWOwZu9zUC)
 - [Moloch DAO](https://molochdao.com/)
 - [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as)
 - [Optimism Grants](https://gov.optimism.io/c/proposals/38)
@@ -112,6 +123,10 @@ This list is intended as a public good open source project, and as such contribu
 - [Radicle Grants](https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU)
 - [steamr](https://streamr.network/fund/)
 - [The Graph Grants](https://www.notion.so/The-Graph-Foundation-e822e66d7b614fdd899a647f5db51a68)
+
+### Incubators
+
+- [Seed Club](https://www.seedclub.xyz/)
 - [Wonderland DAO](https://www.wonderland.money/)
 
 ## Comic Books
@@ -120,8 +135,12 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Defi DAOs
 
+- [DXDAO](https://dxdao.eth.limo/)
+- [Index Coop](https://www.indexcoop.com/)
 - [Klima DAO](https://www.klimadao.finance/)
 - [Neptune DAO](https://neptunedao.xyz/)
+- [Olympus DAO](https://www.olympusdao.finance/)
+- [Popcorn Finance](https://www.popcorndao.finance/)
 - [Temple DAO](https://templedao.link/)
 - [Symmetric](https://symmetric.finance/)
 
@@ -129,14 +148,22 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Koknut Network](https://kokonut.network/)
 
+## Investment DAOs
+
+- [Meta Cartel Ventures](https://metacartel.xyz/)
+- [The LAO](https://www.thelao.io/)
+
 
 ## NFT DAOs
 
 - [Emergence DAO](https://opensea.io/Emergence_DAO_Burner_Account)
+- [Fingerprints DAO](https://fingerprintsdao.xyz/)
 - [Flamingo DAO](https://flamingodao.xyz/)
 - [Nouns DAO](https://nouns.wtf/)
 - [Paperclip DAO](https://s.mirror.xyz/QaEoyCiz2tsBBF58BN_vPulDXk3tuEKsQ4ttV9zCYvA)
 - [Shark DAO](https://sharks.wtf/)
+- [Squiggle DAO](https://www.squiggledao.com/)
+- [Tessera](https://tessera.co/)
 - [Ultra DAO](https://ultradao.org/)
 
 ## Real Estate
@@ -148,11 +175,16 @@ This list is intended as a public good open source project, and as such contribu
 - [Chainverse](https://www.chainverse.diamonds/)
 - [RnDAO](https://discord.com/invite/jKaYS2dkXq)
 - [The Science DAO](https://thesciencedao.io/)
+- [Wagmi Labs](https://wagmi.ink/)
 
 
 ## Service DAOs
 
 - [banyan DAO](https://www.banyandao.xyz/)
+- [Commons Stack](https://commonsstack.org/)
+- [Deep DAO](https://deepdao.io)
+- [Lex DAO](https://www.lexdao.coop/)
+- [Meta Factory](https://www.metafactory.ai/)
 - [Raid Guild](https://www.raidguild.org/)
 - [YAP DAO](https://www.yapdao.xyz/)
 - [WGMI](https://www.wgmi.community/)
@@ -165,6 +197,10 @@ This list is intended as a public good open source project, and as such contribu
 ## Social DAOs
 
 - [Bankless](https://www.bankless.community/)
+- [ETHDenver](https://www.ethdenver.com/)
+- [Friends With Benefits](https://www.fwb.help/)
+- [MetaGame](https://metagame.wtf/)
+
 
 ## Tools
 
@@ -189,10 +225,13 @@ This list is intended as a public good open source project, and as such contribu
 - [Colony](https://colony.io/)
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium)
 - [DAOhaus](https://daohaus.club/)
+- [DAOstack](https://daostack.io/)
 - [Metropolis](https://www.metropolis.space/)
 - [NiNDAO](https://nindao.xyz/)
 - [NnsDAO](https://nnsdao.org/)
 - [Party Bid](https://www.partybid.app/)
+- [Syndicate](https://syndicate.io/)
+- [Tribute LABS](https://tributelabs.xyz/)
 - [xDAO](https://www.xdao.app/)
 
 ### Governance Extensions
@@ -201,6 +240,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Boardroom](https://boardroom.io/)
 - [Guild Protocol](https://guildprotocol.io/)
 - [Tally](https://www.tally.xyz/)
+- [Terminal](https://www.terminal.co/)
 
 ### Identity/Reputation
 
@@ -221,6 +261,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Github](https://github.com/)
 - [Hackmd](https://hackmd.io/)
 - [Notion](https://www.notion.so/)
+- [Wonderverse](https://www.wonderverse.xyz/)
 
 ### Publishing
 
@@ -236,10 +277,13 @@ This list is intended as a public good open source project, and as such contribu
 ### Social Media
 
 - [Lenster](https://lenster.xyz/)
+- [Phaver](https://phaver.com/)
 - [Twitter](https://twitter.com)
 
 ### Sybil
- -[Proof of Humanity](https://www.proofofhumanity.org/)
+
+-[Proof of Humanity](https://www.proofofhumanity.org/)
+
 ### Voting Apps
 
 - [CultureStake](https://www.furtherfield.org/culturestake-2/)
@@ -251,13 +295,33 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Influencers
 
-- [blockchainjames](https://twitter.com/blockchainjames)
+- [Alex Masmej](https://twitter.com/AlexMasmej)
+- [ameen.eth](https://twitter.com/ameensol)
+- [andy](https://twitter.com/andy8052)
+- [Brian Flynn](https://twitter.com/Flynnjamm)
 - [Chase Chapman](https://twitter.com/chaserchapman)
+- [Cooper Turley](https://twitter.com/Cooopahtroopa)
+- [Corbin Page](https://twitter.com/corbpage)
 - [David Hoffman](https://twitter.com/TrustlessState)
+- [Daniele never asks to DM](https://twitter.com/danielesesta)
+- [drnick](https://twitter.com/DrNickA)
+- [James Waugh](https://twitter.com/blockchainjames)
+- [Jess](https://twitter.com/thattallguy)
+- [Keith Axline](https://twitter.com/kaxline)
+- [Metadreamer.ETH](https://twitter.com/META_DREAMER)
+- [Michael Kisselgof](https://twitter.com/SerKisselgof)
+- [ohmzeus](https://twitter.com/ohmzeus)
+- [pet3rpan](https://twitter.com/pet3rpan_)
+- [punk4156](https://twitter.com/punk4156)
+- [rafa0](https://twitter.com/rafathebuilder)
+- [Samantha Marin](https://twitter.com/samanthajmarin)
 - [Stani Kulechov](https://twitter.com/StaniKulechov)
-- 
+- [Stephen Reid](https://twitter.com/lunarpunk_0x)
+- [Spencer Graham](https://twitter.com/spengrah)
 
-### Lists To Follow
+### Lists
+
+### Spaces
 
 
 
