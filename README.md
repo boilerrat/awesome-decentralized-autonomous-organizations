@@ -48,6 +48,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
 - [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
 - [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
+- [Intellectual Property](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
 - [Newsletters](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#newletters)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
@@ -56,7 +57,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Publishing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#publishing)
 - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
 - [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
-- [Research-Science DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science-daos)
+- [Research-Science](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science)
 - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#scheduling)
 - [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
 - [Smart Contracts and Development](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#smart-contracts-and-development)
@@ -274,6 +275,10 @@ This list is intended as a public good open source project, and as such contribu
 - [Nexus Mutual](https://nexusmutual.io/)
 - [Unslashed](https://unslashed.finance/)
 
+## Intellectual Property
+
+- [Ultra DAO](https://ultradao.org/)
+
 ## Investment DAOs
 
 - [Global Coin Research](https://globalcoinresearch.com/)
@@ -347,8 +352,9 @@ This list is intended as a public good open source project, and as such contribu
 - [Cabin DAO](https://www.creatorcabins.com/)
 - [City DAO](https://www.citydao.io/)
 
-## Research-Science DAOs
+## Research-Science
 
+- [Algovera](https://www.algovera.ai/)
 - [Chainverse](https://www.chainverse.diamonds/)
 - [daostar](https://daostar.org/)
 - [Genomes DAO](https://genomes.io/)
@@ -399,6 +405,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Apecoin](https://apecoin.com/)
 - [Bankless](https://www.bankless.community/)
+- [Boys Club](https://boysclub.vip/newsletter)
 - [ETHDenver](https://www.ethdenver.com/)
 - [Friends With Benefits](https://www.fwb.help/)
 - [MetaGame](https://metagame.wtf/)
@@ -425,6 +432,7 @@ This list is intended as a public good open source project, and as such contribu
 - [coinshift](https://coinshift.xyz/)
 - [enzyme](https://enzyme.finance/)
 - [Gnosis Safe](https://gnosis-safe.io/)
+- [Hedgey](https://hedgey.finance/)
 - [llama](https://llama.xyz/)
 - [multis](https://multis.co/)
 - [parcel](https://parcel.money/)
