@@ -175,8 +175,8 @@ This list is intended as a public good open source project, and as such contribu
 - [Chainverse](https://www.chainverse.diamonds/)
 - [RnDAO](https://discord.com/invite/jKaYS2dkXq)
 - [The Science DAO](https://thesciencedao.io/)
+- [Vita DAO](https://www.vitadao.com/)
 - [Wagmi Labs](https://wagmi.ink/)
-
 
 ## Service DAOs
 
@@ -186,6 +186,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Lex DAO](https://www.lexdao.coop/)
 - [Meta Factory](https://www.metafactory.ai/)
 - [Raid Guild](https://www.raidguild.org/)
+- [Surge](https://www.surgewomen.io/)
 - [YAP DAO](https://www.yapdao.xyz/)
 - [WGMI](https://www.wgmi.community/)
 
@@ -215,6 +216,8 @@ This list is intended as a public good open source project, and as such contribu
 - [Telegram](https://telegram.org/)
 
 #### Encrypted
+
+- [Session](https://getsession.org/)
 
 #### Bots
 
@@ -290,7 +293,8 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Sybil
 
--[Proof of Humanity](https://www.proofofhumanity.org/)
+- [BrightID]()
+- [Proof of Humanity](https://www.proofofhumanity.org/)
 
 ### Voting Apps
 
