@@ -36,6 +36,7 @@ This list is intended as a public good open source project, and as such contribu
   - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants)
   - [Incubators](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#incubators)
 - [Comic Books](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comic-books)
+- [Gaming DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#gaming-daos)
 - [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
@@ -76,7 +77,7 @@ This list is intended as a public good open source project, and as such contribu
 ## Blockchains
 
 - [Gnosis](https://gnosis.io/)
-- 
+
 
 ## Education
 
@@ -86,6 +87,12 @@ This list is intended as a public good open source project, and as such contribu
 - [Layer3](https://beta.layer3.xyz/)
 - [Rabbithole](https://rabbithole.gg/)
 - [Voice DAO](https://www.voicedao.fun/)
+
+## Events
+
+- [EthDenver](https://www.ethdenver.com/)
+- [ETHGlobal](https://ethglobal.com/)
+- [mcon](https://www.mcon.fun/)
 
 ## Finding Work
 
@@ -135,7 +142,9 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Incubators
 
+- [Robot Ventures](https://robvc.com/)
 - [Seed Club](https://www.seedclub.xyz/)
+- [Variant Fund](https://variant.fund/)
 - [Wonderland DAO](https://www.wonderland.money/)
 
 ## Comic Books
@@ -156,6 +165,10 @@ This list is intended as a public good open source project, and as such contribu
 - [Temple DAO](https://templedao.link/)
 - [Symmetric](https://symmetric.finance/)
 
+## Gaming DAOs
+
+- [Treasure DAO](https://treasure.lol/)
+
 ## Impact DAOs
 
 - [ReFi DAO](https://refidao.com/)
@@ -166,6 +179,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Global Coin Research](https://globalcoinresearch.com/)
 - [Meta Cartel Ventures](https://metacartel.xyz/)
+- [Orange DAO](https://www.orangedao.xyz/)
 - [The LAO](https://www.thelao.io/)
 
 
@@ -218,9 +232,12 @@ This list is intended as a public good open source project, and as such contribu
 - [banyan DAO](https://www.banyandao.xyz/)
 - [Commons Stack](https://commonsstack.org/)
 - [Deep DAO](https://deepdao.io)
+- [Domain DAO](http://thedomaindao.org/)
 - [Ethereum Name Service](https://ens.domains/)
+- [H.E.R. DAO](https://linktr.ee/H.E.R.DAO)
 - [Lex DAO](https://www.lexdao.coop/)
 - [Meta Factory](https://www.metafactory.ai/)
+- [Odyssey DAO](https://www.odysseydao.com/)
 - [Raid Guild](https://www.raidguild.org/)
 - [Surge](https://www.surgewomen.io/)
 - [YAP DAO](https://www.yapdao.xyz/)
@@ -275,6 +292,7 @@ This list is intended as a public good open source project, and as such contribu
 - [DAOhaus](https://daohaus.club/)
 - [DAOstack](https://daostack.io/)
 - [jokedao](https://joke.mirror.xyz/)
+- [Kali DAO](https://www.kali.gg/)
 - [Metropolis](https://www.metropolis.space/)
 - [NiNDAO](https://nindao.xyz/)
 - [NnsDAO](https://nnsdao.org/)
@@ -295,6 +313,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Boardroom](https://boardroom.io/)
 - [Governor DAO](https://governordao.org/)
 - [Govrn](https://linktr.ee/Govrn)
+- [Guild](https://guild.xyz/)
 - [Guild Protocol](https://guildprotocol.io/)
 - [Tally](https://www.tally.xyz/)
 - [Terminal](https://www.terminal.co/)
@@ -303,6 +322,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Hats](https://mobile.twitter.com/hatsprotocol)
 - [Lens Protocol](https://lens.xyz/)
+- [Orange Protocol](https://www.orangeprotocol.io/)
 - [Sourcecred](https://sourcecred.io/)
 
 ### Payroll
@@ -388,6 +408,9 @@ This list is intended as a public good open source project, and as such contribu
 - [Yalor Mewn](https://twitter.com/YalorMewn)
 
 ### Lists
+
+- [Boilerrat's DAO List](https://twitter.com/i/lists/1421301149777514497)
+- [DAOs to keep an 👁 on](https://twitter.com/i/lists/1467034519807016960)
 
 ### Spaces
 
