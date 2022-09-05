@@ -95,7 +95,14 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Blockchains
 
+- [Arbitrum](https://portal.arbitrum.one/)
+- [Celo](https://celo.org/)
+- [Ethereum](https://ethereum.org/en/)
 - [Gnosis](https://gnosis.io/)
+- [Gorli](https://goerli.net/)
+- [Optimism](https://www.optimism.io/)
+- [Polygon](https://polygon.technology/)
+- [Solana](https://solana.com/)
 
 ## Comics
 
