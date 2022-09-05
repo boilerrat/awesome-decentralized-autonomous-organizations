@@ -218,9 +218,14 @@ This list is intended as a public good open source project, and as such contribu
 
 #### Bots
 
-- [Carl-bot]
+- [Carl-bot](https://carl.gg/)
+- [Collab.Land](https://collab.land/)
+- [Double Counter](https://dcounter.space/)
 - [Dyno](https://dyno.gg/)
+- [mee6](https://mee6.xyz/)
 - [Sesh](https://sesh.fyi/)
+- [tip.cc](https://tip.cc/)
+- [Wick](https://wickbot.com/)
 
 ### DAO Creation
 
