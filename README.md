@@ -26,6 +26,7 @@ This list is intended as a public good open source project, and as such contribu
 ## Contents
 
 - [Articles](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#articles)
+- [Blockchains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains)
 - [Education](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#education) 
 - [Finding Work](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#finding-work)
   - [Bounties](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bounties)
@@ -50,6 +51,7 @@ This list is intended as a public good open source project, and as such contribu
       - [Encrypted](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#encrypted)  
     - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
   - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
+  - [Decentralized Storage](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#decentralized-storage)
   - [Governance Exentsions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
   - [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
   - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
@@ -58,6 +60,7 @@ This list is intended as a public good open source project, and as such contribu
   - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
   - [Social Media](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-media)
   - [Sybil](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sybil)
+  - [Treasury](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#trasury)
   - [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
 - [Twitter](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter) 
   - [Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#influencers)
@@ -68,6 +71,11 @@ This list is intended as a public good open source project, and as such contribu
 ## Articles
 
 - [Evolutionary Organizations](https://orca.mirror.xyz/Kx2hWV3tr1crlBHy2WBTBdR6Dup76AKHKbpbSzYW2kw)
+
+## Blockchains
+
+- [Gnosis](https://gnosis.io/)
+- 
 
 ## Education
 
@@ -131,6 +139,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Comic Books
 
+- [Comics DAO](https://juicebox.money/v2/p/31)
 - [Hero DAO](https://herodao.org/)
 
 ## Defi DAOs
@@ -150,15 +159,19 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Investment DAOs
 
+- [Global Coin Research](https://globalcoinresearch.com/)
 - [Meta Cartel Ventures](https://metacartel.xyz/)
 - [The LAO](https://www.thelao.io/)
 
 
 ## NFT DAOs
 
+- [Bright Moments](https://www.brightmoments.io/)
+- [Doodles](https://doodles.app/)
 - [Emergence DAO](https://opensea.io/Emergence_DAO_Burner_Account)
 - [Fingerprints DAO](https://fingerprintsdao.xyz/)
 - [Flamingo DAO](https://flamingodao.xyz/)
+- [Lil Nouns](https://lilnouns.wtf/)
 - [Nouns DAO](https://nouns.wtf/)
 - [Paperclip DAO](https://s.mirror.xyz/QaEoyCiz2tsBBF58BN_vPulDXk3tuEKsQ4ttV9zCYvA)
 - [Shark DAO](https://sharks.wtf/)
@@ -168,11 +181,14 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Real Estate
 
+- [Cabin DAO](https://www.creatorcabins.com/)
 - [City DAO](https://www.citydao.io/)
 
 ## Research-Science DAOs
 
 - [Chainverse](https://www.chainverse.diamonds/)
+- [Genomes DAO](https://genomes.io/)
+- [Global Coin Research](https://globalcoinresearch.com/)
 - [RnDAO](https://discord.com/invite/jKaYS2dkXq)
 - [The Science DAO](https://thesciencedao.io/)
 - [Vita DAO](https://www.vitadao.com/)
@@ -183,6 +199,7 @@ This list is intended as a public good open source project, and as such contribu
 - [banyan DAO](https://www.banyandao.xyz/)
 - [Commons Stack](https://commonsstack.org/)
 - [Deep DAO](https://deepdao.io)
+- [Ethereum Name Service](https://ens.domains/)
 - [Lex DAO](https://www.lexdao.coop/)
 - [Meta Factory](https://www.metafactory.ai/)
 - [Raid Guild](https://www.raidguild.org/)
@@ -197,6 +214,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Social DAOs
 
+- [Apecoin](https://apecoin.com/)
 - [Bankless](https://www.bankless.community/)
 - [ETHDenver](https://www.ethdenver.com/)
 - [Friends With Benefits](https://www.fwb.help/)
@@ -245,6 +263,11 @@ This list is intended as a public good open source project, and as such contribu
 - [Tribute LABS](https://tributelabs.xyz/)
 - [xDAO](https://www.xdao.app/)
 
+### Decentralized Storage
+
+- [arweave](https://www.arweave.org/)
+- [IPFS](https://ipfs.tech/)
+
 ### Governance Extensions
 
 - [AUT](https://aut.id/)
@@ -272,13 +295,13 @@ This list is intended as a public good open source project, and as such contribu
 - [Github](https://github.com/)
 - [Hackmd](https://hackmd.io/)
 - [Notion](https://www.notion.so/)
+- [Radicle](https://radicle.xyz/)
 - [Wonderverse](https://www.wonderverse.xyz/)
 
 ### Publishing
 
  - [Mirror](https://mirror.xyz/)
  - [Paragraph](https://paragraph.xyz/notes)
- - 
 
 ### Schedluing
 
@@ -293,8 +316,13 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Sybil
 
-- [BrightID]()
+- [BrightID](https://www.brightid.org/)
+- [Governor]
 - [Proof of Humanity](https://www.proofofhumanity.org/)
+
+### Treasury
+
+- [Gnosis Safe](https://gnosis-safe.io/)
 
 ### Voting Apps
 
