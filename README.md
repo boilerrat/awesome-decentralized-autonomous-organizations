@@ -255,6 +255,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium)
 - [DAOhaus](https://daohaus.club/)
 - [DAOstack](https://daostack.io/)
+- [jokedao](https://joke.mirror.xyz/)
 - [Metropolis](https://www.metropolis.space/)
 - [NiNDAO](https://nindao.xyz/)
 - [NnsDAO](https://nnsdao.org/)
@@ -272,6 +273,8 @@ This list is intended as a public good open source project, and as such contribu
 
 - [AUT](https://aut.id/)
 - [Boardroom](https://boardroom.io/)
+- [Governor DAO](https://governordao.org/)
+- [Govrn](https://linktr.ee/Govrn)
 - [Guild Protocol](https://guildprotocol.io/)
 - [Tally](https://www.tally.xyz/)
 - [Terminal](https://www.terminal.co/)
@@ -317,7 +320,7 @@ This list is intended as a public good open source project, and as such contribu
 ### Sybil
 
 - [BrightID](https://www.brightid.org/)
-- [Governor]
+- [Governor](https://onlyoneme.governordao.org/)
 - [Proof of Humanity](https://www.proofofhumanity.org/)
 
 ### Treasury
