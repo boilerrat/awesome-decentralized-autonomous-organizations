@@ -96,19 +96,19 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Bots
 
-- [Carl-bot](https://carl.gg/)
-- [Collab.Land](https://collab.land/)
-- [Double Counter](https://dcounter.space/)
-- [Dyno](https://dyno.gg/)
-- [mee6](https://mee6.xyz/)
-- [Sesh](https://sesh.fyi/)
-- [tip.cc](https://tip.cc/)
-- [Wick](https://wickbot.com/)
+- [Carl-bot](https://carl.gg/) - General Server Management
+- [Collab.Land](https://collab.land/) - Tokenized Community Management
+- [Double Counter](https://dcounter.space/) Discord Alt Blocker
+- [Dyno](https://dyno.gg/) - General Server Management
+- [mee6](https://mee6.xyz/) - General Server Management
+- [Sesh](https://sesh.fyi/) - Calender and Events Discord Bot
+- [tip.cc](https://tip.cc/) - Send and Receive crypto tips
+- [Wick](https://wickbot.com/) - Discord security and moderation
 
 ## Comics
 
-- [Comics DAO](https://juicebox.money/v2/p/31)
-- [Hero DAO](https://herodao.org/)
+- [Comics DAO](https://juicebox.money/v2/p/31) - Partial Ownership of high value Comics
+- [Hero DAO](https://herodao.org/) - focused on rebooting comic book heroes who have fallen into the public domain, and building a community owned franchise
 
 ## Communication Apps
 
