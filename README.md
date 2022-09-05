@@ -1,5 +1,8 @@
 # awesome-decentralized-autonomous-organizations
 
+[![hackmd-github-sync-badge](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ/badge)](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ)
+
+
 ```
    ____ ___       ___ _____  _____   ____   __    __  _____   ______    ____    ____    
   (    (  (       )  / ___/ / ____\ / __ \  \ \  / / / ___/  (_  __ \  (    )  / __ \   
@@ -25,8 +28,11 @@ This list is intended as a public good open source project, and as such contribu
   - [Job Boards](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#job-boards)
 - [Funding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#funding)
   - [Crowdfunding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#crowdfunding)
-  compund- [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants) 
+  - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants)
+- [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
+- [Research-Science DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science-daos)
 - [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
+- [Sports DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sports-daos)
 - [Tools](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#tools)
   - [Communication](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#communication)
     - [Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#apps)
@@ -47,9 +53,11 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Articles
 
+- [Evolutionary Organizations](https://orca.mirror.xyz/Kx2hWV3tr1crlBHy2WBTBdR6Dup76AKHKbpbSzYW2kw)
 
 ## Education
 
+- [Developer DAO](https://www.developerdao.com/)
 - [Voice DAO](https://www.voicedao.fun/)
 
 ## Finding Work
@@ -82,6 +90,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Giveth](https://giveth.io/)
 - [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736)
 - [Hyperscale Fund](https://www.hyperscalefund.com/)
+- [Layer2DAO](https://www.layer2dao.org/#/)
 - [Meta Cartel](https://www.metacartel.org/grants)
 - [Moloch DAO](https://molochdao.com/)
 - [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as)
@@ -92,11 +101,29 @@ This list is intended as a public good open source project, and as such contribu
 - [steamr](https://streamr.network/fund/)
 - [The Graph Grants](https://www.notion.so/The-Graph-Foundation-e822e66d7b614fdd899a647f5db51a68)
 
+## NFT DAOs
+
+- [Flamingo DAO](https://flamingodao.xyz/)
+- [Nouns DAO](https://nouns.wtf/)
+- 
+
+## Research-Science DAOs
+
+- [RnDAO](https://discord.com/invite/jKaYS2dkXq)
+- [The Science DAO](https://thesciencedao.io/)
+
 
 ## Service DAOs
 
+- [banyan DAO](https://www.banyandao.xyz/)
 - [Raid Guild](https://www.raidguild.org/)
 - [YAP DAO](https://www.yapdao.xyz/)
+- [WGMI](https://www.wgmi.community/)
+
+
+## Sports DAOs
+
+- [Links DAO](https://linksdao.io/)
 
 ## Tools
 
@@ -122,18 +149,20 @@ This list is intended as a public good open source project, and as such contribu
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium)
 - [DAOhaus](https://daohaus.club/)
 - [Metropolis](https://www.metropolis.space/)
+- [NiNDAO](https://nindao.xyz/)
 - [xDAO](https://www.xdao.app/)
 
 ### Governance Extensions
 
 - [AUT](https://aut.id/)
 - [Boardroom](https://boardroom.io/)
+- [Guild Protocol](https://guildprotocol.io/)
 - [Tally](https://www.tally.xyz/)
 
 ### Identity/Reputation
 
 - [Hats](https://mobile.twitter.com/hatsprotocol)
-- [Lens](https://lens.xyz/)
+- [Lens Protocol](https://lens.xyz/)
 - [Sourcecred](https://sourcecred.io/)
 
 ### Payroll
@@ -155,9 +184,20 @@ This list is intended as a public good open source project, and as such contribu
 - [Calendy](https://calendly.com/)
 - [lettucemeet](https://lettucemeet.com/)
 
+### Social Media
+
+- [Lenster](https://lenster.xyz/)
+- [Twitter](https://twitter.com)
+
 ## Twitter
 
 ### Influencers
+
+- [blockchainjames](https://twitter.com/blockchainjames)
+- [Chase Chapman](https://twitter.com/chaserchapman)
+- [David Hoffman](https://twitter.com/TrustlessState)
+- [Stani Kulechov](https://twitter.com/StaniKulechov)
+- 
 
 ### Lists To Follow
 
