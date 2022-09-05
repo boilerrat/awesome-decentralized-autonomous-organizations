@@ -94,6 +94,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Developer DAO](https://www.developerdao.com/)
 - [Forefront](https://forefront.market/)
 - [Layer3](https://beta.layer3.xyz/)
+- [Quest Chains](https://questchains.xyz/)
 - [Rabbithole](https://rabbithole.gg/)
 - [Voice DAO](https://www.voicedao.fun/)
 
@@ -112,6 +113,7 @@ This list is intended as a public good open source project, and as such contribu
 ### Bounties
 
 - [Dework](https://dework.xyz/)
+- [Tacit](https://www.tacit.so/)
 - [Wonderverse](https://www.wonderverse.xyz/)
 
 
@@ -239,6 +241,7 @@ This list is intended as a public good open source project, and as such contribu
 ## Research-Science DAOs
 
 - [Chainverse](https://www.chainverse.diamonds/)
+- [daostar](https://daostar.org/)
 - [Genomes DAO](https://genomes.io/)
 - [Global Coin Research](https://globalcoinresearch.com/)
 - [rLoop](https://www.rloop.org/)
@@ -265,6 +268,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Surge](https://www.surgewomen.io/)
 - [The DAOist](https://www.thedaoist.co/)
 - [YAP DAO](https://www.yapdao.xyz/)
+- [Wildfire DAO](https://twitter.com/Wildfire_DAO)
 - [WGMI](https://www.wgmi.community/)
 
 ## Sports DAOs
@@ -291,6 +295,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Discord](https://discord.com/)
 - [Discourse](https://www.discourse.org/)
+- [Syndicate](https://syndicat.es/)
 - [Telegram](https://telegram.org/)
 
 #### Encrypted
@@ -335,6 +340,7 @@ This list is intended as a public good open source project, and as such contribu
 - [arweave](https://www.arweave.org/)
 - [ceramic](https://ceramic.network/)
 - [IPFS](https://ipfs.tech/)
+- [Lit Protocol](https://litprotocol.com/)
 
 ### Governance Extensions
 
@@ -348,6 +354,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Kleros](https://kleros.io/)
 - [llama](https://llama.xyz/)
 - [SafeSnap](https://docs.snapshot.org/plugins/safesnap)
+- [Sobol](https://sobol.io/)
 - [Swae](https://swae.io/)
 - [Tally](https://www.tally.xyz/)
 - [Terminal](https://www.terminal.co/)
@@ -357,13 +364,17 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Hats](https://mobile.twitter.com/hatsprotocol)
 - [IDX](https://idx.xyz/)
+- [Karma](https://www.showkarma.xyz/)
 - [Lens Protocol](https://lens.xyz/)
 - [Orange Protocol](https://www.orangeprotocol.io/)
 - [poap](https://app.poap.xyz/)
 - [Sourcecred](https://sourcecred.io/)
+- [WallID](https://wallid.io/)
+
 
 ### Payroll
 
+- [Bulla Network](https://bulla.network/)
 - [Coordinape](https://coordinape.com/)
 - [disperse](https://disperse.app/)
 - [Opolis](https://opolis.co/)
@@ -378,6 +389,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Chamverse](https://www.charmverse.io/)
 - [Github](https://github.com/)
 - [Hackmd](https://hackmd.io/)
+- [Nestr](https://nestr.io/)
 - [Notion](https://www.notion.so/)
 - [Radicle](https://radicle.xyz/)
 - [Wonderverse](https://www.wonderverse.xyz/)
@@ -386,6 +398,7 @@ This list is intended as a public good open source project, and as such contribu
 
  - [Mirror](https://mirror.xyz/)
  - [Paragraph](https://paragraph.xyz/notes)
+ - [WIPP](https://wippublishing.com/)
 
 ### Schedluing
 
@@ -443,11 +456,13 @@ This list is intended as a public good open source project, and as such contribu
 - [Chase Chapman](https://twitter.com/chaserchapman)
 - [Cooper Turley](https://twitter.com/Cooopahtroopa)
 - [Corbin Page](https://twitter.com/corbpage)
-- [David Hoffman](https://twitter.com/TrustlessState)
 - [Daniele never asks to DM](https://twitter.com/danielesesta)
+- [David Hoffman](https://twitter.com/TrustlessState)
+- [David Phelps](https://twitter.com/divine_economy)
 - [Dekan Brown](https://twitter.com/DekanBro)
 - [drnick](https://twitter.com/DrNickA)
 - [Elco is a DAOist](https://twitter.com/duartedao)
+- [Humpty](https://twitter.com/humptycalderon)
 - [James Waugh](https://twitter.com/blockchainjames)
 - [Jess](https://twitter.com/thattallguy)
 - [Keith Axline](https://twitter.com/kaxline)
@@ -463,6 +478,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Stani Kulechov](https://twitter.com/StaniKulechov)
 - [Stephen Reid](https://twitter.com/lunarpunk_0x)
 - [Spencer Graham](https://twitter.com/spengrah)
+- [vengist.eth](https://twitter.com/0xd2_eth)
 - [Yalor Mewn](https://twitter.com/YalorMewn)
 
 ### Lists
