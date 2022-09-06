@@ -143,29 +143,29 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Data Access 
 
-- [Lit Protocol](https://litprotocol.com/)
+- [Lit Protocol](https://litprotocol.com/) - an open-source decentralized utility platform that uses encryption designed to provide blockchain users access to digital and real-world experiences. It enables the formation of locked NFTs that can only be unlocked by the owners of those NFTs.
 
 ## Data Storage
 
-- [arweave](https://www.arweave.org/)
-- [ceramic](https://ceramic.network/)
-- [IPFS](https://ipfs.tech/)
+- [arweave](https://www.arweave.org/) - a Decentralized Storage Network (DSN) that connects people who have extra available computer disk space with those who need more computer storage
+- [ceramic](https://ceramic.network/) - a permissionless protocol for creating and accessing mutable, tamper-proof documents that serve as the foundation for a web without silos. Ceramic's infrastructure provides a verifiable, censorship-resistant source of truth for important information that is public and interoperable.
+- [IPFS](https://ipfs.tech/) - a protocol, hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts.
 
 
 ## Defi DAOs
 
-- [DXDAO](https://dxdao.eth.limo/)
-- [Index Coop](https://www.indexcoop.com/)
-- [Klima DAO](https://www.klimadao.finance/)
-- [Mycelium](https://mycelium.xyz/)
-- [Neptune DAO](https://neptunedao.xyz/)
-- [Olympus DAO](https://www.olympusdao.finance/)
-- [Pool Together](https://pooltogether.com/)
-- [Popcorn Finance](https://www.popcorndao.finance/)
-- [Temple DAO](https://templedao.link/)
-- [Shapeshift](https://shapeshift.com/)
-- [SOLV Protocol](https://solv.finance/home)
-- [Symmetric](https://symmetric.finance/)
+- [DXDAO](https://dxdao.eth.limo/) - develops, governs, and grows DeFi protocols and products, owned and operated by the community
+- [Index Coop](https://www.indexcoop.com/) - a collective aimed at creating and maintaining the best crypto indices on the market
+- [Klima DAO](https://www.klimadao.finance/) - is a Decentralized Autonomous Organization to drive climate action and fulfill our manifesto, via our carbon-backed, algorithmic currency- the KLIMA token.
+- [Mycelium](https://mycelium.xyz/) -  We build financial market infrastructure on public blockchains that is open, transparent, and accessible to all
+- [Neptune DAO](https://neptunedao.xyz/) - a limited liability company to be compliant with laws and regulations. Paying members of the DAO pool their capital into projects chosen by the group and provide liquidity to those projects in an attempt to generate returns.
+- [Olympus DAO](https://www.olympusdao.finance/) -  a community-owned, decentralized and censorship-resistant reserve currency that is deeply liquid, asset-backed, and used widely
+- [Pool Together](https://pooltogether.com/) - a crypto-powered savings protocol based on Premium Bonds
+- [Popcorn Finance](https://www.popcorndao.finance/) -  a DAO-led protocol set to leverage Web3 DeFi to improve the real-world situation in the fields of Environment, Open-Source and Education
+- [Temple DAO](https://templedao.link/) - a virtual currency that aims to provide DeFi users an accessible medium between stablecoins and high-volatility tokens. TEMPLE is a low-volatility, fractionally backed, and yield-bearing token.
+- [Shapeshift](https://shapeshift.com/) -  A free open source platform to trade, track, buy, and earn. Community-owned. Private. Non-custodial. Multi-chain
+- [SOLV Protocol](https://solv.finance/home) - the decentralized platform for creating, managing, and trading Financial NFTs
+- [Symmetric](https://symmetric.finance/) - Symmetric is an Automated Market Maker (AMM) and a Decentralized Exchange (DEX), running on the Celo and xDai networks.
 
 
 ## Education
