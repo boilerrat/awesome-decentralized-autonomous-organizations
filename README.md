@@ -170,36 +170,36 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Education
 
-- [Buildspace](https://buildspace.so/)
-- [Developer DAO](https://www.developerdao.com/)
-- [Forefront](https://forefront.market/)
-- [Layer3](https://beta.layer3.xyz/)
-- [Quest Chains](https://questchains.xyz/)
-- [Rabbithole](https://rabbithole.gg/)
-- [Voice DAO](https://www.voicedao.fun/)
+- [Buildspace](https://buildspace.so/) - Buildspace accelerates your builder journey into web3. Whether you're just starting out, a seasoned vet transitioning from web2, or thinking of building something cool, you have a home with us. Join 60k+ incredible builders doing just that.
+- [Developer DAO](https://www.developerdao.com/) - a community of thousands of web3 builders creating a better internet.
+- [Forefront](https://forefront.market/) - the launchpad empowering web3 explorers to create at the frontier of tokenized communities. We strive to empower and serve the Web3 world-builders of tomorrow via 1) literacy, 2) tribe and 3) tools.
+- [Quest Chains](https://questchains.xyz/) - a gamified learning & onboarding platform. The platform enables both creation and completion of quest chains, which is a gamified equivalent of courses.
+- [Rabbithole](https://rabbithole.gg/) - Complete tasks, learn skills, and earn credentials that prove your knowledge. 
+- [Voice DAO](https://www.voicedao.fun/) - We help non-techies Onboard into the Web3 space
 
 ## Events
 
-- [EthDenver](https://www.ethdenver.com/)
-- [ETHGlobal](https://ethglobal.com/)
-- [mcon](https://www.mcon.fun/)
+- [EthDenver](https://www.ethdenver.com/) - ETHDenver is a member-owned Community Innovation Festival
+- [ETHGlobal](https://ethglobal.com/) - Hackathons teach new skills, strengthen developer communities, and push the limits of new technologies
+- [mcon](https://www.mcon.fun/) - MCON gives you an experience of valuable conversations, learnings and experimental growth
 
 ## Finding Work
 
-- [Angel List](https://angel.co/)
-- [Opolis](https://opolis.co/)
+- [Angel List](https://angel.co/) - AngelList is a platform for startups
+- [Opolis](https://opolis.co/) - A Member-Owned Employment Cooperative.
 - [Voice DAO](https://www.voicedao.fun/)
 
 ### Bounties
 
-- [Dework](https://dework.xyz/)
-- [Tacit](https://www.tacit.so/)
-- [Wonderverse](https://www.wonderverse.xyz/)
+- [Dework](https://dework.xyz/) - Web3-native project management with token payments, credentialing, bounties · ✓ Manage tasks and bounties · Find the right contributors · Built-in bounties
+- [Layer3](https://beta.layer3.xyz/) - a platform that enables anyone to contribute to web3, from anywhere in the world. DAOs and decentralized communities upload tasks in the form of Bounties, Contests, and Projects on our platform, while users explore communities & complete tasks to be rewarded in crypto.
+- [Tacit](https://www.tacit.so/) - On-chain referrals for web3 communities. Broadcast tasks* to your web3 community and reward them with tokens
+- [Wonderverse](https://www.wonderverse.xyz/) - an all-in-one tool that aims to increase global accessibility to entrepreneurship and empower DAOs to launch and scale projects on a native web3 platform.
 
 
 ### Job Boards
 
-- [Dework](https://dework.xyz/)
+- [Dework](https://dework.xyz/) - Web3-native project management with token payments, credentialing, bounties · ✓ Manage tasks and bounties · Find the right contributors · Built-in bounties
 
 ## Funding
 
