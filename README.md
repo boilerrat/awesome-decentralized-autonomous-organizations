@@ -136,6 +136,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Adam](https://alpha.adamdao.io/) - a platform for communities to unleash their values with no-code DAO creation within minutes
 - [Aragon](https://aragon.org/) - Aragon is an open-source software used to maintain and create decentralized autonomous organizations (DAOs) on the Ethereum blockchain
+- [Astro DAO](https://astrodao.com/) - Astro is home to hundreds of Decentralized Autonomous Organizations on NEAR Protocol. Start earning by contributing your skills or supercharge your own community with the power of web3
 - [Colony](https://colony.io/) - Colony makes it easy for people all over the world to build organizations together, online.
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium) - Application developers can build their own custom workflows and interfaces to facilitate the participation of their users and communities in Compound governance. 
 - [DAOhaus](https://daohaus.club/) - a no-code platform for launching and operating DAOs, which uses the Moloch open source code. It includes functionality to: Launch, vote on, and process proposals.
@@ -144,6 +145,7 @@ This list is intended as a public good open source project, and as such contribu
 - [jokedao](https://joke.mirror.xyz/) - JokeDAO is an open-source, collaborative decision-making platform
 - [Kali DAO](https://www.kali.gg/) - DAOs are what you make of decentralized infra Launch a tokenized LLC and issue equity on KALI in minutes
 - [Metropolis](https://www.metropolis.space/) - (formerly Orca Protocol) enables DAOs to implement pods. Pods give users a clean and easy-to-use UI to create and approve proposals within a small working group and allow DAOs to create organizational structure
+- [Myco](https://www.myco.space/) - Myco makes it easy to earn money with friends by helping you assemble, collaborate, and launch social networks together.
 - [NiNDAO](https://nindao.xyz/) - NinDAO is a cyborg-ninja programmed with a future-funk nindō: to build infrastructures for communities as they happen
 - [NnsDAO](https://nnsdao.org/) - NnsDAO is simply a borderless autonomous organization that provides some basic modular programmable services for building the world of DAOn
 - [Party Bid](https://www.partybid.app/) - PartyBid is the protocol for buying NFTs as a team. Start a party on any NFT, contribute ETH with others and win together.
@@ -159,6 +161,7 @@ This list is intended as a public good open source project, and as such contribu
 ## Data Access 
 
 - [Lit Protocol](https://litprotocol.com/) - an open-source decentralized utility platform that uses encryption designed to provide blockchain users access to digital and real-world experiences. It enables the formation of locked NFTs that can only be unlocked by the owners of those NFTs.
+- [Unlock Protocol](https://unlock-protocol.com/) - Token-gating, memberships, ticketing, and more
 
 ## Data Storage
 
@@ -335,15 +338,16 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Payroll
 
-- [Bulla Network](https://bulla.network/)
-- [Coordinape](https://coordinape.com/)
-- [disperse](https://disperse.app/)
-- [Opolis](https://opolis.co/)
-- [parcel](https://parcel.money/)
-- [Request](https://request.network/en/)
-- [Sablier](https://sablier.finance/)
-- [Superfluid](https://www.superfluid.finance/)
-- [Utopia](https://www.utopialabs.com/)
+- [Bulla Network](https://bulla.network/) - an on-chain credit protocol that helps unlock crypto commerce, allowing users to create and pay invoices in an entirely decentralized way.
+- [Coordinape](https://coordinape.com/) - Coordinape is a platform for web3 DAOs to quickly and fairly distribute resources to contributors. Quickly onboard contributors to your crypto organization
+- [disperse](https://disperse.app/) -disperse lets you easily distribute ETH or other tokens to multiple addresses with lower gas fees
+- [Opolis](https://opolis.co/) -  A Member-Owned Employment Cooperative
+- [parcel](https://parcel.money/) - Optimised payroll for a growing DAO contributor base
+- [Request](https://request.network/en/) - From simple peer-to-peer payment requests to full business invoices. Request helps you to pay and get paid in crypto fast, simple & secure.
+- [Sablier](https://sablier.finance/) -  a protocol for real-time finance built on the Ethereum blockchain which allows you to create money streams
+- [Smart Invoice](https://smartinvoice.xyz/) - Smart Invoice enables clients and service providers to transact with fewer intermediaries.
+- [Superfluid](https://www.superfluid.finance/) - the leading asset streaming protocol that enables Web3 native subscriptions, salaries and rewards for DAOs and crypto-native businesses. It can be used to describe cash flows and execute them automatically on-chain over time in a non-interactive way.
+- [Utopia](https://www.utopialabs.com/) - streamlining management of contributor payments is a game changer for any team in the Web3 space! Unify Accounting
 
 ## Podcasts
 
@@ -359,13 +363,14 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Project Management
 
-- [Chamverse](https://www.charmverse.io/)
-- [Github](https://github.com/)
-- [Hackmd](https://hackmd.io/)
-- [Nestr](https://nestr.io/)
-- [Notion](https://www.notion.so/)
-- [Radicle](https://radicle.xyz/)
-- [Wonderverse](https://www.wonderverse.xyz/)
+- [bip](https://bip.so/) - Workspace for your project with discord based access management and git like version control
+- [Chamverse](https://www.charmverse.io/) - Web3 Operations Platform - tasks, docs, bounties & votes.
+- [Github](https://github.com/) - GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories
+- [Hackmd](https://hackmd.io/) - HackMD is a real-time, multi-platform collaborative Markdown editor. You can use HackMD to write notes with other people on your computer, tablet, or phone.
+- [Nestr](https://nestr.io/) - Nestr lets you collaborate with your colleagues, friends & family. Simply invite them to the workspaces you would like to share and start collaborating. Request work, have discussions, hold meetings or share files, it's all there!
+- [Notion](https://www.notion.so/) - Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.
+- [Radicle](https://radicle.xyz/) - A peer-to-peer stack for building software together
+- [Wonderverse](https://www.wonderverse.xyz/) - an all-in-one tool that aims to increase global accessibility to entrepreneurship and empower DAOs to launch and scale projects on a native web3 platform.
 
 ## Publishing
 
