@@ -123,6 +123,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## DAO Aggregators
 
+- [DAO Central](https://daocentral.com/) - Find and learn about DAOs
 - [DAO Masters](https://www.daomasters.xyz/) - Explore the tools to launch, manage, and grow a DAO
 - [DAO Wow](https://daowow.app/search) - a search engine that allows you to search for DAOs and proposals.
 - [The List of DAOs](https://www.decentra-list.com/list-of-daos) - A simple website to search 4 Decentralized Autonomous Organizations (DAOs).
@@ -229,37 +230,37 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Grants
 
-- [Alchemy WAGBI Grants](https://www.alchemy.com/developer-grant-program)
-- [Bit DAO](https://www.bitdao.io/)
-- [clr.fund](https://clr.fund/#)
-- [Cult DAO](https://cultdao.io/)
-- [Ethereum Foundation](https://ethereum.org/en/community/grants/)
-- [Gitcoin](https://gitcoin.co/)
-- [Giveth](https://giveth.io/)
-- [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736)
-- [Hyperscale Fund](https://www.hyperscalefund.com/)
-- [Layer2DAO](https://www.layer2dao.org/#/)
-- [Meta Cartel](https://www.metacartel.org/grants)
-- [Meta Gamma Delta](https://t.co/OWOwZu9zUC)
-- [Moloch DAO](https://molochdao.com/)
-- [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as)
-- [Optimism Grants](https://gov.optimism.io/c/proposals/38)
-- [Protocol Labs](https://protocol.ai/)
-- [Questbook](https://t.co/f7O4zCHFqc)
-- [Radicle Grants](https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU)
-- [steamr](https://streamr.network/fund/)
+- [Alchemy WAGBI Grants](https://www.alchemy.com/developer-grant-program) - Introducing WAGBI Grants (We're All Gonna Build It)! We're committing $25 million to help developers continue building DeFi protocols, NFT experiences, or any project that helps bring web3 to the world. Each project will be eligible to receive up to $50,000 in credits. 
+- [Bit DAO](https://www.bitdao.io/) - BitDAO is a collective of builders, products, and mutually beneficial ecosystems governed by $BIT token holders.
+- [clr.fund](https://clr.fund/#) - a protocol for efficiently allocating funds to public goods that benefit the Ethereum Network according to the prefences of the Ethereum Community.
+- [Cult DAO](https://cultdao.io/) - a completely decentralized funding mechanism that allows everybody to contribute novel solutions.
+- [Ethereum Foundation](https://ethereum.org/en/community/grants/) - Our mission is to do what is best for Ethereum's long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.
+- [Gitcoin](https://gitcoin.co/) - Gitcoin Grants sustain projects with Quadratic Funding
+- [Giveth](https://giveth.io/) - Giveth allows anyone to open crypto funding portals by creating projects for their for-good initiatives on our DApp
+- [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736) - The Gnosis Ecosystem Fund empowers teams to drive the global adoption of decentralized applications by leveraging the full potential of Gnosis' products and protocols.
+- [Hyperscale Fund](https://www.hyperscalefund.com/) - Tap into human potential around the world. Hyperscale is a fund that deploys ultra-fast and universally accessible capital. Projects fill out a 5-minute application and receive a crypto native investment in under a week. Crypto native investments allow us to tap into human potential around the world.
+- [Layer2DAO](https://www.layer2dao.org/#/) - Layer2DAO is an investment DAO focused on investing in the future of the Ethereum Layer2 ecosystem.
+- [Meta Cartel](https://www.metacartel.org/grants) - Non-profit grants fund focused on creation and impact; Funded mostly by individuals in the community
+- [Meta Gamma Delta](https://t.co/OWOwZu9zUC) - Meta Gamma Delta is uniquely positioned to provide grants to worthy women-led projects in Web3 and DeFi
+- [Moloch DAO](https://molochdao.com/) - MolochDAO is a grant giving Decentralized Autonomous Organization, deployed on Ethereum mainnet, to fund essential digital public goods.
+- [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as) - OpenSea Ecosystem Grants seek to empower creators, developers, and passionate community members working to enrich and expand the NFT ecosystem.
+- [Optimism Grants](https://gov.optimism.io/c/proposals/38) -  These funds will be distributed strategically by the Optimism Foundation to grow the Optimism ecosystem for the benefit of the entire Collective
+- [Protocol Labs](https://protocol.ai/) - The Protocol Labs Research Grant Program aims to both support collaborative work on problems defined by the broader research community
+- [Questbook](https://t.co/f7O4zCHFqc) - The best way to run grant and bounty programs for DAOs and foundations.
+- [Radicle Grants](https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU) - Radicle Grants: Funding Open Source to Grow Open Source
+- [steamr](https://streamr.network/fund/) - The Data Fund supports projects that further the vision of a decentralized data economy
 - [The Graph Grants](https://www.notion.so/The-Graph-Foundation-e822e66d7b614fdd899a647f5db51a68)
 
 ### Incubators
 
-- [Robot Ventures](https://robvc.com/)
-- [Seed Club](https://www.seedclub.xyz/)
-- [Variant Fund](https://variant.fund/)
-- [Wonderland DAO](https://www.wonderland.money/)
+- [Robot Ventures](https://robvc.com/) -  a (pre-)seed investor in fintech / crypto companies with big ambitions and contrarian worldviews
+- [Seed Club](https://www.seedclub.xyz/) -  a DAO that builds and invests in communities.
+- [Variant Fund](https://variant.fund/) - Variant is an early-stage fund investing in web3. We believe the next generation of the internet will transform users into owners
+- [Wonderland DAO](https://www.wonderland.money/) - A collective that is motivated to empower crypto/web 3 protocols. Our treasury deploys capital at the earliest stages of projects and uses advanced treasury management strategies to maximize capital growth.
 
 ## Gaming DAOs
 
-- [Treasure DAO](https://treasure.lol/)
+- [Treasure DAO](https://treasure.lol/) -  a decentralized network of games and communities connected through imagination, $MAGIC, and NFTs.
 
 ## Governance Extensions
 
