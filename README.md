@@ -278,15 +278,15 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Identity/Reputation
 
-- [Hats](https://mobile.twitter.com/hatsprotocol)
-- [IDX](https://idx.xyz/)
-- [Karma](https://www.showkarma.xyz/)
-- [Lens Protocol](https://lens.xyz/)
+- [Hats](https://mobile.twitter.com/hatsprotocol) - A protocol for emitting and revoking DAO role NFTs
+- [IDX](https://idx.xyz/) -  an open source multi-platform identity protocol that allows users to build up a unified digital identity and freely share their data between apps
+- [Karma](https://www.showkarma.xyz/) - Karma aggregates and curates DAO contributor activity and provides visibility to the DAOs and helps contributors showcase their work. See your reputation.
+- [Lens Protocol](https://lens.xyz/) - a decentralized and composable social graph. 
 - [Otterspace](https://www.otterspace.xyz/) - Otterspace’s non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance 
-- [Orange Protocol](https://www.orangeprotocol.io/)
-- [poap](https://app.poap.xyz/)
-- [Sourcecred](https://sourcecred.io/)
-- [WallID](https://wallid.io/)
+- [Orange Protocol](https://www.orangeprotocol.io/) - Orange is a protocol for building trustless, decentralized, and portable reputation for Web3. 
+- [poap](https://app.poap.xyz/) - POAP is an acronym for "Proof of Attendance Protocol," and NFTs are non-fungible tokens. Simply put, an NFT is a unique digital collectible.
+- [Sourcecred](https://sourcecred.io/) - A tool for communities to measure and reward value creation
+- [WallID](https://wallid.io/) - The digital wallet for ID assets ; Build an ID portfolio only you control
 
 ## Impact DAOs
 
