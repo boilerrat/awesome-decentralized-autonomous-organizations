@@ -30,6 +30,8 @@ This list is intended as a public good open source project, and as such contribu
 - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
 - [Comics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comics)
 - [Communication Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#communication-apps)
+- [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-aggregators)
+- [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-analytics)
 - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
 - [Data Access](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-access) 
 - [Data Storage](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-storage)
@@ -73,6 +75,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
 
 ---
+
 
 ## Articles
 
@@ -118,6 +121,16 @@ This list is intended as a public good open source project, and as such contribu
 - [Syndicate](https://syndicat.es/) - web3 community chat app
 - [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
 
+## DAO Aggregators
+
+- [DAO Masters](https://www.daomasters.xyz/) - Explore the tools to launch, manage, and grow a DAO
+- [DAO Wow](https://daowow.app/search) - a search engine that allows you to search for DAOs and proposals.
+- [The List of DAOs](https://www.decentra-list.com/list-of-daos) - A simple website to search 4 Decentralized Autonomous Organizations (DAOs).
+
+## DAO Analytics
+
+- [Barracuda](https://barracuda.io/) - Cuda helps you share your official links, integrate your favorite web3 tools, drive traffic, track clicks, and grow your community.
+- [Dune Analytics](https://dune.com/browse/dashboards) - Blockchain ecosystem analytics by and for the community. Explore and share data from Ethereum, xDai, Polygon, Optimism, BSC and Solana for free
 
 ## DAO Creation
 
@@ -134,12 +147,14 @@ This list is intended as a public good open source project, and as such contribu
 - [NiNDAO](https://nindao.xyz/) - NinDAO is a cyborg-ninja programmed with a future-funk nindō: to build infrastructures for communities as they happen
 - [NnsDAO](https://nnsdao.org/) - NnsDAO is simply a borderless autonomous organization that provides some basic modular programmable services for building the world of DAOn
 - [Party Bid](https://www.partybid.app/) - PartyBid is the protocol for buying NFTs as a team. Start a party on any NFT, contribute ETH with others and win together.
+-  [Station](https://www.station.express/) -  Station has been committed to building products that transport a new class of workers to participate in the crypto economy. Proposals are a universal expression of intent for high-commitment, high-quality contribution to DAOs.
 - [Superdao](https://superdao.co/) - Superdao is the operating system for the DAO. The system will be able to generate DASuperdao is an operating system for DAOs. It supports one-click DAO creation
 - [Syndicate](https://syndicate.io/) - Syndicate is revolutionizing investing by changing how communities and capital work together through accessible, effortless, and social web3 technologies. Invest in tokens and NFTs—as well as startups (via a legal entity)
 - [Tribute LABS](https://tributelabs.xyz/) - open‐source stack to evolve the needs of secure, multifunctional DAO operations
 - [Unique](https://unique.vc/) - Create or join a web3 venture club
 - [Weezi](https://weezi.io/) - simple CRM for DAO Asset Management in DeFi, NFT and GameFi
 - [xDAO](https://www.xdao.app/) - XDAO is a fully customizable tool that can be used for treasury management, multisig wallet and the platform for investment.
+
 
 ## Data Access 
 
@@ -267,6 +282,7 @@ This list is intended as a public good open source project, and as such contribu
 - [IDX](https://idx.xyz/)
 - [Karma](https://www.showkarma.xyz/)
 - [Lens Protocol](https://lens.xyz/)
+- [Otterspace](https://www.otterspace.xyz/) - Otterspace’s non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance 
 - [Orange Protocol](https://www.orangeprotocol.io/)
 - [poap](https://app.poap.xyz/)
 - [Sourcecred](https://sourcecred.io/)
@@ -286,8 +302,9 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Intellectual Property
 
-- [Molecule Protocol](https://www.molecule.to/)
-- [Ultra DAO](https://ultradao.org/)
+- [Molecule Protocol](https://www.molecule.to/) - Molecule is creating collaborative ecosystems, where stakeholders in drug development can work together to expedite the process of bringing novel therapeutics to patients. We are connecting leading researchers to funding by turning intellectual property and its development into a liquid and easily investable asset.
+- [Ultra DAO](https://ultradao.org/) - UltraDAO is the premier web3 creative studio building the future of decentralized IP and entertainment brands
+
 
 ## Investment DAOs
 
