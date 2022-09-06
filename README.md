@@ -52,7 +52,6 @@ This list is intended as a public good open source project, and as such contribu
 - [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Intellectual Property](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
-- [Newsletters](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#newletters)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
 - [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
@@ -207,7 +206,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Angel List](https://angel.co/) - AngelList is a platform for startups
 - [Opolis](https://opolis.co/) - A Member-Owned Employment Cooperative.
-- [Voice DAO](https://www.voicedao.fun/)
+- [Voice DAO](https://www.voicedao.fun/) - We help non-techies Onboard into the Web3 space
 
 ### Bounties
 
@@ -294,15 +293,14 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Impact DAOs
 
-- [ReFi DAO](https://refidao.com/)
-- [Koknut Network](https://kokonut.network/)
-- [Kolektivo](https://www.kolektivo.co/)
-- [Ukraine DAO](https://linktr.ee/ukrainedao)
+- [ReFi DAO](https://refidao.com/) - ReFi DAO is a founder-led startup community that accelerates impact for people and planet. We're building an ecosystem and a protocol to catalyze a regenerative economy through 2050 and beyond
+- [Koknut Network](https://kokonut.network/) - Kokonut Network brings blockchain governance & open-source accounting to the agriculture industry
+- [Kolektivo](https://www.kolektivo.co/) -  leverages the latest web3 technologies to shape a world where human coordination pivots radical change.
+- [Ukraine DAO](https://linktr.ee/ukrainedao) - organized sale is the largest NFT-based crypto contribution to Ukraine's war efforts to date.
 
 ## Insurance
 
-- [Nexus Mutual](https://nexusmutual.io/)
-- [Unslashed](https://unslashed.finance/)
+- [Nexus Mutual](https://nexusmutual.io/) - Nexus M Insurance for Decentralized Finance.
 
 ## Intellectual Property
 
@@ -312,15 +310,10 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Investment DAOs
 
-- [Global Coin Research](https://globalcoinresearch.com/)
-- [Meta Cartel Ventures](https://metacartel.xyz/)
-- [Orange DAO](https://www.orangedao.xyz/)
-- [The LAO](https://www.thelao.io/)
-
-## Newsletters
-
-- [Rally](https://share.hsforms.com/1n99qm_KMSr6tgn9CSY7nXwbp0ak)
-- [The DAOist](https://www.thedaoist.co/)
+- [Global Coin Research](https://globalcoinresearch.com/) -  a Tokenized DAO of Researchers and Investors in the crypto space.
+- [Meta Cartel Ventures](https://metacartel.xyz/) - a permissioned, for-profit investment DAO coupled with a legal entity. The goal is to fund promising projects building new applications on top of Ethereum while providing financial returns to its members.
+- [Orange DAO](https://www.orangedao.xyz/) - a decentralized venture capital organization
+- [The LAO](https://www.thelao.io/) - is building infrastructure to support DeFi protocols beyond just providing capital through venture-backed financing.
 
 ## NFT DAOs
 
