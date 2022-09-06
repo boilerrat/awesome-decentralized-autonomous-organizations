@@ -173,6 +173,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Buildspace](https://buildspace.so/) - Buildspace accelerates your builder journey into web3. Whether you're just starting out, a seasoned vet transitioning from web2, or thinking of building something cool, you have a home with us. Join 60k+ incredible builders doing just that.
 - [Developer DAO](https://www.developerdao.com/) - a community of thousands of web3 builders creating a better internet.
 - [Forefront](https://forefront.market/) - the launchpad empowering web3 explorers to create at the frontier of tokenized communities. We strive to empower and serve the Web3 world-builders of tomorrow via 1) literacy, 2) tribe and 3) tools.
+- [Guild Protocol](https://guildprotocol.io/) - Our mission is to onboard a new wave of users to the web3 ecosystem by gamifying the user experience of learning 
 - [Quest Chains](https://questchains.xyz/) - a gamified learning & onboarding platform. The platform enables both creation and completion of quest chains, which is a gamified equivalent of courses.
 - [Rabbithole](https://rabbithole.gg/) - Complete tasks, learn skills, and earn credentials that prove your knowledge. 
 - [Voice DAO](https://www.voicedao.fun/) - We help non-techies Onboard into the Web3 space
@@ -205,8 +206,8 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Crowdfunding
 
-- [Juicebox](https://juicebox.money/)
-- [Yeet](https://yeet.daohaus.club/)
+- [Juicebox](https://juicebox.money/) - Juicebox is akin to a decentralized Kickstarter, allowing projects to raise funding from the community all powered by public smart contracts on Ethereum
+- [Yeet](https://yeet.daohaus.club/) - Yeeter is a funding mechanism capturing enthusiasm and facilitating cooperation. Unlike crowdfunding apps or venture capitalists, we provide tools supporting value aligned individuals to pool resources towards a common goal.
 
 ### Grants
 
@@ -244,21 +245,21 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Governance Extensions
 
-- [AUT](https://aut.id/)
-- [Boardroom](https://boardroom.io/)
-- [Commonwealth](https://commonwealth.im/)
-- [Governor DAO](https://governordao.org/)
-- [Govrn](https://linktr.ee/Govrn)
-- [Guild](https://guild.xyz/)
-- [Guild Protocol](https://guildprotocol.io/)
-- [Kleros](https://kleros.io/)
-- [llama](https://llama.xyz/)
-- [SafeSnap](https://docs.snapshot.org/plugins/safesnap)
-- [Sobol](https://sobol.io/)
-- [Swae](https://swae.io/)
-- [Tally](https://www.tally.xyz/)
-- [Terminal](https://www.terminal.co/)
-- [Zodiac](https://github.com/gnosis/zodiac)
+- [AUT](https://aut.id/) - Aut is an expandable community protocol, powering the next level of collective coordination in DAOs. It does so by adding Role-based Membership & Governance in Web3 communities.
+- [Avenue](https://avenue.place/) - A platform to surface Discord’s core context on projects, ways to contribute, and contributor engagement so DAOs and teams can focus on their work.
+- [Boardroom](https://boardroom.io/) - a governance aggregator helping members. make faster, smarter, and more informed decisions.
+- [Commonwealth](https://commonwealth.im/) - an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again. 
+- [Governor DAO](https://governordao.org/) - Governance as a Service – Effective solutions ensuring proper governance for blockchain projects of all sizes Governor DAO – Biometrics, Blockchain development
+- [Govrn](https://linktr.ee/Govrn) - At Govrn, we believe that anything that governs you, you should be able to govern. 
+- [Guild](https://guild.xyz/) - Automated membership management for the platforms your community already uses.
+- [Kleros](https://kleros.io/) - a decentralized arbitration service for the disputes of the new economy
+- [llama](https://llama.xyz/) -  a community that works with DAOs on protocol engineering, treasury management, and analytics
+- [SafeSnap](https://docs.snapshot.org/plugins/safesnap) - a module that allows on-chain execution of off-chain votes
+- [Sobol](https://sobol.io/) - an organizational accountability platform that helps to build a decentralized and humanistic workforce
+- [Swae](https://swae.io/) - an idea management and decision-making platform that reveals solutions to your problems directly from your employees or stakeholder groups
+- [Tally](https://www.tally.xyz/) -  simplifies the DAO governance process so you can focus on what you're best at
+- [Terminal](https://www.terminal.co/) - Dashboard for Tokenized Communities
+- [Zodiac](https://github.com/gnosis/zodiac) - Gnosis Safe: The most trusted platform for managing digital assets on Ethereum. Zodiac embraces Gnosis Safe as a powerful, extensible and programmable account standard. However, all Zodiac tools are framework agnostic, and they can be plugged into any programmable account that implements the IAvatar interface
 
 ## Identity/Reputation
 
