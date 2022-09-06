@@ -130,6 +130,7 @@ This list is intended as a public good open source project, and as such contribu
 ## DAO Analytics
 
 - [Barracuda](https://barracuda.io/) - Cuda helps you share your official links, integrate your favorite web3 tools, drive traffic, track clicks, and grow your community.
+- [Deep DAO](https://deepdao.io) - data analytics site for decentralized autonomous organizations. DeepDAO presents extensive analytics and information gathering. 
 - [Dune Analytics](https://dune.com/browse/dashboards) - Blockchain ecosystem analytics by and for the community. Explore and share data from Ethereum, xDai, Polygon, Optimism, BSC and Solana for free
 
 ## DAO Creation
@@ -192,6 +193,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Developer DAO](https://www.developerdao.com/) - a community of thousands of web3 builders creating a better internet.
 - [Forefront](https://forefront.market/) - the launchpad empowering web3 explorers to create at the frontier of tokenized communities. We strive to empower and serve the Web3 world-builders of tomorrow via 1) literacy, 2) tribe and 3) tools.
 - [Guild Protocol](https://guildprotocol.io/) - Our mission is to onboard a new wave of users to the web3 ecosystem by gamifying the user experience of learning 
+- [Odyssey DAO](https://www.odysseydao.com/) - a Web3 learning community helping one million people join the Web3 economy. Learn about web3, blockchain, crypto, smart contracts, NFTs, ...
 - [Quest Chains](https://questchains.xyz/) - a gamified learning & onboarding platform. The platform enables both creation and completion of quest chains, which is a gamified equivalent of courses.
 - [Rabbithole](https://rabbithole.gg/) - Complete tasks, learn skills, and earn credentials that prove your knowledge. 
 - [Voice DAO](https://www.voicedao.fun/) - We help non-techies Onboard into the Web3 space
@@ -369,102 +371,100 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Publishing
 
- - [Mirror](https://mirror.xyz/)
- - [Paragraph](https://paragraph.xyz/notes)
- - [WIPP](https://wippublishing.com/)
+ - [Mirror](https://mirror.xyz/) - a publishing platform for writers that leverages cryptocurrency and blockchain technology. 
+ - [Paragraph](https://paragraph.xyz/notes) - Paragraph turns your subscribers into members. NFTs give your audience ownership in your community, and help supercharge your growth & earning potential.
+ - [WIPP](https://wippublishing.com/) -  WIP Publishing is re-envisioning how authors produce, distribute, and monetize their creative works in new, exciting ways that directly connects them with their readers through #NFTBooks.
 
 
 ## Real Estate
 
-- [Cabin DAO](https://www.creatorcabins.com/)
-- [City DAO](https://www.citydao.io/)
+- [Cabin DAO](https://www.creatorcabins.com/) - Cabin DAO is creating a community of cabins for web3 workers
+- [City DAO](https://www.citydao.io/) - CityDAO is exploring decentralized asset ownership on chain, starting with a piece of land in Wyoming
 
 ## Research-Science
 
-- [Algovera](https://www.algovera.ai/)
-- [Chainverse](https://www.chainverse.diamonds/)
-- [daostar](https://daostar.org/)
-- [Genomes DAO](https://genomes.io/)
-- [Global Coin Research](https://globalcoinresearch.com/)
-- [rLoop](https://www.rloop.org/)
-- [RnDAO](https://discord.com/invite/jKaYS2dkXq)
-- [talent DAO](https://www.talentdao.io/)
-- [The Science DAO](https://thesciencedao.io/)
-- [Vita DAO](https://www.vitadao.com/)
-- [Wagmi Labs](https://wagmi.ink/)
+- [Algovera](https://www.algovera.ai/) - a cooperative of people working to develop useful AI apps.
+- [Chainverse](https://www.chainverse.diamonds/) - Chainverse is the first Blockchain Publishing Game Platform to assist Gamers, Developers, Investors and Trader in one Guild with all in one Blockchain Service
+- [Daostar One](https://daostar.org/) - A roundtable of key organizations in the DAO ecosystem, working toward new standards for DAOs and DAO tooling
+- [Genomes DAO](https://genomes.io/) - GenomesDAO is a biotech DAO focused on safe, private & auditable monetization of genomic data using DeFi
+- [Global Coin Research](https://globalcoinresearch.com/) - a Tokenized DAO of Researchers and Investors in the crypto space
+- [rLoop](https://www.rloop.org/) -  an open and self-governing DAO that acquires, supports, and finances research and innovations to address the environmental and natural resources
+- [RnDAO](https://discord.com/invite/jKaYS2dkXq) - an innovation center with a mandate to ship research and tools that make decentralised operations easier, thus facilitating mainstream DAO adoption
+- [talent DAO](https://www.talentdao.io/) - a community of organizational scientists, strategists and researchers building the world's first decentralized community-reviewed publication protocol for the social sciences and applying what we learn to help the DAO ecosystem thrive.
+- [The Science DAO](https://thesciencedao.io/) - a decentralized autonomous organization (DAO) with the simple yet important mission to help game-changing advances in science and technology get the funding they need
+- [Vita DAO](https://www.vitadao.com/) - VitaDAO is a DAO collective for community-governed and decentralized drug development. Our core mission is the acceleration of research and development (R&D) in the longevity space and the extension of human life and healthspan.
+- [Wagmi Labs](https://wagmi.ink/) - We love tinkering with decentralized algorithmic currencies
 
 ## Schedluing
 
-- [Calendy](https://calendly.com/)
-- [lettucemeet](https://lettucemeet.com/)
+- [Calendy](https://calendly.com/) -  the modern scheduling platform that makes “finding time” a breeze
+- [lettucemeet](https://lettucemeet.com/) - the easiest way to schedule group meetings. Instead of having to preselect time blocks, LettuceMeet lets everyone add their availability on a grid so you can see the slot that best overlaps.
 
 ## Service DAOs
 
-- [banyan DAO](https://www.banyandao.xyz/)
-- [Commons Stack](https://commonsstack.org/)
-- [Deep DAO](https://deepdao.io)
-- [Domain DAO](http://thedomaindao.org/)
-- [Ethereum Name Service](https://ens.domains/)
-- [H.E.R. DAO](https://linktr.ee/H.E.R.DAO)
-- [Lex DAO](https://www.lexdao.coop/)
-- [Meta Factory](https://www.metafactory.ai/)
-- [Odyssey DAO](https://www.odysseydao.com/)
-- [Open Law](https://www.openlaw.io/)
-- [Raid Guild](https://www.raidguild.org/)
-- [Sarcophagus DAO](https://sarcophagus.io/)
-- [Surge](https://www.surgewomen.io/)
-- [The DAOist](https://www.thedaoist.co/)
-- [YAP DAO](https://www.yapdao.xyz/)
-- [Wildfire DAO](https://twitter.com/Wildfire_DAO)
-- [WGMI](https://www.wgmi.community/)
+- [banyan DAO](https://www.banyandao.xyz/) - an awesome group of humans creating an inclusive and accessible transition for anyone who wants to build in web3
+- [Commons Stack](https://commonsstack.org/) - an open source development project, building infrastructure for the sustainable funding and management of community-driven economies.
+- [Domain DAO](http://thedomaindao.org/) - DAO is the NFT domain name ending for the pioneers of decentralized communities
+- [Ethereum Name Service](https://ens.domains/) - a distributed, open, and extensible naming system based on the Ethereum blockchain
+- [H.E.R. DAO](https://linktr.ee/H.E.R.DAO) - H.E.R. is a womxn-driven developer DAO that includes self-identifying women, trans women and non-binary audiences. Our goal is to sustainably diversify the blockchain ecosystem, leading to more versatile product & venture development within.
+- [Lex DAO](https://www.lexdao.coop/) - Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code 
+- [Meta Factory](https://www.metafactory.ai/) - a crowdfunding platform for the creation of community-owned brands with an initial focus on fashion/apparel
+- [Open Law](https://www.openlaw.io/) -  a blockchain-based protocol for the creation and execution of legal agreements.
+- [Raid Guild](https://www.raidguild.org/) - the premier design and dev agency of the Web3 ecosystem
+- [Sarcophagus DAO](https://sarcophagus.io/) - Sarcophagus is an autonomous, incentivized dead man's switch dApp built on Ethereum and Arweave
+- [Surge](https://www.surgewomen.io/) -  an online media company on a mission “to engage readers with storytelling.”
+- [The DAOist](https://www.thedaoist.co/) - Summoning conferences, un-conferences, assemblages, informal gatherings and meetups. All kinds of IRL and online gatherings for DAOists of all backgrounds
+- [YAP DAO](https://www.yapdao.xyz/) - a community that provides public relations and communications support to the DeFi world.
+- [Wildfire DAO](https://twitter.com/Wildfire_DAO) - a meta-governance initiative to connect and align community members from across the ecosystem, creating community-focused working groups to tackle token design, governance and coordination problems in an open and collaborative manner
+- [WGMI](https://www.wgmi.community/) - WGMI was built for educating up and coming community professionals & leaders in the Web3 space.
 
 ## Smart Contracts and Development
 
-- [api3](https://api3.org/)
-- [Open Zeppelin](https://www.openzeppelin.com/)
+- [api3](https://api3.org/) - API3 is a platform that enables blockchain-based decentralized applications (dApps) to access blockchain-external, real-world data and services via application programming interfaces (APIs)
+- [Open Zeppelin](https://www.openzeppelin.com/) - an open-source framework to build secure smart contracts
 
 ## Sports DAOs
 
-- [Krause House](https://www.krausehouse.club/)
-- [Links DAO](https://linksdao.io/)
+- [Krause House](https://www.krausehouse.club/) - a Decentralized Autonomous Organization (DAO) governed by a community of fans, the basketball lovers and purists.
+- [Links DAO](https://linksdao.io/) - A global community of golf enthusiasts in web3 reimagining the modern golf and leisure club.
 
 ## Social DAOs
 
-- [Apecoin](https://apecoin.com/)
-- [Bankless](https://www.bankless.community/)
-- [Boys Club](https://boysclub.vip/newsletter)
-- [ETHDenver](https://www.ethdenver.com/)
-- [Friends With Benefits](https://www.fwb.help/)
-- [MetaGame](https://metagame.wtf/)
+- [Apecoin DAO](https://apecoin.com/) - The ApeCoin community governs itself via the ApeCoin DAO, the decentralized governance framework that supports the Ecosystem Fund
+- [Bankless](https://www.bankless.community/) - a decentralized community to coordinate and propagate bankless media, culture, and education
+- [Boys Club](https://boysclub.vip/newsletter) -  a social club welcoming women to Web3.
+- [Friends With Benefits](https://www.fwb.help/) -  a token-gated community dedicated to fostering culture and creative agency using Web3 tools
+- [MetaGame](https://metagame.wtf/) - A DAO building a massive online coordination game about finding the most optimal ways to play life on a personal as well as the collective level.
+- [Spork DAO](https://www.sporkdao.com/) - SporkDAO represents the final leg of the journey towards transitioning ETHDenver to a community owned ecosystem
 
 ## Social Media
 
-- [Lenster](https://lenster.xyz/)
-- [Phaver](https://phaver.com/)
-- [Twitter](https://twitter.com)
+- [Lenster](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol
+- [Phaver](https://phaver.com/)  - Share-to-earn decentralized social platform
+- [Twitter](https://twitter.com) - a social media site, and its primary purpose is to connect people and allow people to share their thoughts with a big audience.
 
 ## Social Tokens
 
-- [Rally](https://rally.io/)
-- [Roll](https://tryroll.com/)
+- [Rally](https://rally.io/) - a platform for creators and their communities to build their own independent digital economies by enabling creators, artists, celebrities, communities and brands to launch their own social tokens and NFTs.
+- [Roll](https://tryroll.com/) - provides custodial Ethereum wallets capable of sending social tokens from the Etherum blockchain and within the Roll network
 
 ## Sybil
 
-- [BrightID](https://www.brightid.org/)
-- [Governor](https://onlyoneme.governordao.org/)
-- [Proof of Humanity](https://www.proofofhumanity.org/)
+- [BrightID](https://www.brightid.org/) - a personal identifier that allows you to receive rights and benefits based on your ability to prove that you're a unique person
+- [Governor](https://onlyoneme.governordao.org/) - Through our Proof of Existence Token & Governance Services (GaaS) we aim to set the standard for decentralized governance & biometric voting on the blockchain.
+- [Proof of Humanity](https://www.proofofhumanity.org/) -  a system combining webs of trust, with reverse Turing tests, and dispute resolution to create a sybil-proof list of humans.
 
 ## Treasury
 
-- [coinshift](https://coinshift.xyz/)
-- [enzyme](https://enzyme.finance/)
-- [Gnosis Safe](https://gnosis-safe.io/)
-- [Hedgey](https://hedgey.finance/)
-- [llama](https://llama.xyz/)
-- [multis](https://multis.co/)
-- [parcel](https://parcel.money/)
-- [SOLV Protocol](https://solv.finance/home)
-- [Utopia](https://www.utopialabs.com/)
+- [coinshift](https://coinshift.xyz/) - simplifies treasury management by providing efficient multisig tooling to save time & money for crypto organisations.
+- [enzyme](https://enzyme.finance/) -  Enzyme is an asset management infrastructure with multichain support. Your assets go where you want it to, whenever you want.
+- [Gnosis Safe](https://gnosis-safe.io/) - a multi-signature smart contract wallet that allows users to define a list of owner/signer accounts and a threshold number of signers required to confirm a transaction. Once the threshold of owner accounts have confirmed a transaction, the Safe transaction can be executed.
+- [Hedgey](https://hedgey.finance/) - We create financial infrastructure for DAO treasuries to help them diversify assets, alleviate contributor sell pressure, and prosper through DAO to DAO swaps. 
+- [llama](https://llama.xyz/)  - a community that works with DAOs on protocol engineering, treasury management, and analytics.
+- [multis](https://multis.co/) - an all-in-one application to help web3 organizations manage their crypto-finances. Built on Gnosis Safe.
+- [parcel](https://parcel.money/) - Optimised payroll for a growing DAO contributor base
+- [SOLV Protocol](https://solv.finance/home) - the decentralized platform for creating, managing, and trading Financial NFTs.
+- [Utopia](https://www.utopialabs.com/) - Collaborative payroll and expense management for DAOs
 
 ## Twitter
 
@@ -510,18 +510,15 @@ This list is intended as a public good open source project, and as such contribu
 ### Spaces
 *Note to contributor's, only add regularily repeating events.*
 
-
-- [HAUSparty](https://twitter.com/nowdaoit) Thursday's 2:00 PM Eastern / 11:00 AM Pacific
+- [HAUSparty](https://twitter.com/nowdaoit) Thursday's 2:00 PM Eastern / 11:00 AM Pacific Discussing the latest topics facing the DAO community.
 
 ## Voting Apps
 
-- [CultureStake](https://www.furtherfield.org/culturestake-2/)
-- [Snapshot](https://snapshot.org/)
-- [RadicalxChange](https://quadraticvote.radicalxchange.org/)
-- [QuadraticVote.co](https://quadraticvote.co/)
-- [Vocdoni](https://aragon.org/vocdoni)
-
-
+- [CultureStake](https://www.furtherfield.org/culturestake-2/) - connects communities, artists and organisations through collective cultural decision-making utilising Quadratic Voting.
+- [Snapshot](https://snapshot.org/) - a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types
+- [RadicalxChange](https://quadraticvote.radicalxchange.org/) - An easy tool to host a quadratic vote.
+- [QuadraticVote.co](https://quadraticvote.co/) - Plural Voting (also known as Quadratic Voting or QV) is a redesigned voting method reflecting the intensity of people's preferences in collective decisions.
+- [Vocdoni](https://aragon.org/vocdoni) - Powered by an auditable, censorship-resistant and anonymous digital voting protocol.
 
 
 
