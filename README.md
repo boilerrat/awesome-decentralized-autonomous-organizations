@@ -52,7 +52,6 @@ This list is intended as a public good open source project, and as such contribu
 - [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Intellectual Property](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
-- [Newsletters](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#newletters)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
 - [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
@@ -317,25 +316,20 @@ This list is intended as a public good open source project, and as such contribu
 - [Orange DAO](https://www.orangedao.xyz/) - a decentralized venture capital organization
 - [The LAO](https://www.thelao.io/) - The LAO is building infrastructure to support DeFi protocols beyond just providing capital through venture-backed financing
 
-## Newsletters
-
-- [Rally](https://share.hsforms.com/1n99qm_KMSr6tgn9CSY7nXwbp0ak)
-- [The DAOist](https://www.thedaoist.co/)
-
 ## NFT DAOs
 
-- [Bright Moments](https://www.brightmoments.io/)
-- [Doodles](https://doodles.app/)
-- [Emergence DAO](https://opensea.io/Emergence_DAO_Burner_Account)
-- [Fingerprints DAO](https://fingerprintsdao.xyz/)
-- [Flamingo DAO](https://flamingodao.xyz/)
-- [Lil Nouns](https://lilnouns.wtf/)
-- [Nouns DAO](https://nouns.wtf/)
-- [Paperclip DAO](https://s.mirror.xyz/QaEoyCiz2tsBBF58BN_vPulDXk3tuEKsQ4ttV9zCYvA)
-- [Shark DAO](https://sharks.wtf/)
-- [Squiggle DAO](https://www.squiggledao.com/)
-- [Tessera](https://tessera.co/)
-- [Ultra DAO](https://ultradao.org/)
+- [Bright Moments](https://www.brightmoments.io/) -  an NFT art gallery, pioneering the future of art being co-created and co-consumed
+- [Doodles](https://doodles.app/) - Doodles are a collection of 10,000 NFTs (non-fungible tokens) that are made up of hundreds of exciting visual traits designed by Burnt Toas
+- [Emergence DAO](https://opensea.io/Emergence_DAO_Burner_Account) - A collection born out of the fire
+- [Fingerprints DAO](https://fingerprintsdao.xyz/) - We are launching the Fingeprints DAO, owner of the Fingerprints Collection. The main goal of the DAO is to curate, collect and promote on-chain artwork.
+- [Flamingo DAO](https://flamingodao.xyz/) - an NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets.
+- [Lil Nouns](https://lilnouns.wtf/) - Lil Nouns are just like Nouns, but Lil! An expansion DAO based on Nouns DAO, Lil Nouns DAO works to create a new layer within the Nouns ecosystem; Nouns as kids.
+- [Nouns DAO](https://nouns.wtf/) - Nouns are an experimental attempt to improve the formation of on-chain avatar communities
+- [Paperclip DAO](https://s.mirror.xyz/QaEoyCiz2tsBBF58BN_vPulDXk3tuEKsQ4ttV9zCYvA) - Trading up from a paperclip
+- [Shark DAO](https://sharks.wtf/) - SharkDAO started as a group of Internet strangers interested in pooling together resources to acquire Nouns
+- [Squiggle DAO](https://www.squiggledao.com/) - a web 3.0 organization built around collecting and celebrating the on-chain generative art project known as the Chromie Squiggle.
+- [Tessera](https://tessera.co/) - a NFT platform that unlocks liquidity, reduces entry costs, and allows for synergy with other DeFi primitives.
+- [Ultra DAO](https://ultradao.org/) - a future-thinking creative arts organization bringing together artists, developers, and entrepreneurs to create unique entertainment media, decentralized brands, and NFT projects
 
 ## Payroll
 
