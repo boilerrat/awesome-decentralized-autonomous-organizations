@@ -52,6 +52,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Intellectual Property](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
+- [Newsletters](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#newletters)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
 - [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
@@ -300,7 +301,8 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Insurance
 
-- [Nexus Mutual](https://nexusmutual.io/) - Nexus M Insurance for Decentralized Finance.
+- [Nexus Mutual](https://nexusmutual.io/) - Nexus Mutual uses the power of blockchain technology and Ethereum to allow people from all over the world to share insurance risk together
+- [Unslashed](https://unslashed.finance/) - Unslashed Finance provides insurance and smart contracts for crypto assets
 
 ## Intellectual Property
 
@@ -310,10 +312,15 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Investment DAOs
 
-- [Global Coin Research](https://globalcoinresearch.com/) -  a Tokenized DAO of Researchers and Investors in the crypto space.
-- [Meta Cartel Ventures](https://metacartel.xyz/) - a permissioned, for-profit investment DAO coupled with a legal entity. The goal is to fund promising projects building new applications on top of Ethereum while providing financial returns to its members.
+- [Global Coin Research](https://globalcoinresearch.com/) - a Tokenized DAO of Researchers and Investors in the crypto space
+- [Meta Cartel Ventures](https://metacartel.xyz/) - MetaCartel Ventures is a permissioned, for-profit investment DAO coupled with a legal entity. The goal is to fund promising projects building new applications on top of Ethereum while providing financial returns to its members.
 - [Orange DAO](https://www.orangedao.xyz/) - a decentralized venture capital organization
-- [The LAO](https://www.thelao.io/) - is building infrastructure to support DeFi protocols beyond just providing capital through venture-backed financing.
+- [The LAO](https://www.thelao.io/) - The LAO is building infrastructure to support DeFi protocols beyond just providing capital through venture-backed financing
+
+## Newsletters
+
+- [Rally](https://share.hsforms.com/1n99qm_KMSr6tgn9CSY7nXwbp0ak)
+- [The DAOist](https://www.thedaoist.co/)
 
 ## NFT DAOs
 
