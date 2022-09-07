@@ -348,15 +348,16 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Podcasts
 
-- [DAO or Never](https://dao-or-never.simplecast.com/)
-- [DAOs Unknown](https://podcasts.apple.com/us/podcast/daos-unknown/id1622875930)
-- [Lunarpunk Dreams](https://stephenreid.net/lunarpunk-dreams)
-- [Meta Radio](https://anchor.fm/MetaGame/)
-- [On The Other Side](https://www.othersidepod.xyz/)
-- [Refi Podcast](https://podcast.refidao.com/)
-- [The Daily Gwei](https://www.youtube.com/channel/UCvCp6vKY5jDr87htKH6hgDA)
-- [The Forefront Podcast](https://anchor.fm/forefront-podcast)
-- [The Green Pill Podcast](https://greenpill.party/)
+- [DAO or Never](https://dao-or-never.simplecast.com/) -DAO or Never offers an appreciation of DAOs' potential and shares current DAO news, trends, and opportunities. Brought to you by Logos DAO
+- [DAOs Unknown](https://podcasts.apple.com/us/podcast/daos-unknown/id1622875930) - DAOs Unknown is daopedia's podcast. daopedia is THE destination for people to easily discover, learn and get involved in DAOs.
+- [Lunarpunk Dreams](https://stephenreid.net/lunarpunk-dreams) -Lunarpunk is what happens when the sun goes down in a Solarpunk village/town/city. It's still oriented towards regeneration, community and freedom, but perhaps there's a little more space for the weird, the mystical and the personal.
+- [Meta Radio](https://anchor.fm/MetaGame/) - Exploring the motivation and values of individuals building digitally native societies, realigning global incentives, and optimizing for cooperation over competition. 
+- [On The Other Side](https://www.othersidepod.xyz/) - Exploring the intersection of society, culture, and crypto.
+- [Refi Podcast](https://podcast.refidao.com/) - Where we interview thought leaders in the DeFi space so that you can learn and attain financial freedom.
+- [The Daily Gwei](https://www.youtube.com/channel/UCvCp6vKY5jDr87htKH6hgDA) - Daily commentary on the Ethereum ecosystem.
+- [The Forefront Podcast](https://anchor.fm/forefront-podcast) -  We are pioneers exploring & building at the forefront of the Web3 playground. We’ve dug through the noise and surfaced the signal on the state-of-the-art of tokenized communities in the internet-native economy.  
+- [The Green Pill Podcast](https://greenpill.party/) - GreenPill is about crypto-economic systems that create positive externalities for their neighbors & for the world.
+
 
 ## Project Management
 
@@ -442,6 +443,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Lenster](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol
 - [Phaver](https://phaver.com/)  - Share-to-earn decentralized social platform
 - [Twitter](https://twitter.com) - a social media site, and its primary purpose is to connect people and allow people to share their thoughts with a big audience.
+- [Typfully](https://typefully.com/) Write, schedule, and publish great Twitter tweets & threads. Grow your following on Twitter with analytics and metrics about your account.
 
 ## Social Tokens
 
@@ -470,37 +472,43 @@ This list is intended as a public good open source project, and as such contribu
 
 ### Influencers
 
-- [Alex Masmej](https://twitter.com/AlexMasmej)
-- [ameen.eth](https://twitter.com/ameensol)
-- [andy](https://twitter.com/andy8052)
-- [Brian Flynn](https://twitter.com/Flynnjamm)
-- [Chase Chapman](https://twitter.com/chaserchapman)
-- [Cooper Turley](https://twitter.com/Cooopahtroopa)
-- [Corbin Page](https://twitter.com/corbpage)
-- [Daniele never asks to DM](https://twitter.com/danielesesta)
-- [David Hoffman](https://twitter.com/TrustlessState)
-- [David Phelps](https://twitter.com/divine_economy)
-- [Dekan Brown](https://twitter.com/DekanBro)
-- [drnick](https://twitter.com/DrNickA)
-- [Elco is a DAOist](https://twitter.com/duartedao)
-- [Humpty](https://twitter.com/humptycalderon)
-- [James Waugh](https://twitter.com/blockchainjames)
-- [Jess](https://twitter.com/thattallguy)
-- [Keith Axline](https://twitter.com/kaxline)
-- [Kevin Owocki](https://twitter.com/owocki)
-- [Metadreamer.ETH](https://twitter.com/META_DREAMER)
-- [Michael Kisselgof](https://twitter.com/SerKisselgof)
-- [ohmzeus](https://twitter.com/ohmzeus)
-- [pet3rpan](https://twitter.com/pet3rpan_)
-- [peth](https://twitter.com/petheth)
-- [punk4156](https://twitter.com/punk4156)
-- [rafa0](https://twitter.com/rafathebuilder)
-- [Samantha Marin](https://twitter.com/samanthajmarin)
-- [Stani Kulechov](https://twitter.com/StaniKulechov)
-- [Stephen Reid](https://twitter.com/lunarpunk_0x)
-- [Spencer Graham](https://twitter.com/spengrah)
-- [vengist.eth](https://twitter.com/0xd2_eth)
-- [Yalor Mewn](https://twitter.com/YalorMewn)
+- [Alex Masmej](https://twitter.com/AlexMasmej) - Founder @Showtime_xyz, a web3 social network (we’re hiring!) ✦ Previously: created $ALEX, the first social token.
+- [ameen.eth](https://twitter.com/ameensol) - full spank dev @spankchain
+- [andy](https://twitter.com/andy8052) - "They want me to act professional on the internet. No, I won’t lol" hacking NFTs @tessera
+- [boilerrat](https://twitter.com/boilerrat) - Dad Husband Deadhead DAOhead. Contributing to the Commons | @nowdaoit
+ | @metacartel
+ | Boilermaker - Radiation Tech. | boilerrat.eth
+- [Brian Flynn](https://twitter.com/Flynnjamm) - ceo & co-founder @rabbithole_gg 🐇 prev @opensea @dapperlabs
+- [Chase Chapman](https://twitter.com/chaserchapman) - building a better society with web3 🔮 podcast @ http://othersidepod.xyz // doing stuff @0xMetropolis // investing @thecowfund
+- [Coopahtroopa](https://twitter.com/Cooopahtroopa) - Music NFTs.
+- [Corbin Page](https://twitter.com/corbpage) - ✨🌐💸 Web3 builder 🏗@DustSweeperDAO @paymagic_ 👼 Investor ⏪ @ConsenSys Tweets about novel products in #Web3 #NFTs #DeFi #DAOs
+- [Daniele](https://twitter.com/danielesesta) - #OccupyDeFi Building Printers full time
+- [David Hoffman](https://twitter.com/TrustlessState) - Founding Father @banklesshq Nation🏴 🔥 Recruiting an army to slay Moloch 🔪👹 1D=1B
+- [David Phelps](https://twitter.com/divine_economy) - 2x founder write on web3@ http://davidphelps.substack.com cocreated @ecodao_  @jokedao_ invest @thecowfund threads http://bit.ly/3nCF8AY jokedao maxi david at cowfund dot co
+- [Dekan Brown](https://twitter.com/DekanBro) - Daohaus / moloch / metacartel / raidguild
+- [drnick](https://twitter.com/DrNickA) - building the next generation of DAOs with FactoryDAO @FactDAO . I tweet about crypto, governance, DAOs. PhD in Physics, 10 years of governance design.
+- [Elco is a DAOist](https://twitter.com/duartedao) - Brb, got some coordination to do ✌️ @TheDAOist_ @TheMetaFactory @RaidGuild @Meta_Cartel @nowdaoit @PrimeDAO_ @KolektivoLabs
+- [Humpty](https://twitter.com/humptycalderon) - Crypto native👋🏽 Building an inclusive and regenerative future 🙈 Identity @OntologyNetwork 🍊 Reputation @OrangeProtocol 🎙 Media @CryptoSapiens_
+ 🧠 ᵍᵐ
+- [Issac Patka](https://twitter.com/isaacpatka) - DAO or Never Podcast | http://logos.xyz @0xlogos | isaacpatka.eth | @nowdaoit 🟨| @meta_cartel 🌶 | http://isaacpatka.buidlguidl.com
+- [James.ETH](https://twitter.com/blockchainjames) - DAOs will eat the world. Governance @ 🔥_🔥. 🌶 @meta_cartel 🧙‍♂️ @VENTURE_DAO ✨ @PleasrDAO Digital Art @ http://gallery.so/james
+- [Jess](https://twitter.com/thattallguy) - Building @seedclubhq, the leading network for builders and operators of DAOs and Tokenized Communities 🌱
+- [Keith Axline](https://twitter.com/kaxline) - Mobile and web developer, building @republicdao. @JournoDAO. @factlanddao. Formerly of @Medium, @Wired, Raw File. Writer, dadder, musicer. @developer_dao
+- [Kevin Owocki](https://twitter.com/owocki) - internet citizen, DAO cartographer, EVM whisperer & chaos magician @web3eventco (ex @gitcoinDAO) I spin bits for fun/profit, watch out for my MegaByte!
+- [Metadreamer.ETH](https://twitter.com/META_DREAMER) - DAO engineer piecing together the web3 puzzle 🌱 Dev + Design + Strategy @TheMetaFactory @MetaFam @astrodrop_xyz @VENTURE_DAO @meta_cred @coordinape 🤖🌶🐙
+- [Michael Kisselgof](https://twitter.com/SerKisselgof) - Co-founder @popcorn_dao | Hiring degenuity
+- [ohmzeus](https://twitter.com/ohmzeus) - memes and dreams @OlympusDAO
+- [pet3rpan](https://twitter.com/pet3rpan_) - Community first investing @1kxNetwork && Summoner (@HydraVentures_ @Venture_DAO @Meta_Cartel)
+- [peth](https://twitter.com/petheth) - Shitposting about DAOs & building the weirdest one @metafam.Memeber @meta_cartel, @raidguild, @nowdaoit etc.
+- [punk4156](https://twitter.com/punk4156) - building @nounsdao
+- [rafa0](https://twitter.com/rafathebuilder) - Community Lorecraft @viamirror and @folklore_0x :: 🇵🇷
+- [Samantha Marin](https://twitter.com/samanthajmarin) - Writing and comms @aragonproject | I write about DAOs and the humans behind them.
+- [scottrepreneur.eth](https://twitter.com/scottrepreneur_) - building the decentralized future. @scottrepreneur is in robot purgatory, RIP.
+- [Stani Kulechov](https://twitter.com/StaniKulechov) - Founder of @LensProtocol 🌿 and @AaveAave 👻
+- [Stephen Reid](https://twitter.com/lunarpunk_0x) - Teacher, technologist & transformational coach 🌱 #ReFi #regen #gameB #metamodern #teal #solarpunk #lunarpunk
+- [Spencer Graham](https://twitter.com/spengrah) - Build more housing 🥑 • I love DAOs, burritos, and puns • @nowdaoit 🏰 • @hatsprotocol 🧢🎩👒 • @groundw3rk 🌾 • @RaidGuild ⚔️• KB0
+- [vengist.eth](https://twitter.com/0xd2_eth) - design generalist and meta coordinatooor @meta_cartel @daointel @nowdaoit @raidguild @molochdao
+- [Yalor Mewn](https://twitter.com/YalorMewn) - 
 
 ### Lists
 
