@@ -202,6 +202,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [EthDenver](https://www.ethdenver.com/) - ETHDenver is a member-owned Community Innovation Festival
 - [ETHGlobal](https://ethglobal.com/) - Hackathons teach new skills, strengthen developer communities, and push the limits of new technologies
+- [EventDAO](https://eventdao.io/) - EventDAO brings the world's largest events, concerts into a decentralized space and shares event profits with the Community.🌍🎫
 - [mcon](https://www.mcon.fun/) - MCON gives you an experience of valuable conversations, learnings and experimental growth
 
 ## Finding Work
@@ -326,6 +327,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Fingerprints DAO](https://fingerprintsdao.xyz/) - We are launching the Fingeprints DAO, owner of the Fingerprints Collection. The main goal of the DAO is to curate, collect and promote on-chain artwork.
 - [Flamingo DAO](https://flamingodao.xyz/) - an NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets.
 - [Lil Nouns](https://lilnouns.wtf/) - Lil Nouns are just like Nouns, but Lil! An expansion DAO based on Nouns DAO, Lil Nouns DAO works to create a new layer within the Nouns ecosystem; Nouns as kids.
+- [NIL DAO](https://www.nildao.xyz/) - Nil is a community-curated marketplace looking to harmonize the relationship between the creator economy participants.We are a cooperative of hackers & painters looking to collectively establish the decentralized foundations on which the creator economy will thrive.
 - [Nouns DAO](https://nouns.wtf/) - Nouns are an experimental attempt to improve the formation of on-chain avatar communities
 - [Paperclip DAO](https://s.mirror.xyz/QaEoyCiz2tsBBF58BN_vPulDXk3tuEKsQ4ttV9zCYvA) - Trading up from a paperclip
 - [Shark DAO](https://sharks.wtf/) - SharkDAO started as a group of Internet strangers interested in pooling together resources to acquire Nouns
@@ -348,6 +350,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Podcasts
 
+- [Crypto Sapiens](https://www.cryptosapiens.xyz/) - Crypto Sapiens hosts discussions with innovative Web 3.0 builders to help everyone learn about decentralized money systems including Ethereum, Bitcoin and DeFi. It empowers people with information to better understand the complex crypto ecosystem and go from crypto curious to crypto natives.
 - [DAO or Never](https://dao-or-never.simplecast.com/) -DAO or Never offers an appreciation of DAOs' potential and shares current DAO news, trends, and opportunities. Brought to you by Logos DAO
 - [DAOs Unknown](https://podcasts.apple.com/us/podcast/daos-unknown/id1622875930) - DAOs Unknown is daopedia's podcast. daopedia is THE destination for people to easily discover, learn and get involved in DAOs.
 - [Lunarpunk Dreams](https://stephenreid.net/lunarpunk-dreams) -Lunarpunk is what happens when the sun goes down in a Solarpunk village/town/city. It's still oriented towards regeneration, community and freedom, but perhaps there's a little more space for the weird, the mystical and the personal.
@@ -508,7 +511,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Stephen Reid](https://twitter.com/lunarpunk_0x) - Teacher, technologist & transformational coach 🌱 #ReFi #regen #gameB #metamodern #teal #solarpunk #lunarpunk
 - [Spencer Graham](https://twitter.com/spengrah) - Build more housing 🥑 • I love DAOs, burritos, and puns • @nowdaoit 🏰 • @hatsprotocol 🧢🎩👒 • @groundw3rk 🌾 • @RaidGuild ⚔️• KB0
 - [vengist.eth](https://twitter.com/0xd2_eth) - design generalist and meta coordinatooor @meta_cartel @daointel @nowdaoit @raidguild @molochdao
-- [Yalor Mewn](https://twitter.com/YalorMewn) - 
+- [Yalor Mewn](https://twitter.com/YalorMewn) - on the bus
 
 ### Lists
 
