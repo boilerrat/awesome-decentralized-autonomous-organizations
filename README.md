@@ -350,6 +350,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Podcasts
 
+- [Bankless Podcast](http://podcast.banklesshq.com/) - The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.
 - [Crypto Sapiens](https://www.cryptosapiens.xyz/) - Crypto Sapiens hosts discussions with innovative Web 3.0 builders to help everyone learn about decentralized money systems including Ethereum, Bitcoin and DeFi. It empowers people with information to better understand the complex crypto ecosystem and go from crypto curious to crypto natives.
 - [DAO or Never](https://dao-or-never.simplecast.com/) -DAO or Never offers an appreciation of DAOs' potential and shares current DAO news, trends, and opportunities. Brought to you by Logos DAO
 - [DAOs Unknown](https://podcasts.apple.com/us/podcast/daos-unknown/id1622875930) - DAOs Unknown is daopedia's podcast. daopedia is THE destination for people to easily discover, learn and get involved in DAOs.
@@ -505,6 +506,7 @@ This list is intended as a public good open source project, and as such contribu
 - [peth](https://twitter.com/petheth) - Shitposting about DAOs & building the weirdest one @metafam.Memeber @meta_cartel, @raidguild, @nowdaoit etc.
 - [punk4156](https://twitter.com/punk4156) - building @nounsdao
 - [rafa0](https://twitter.com/rafathebuilder) - Community Lorecraft @viamirror and @folklore_0x :: 🇵🇷
+- [Ryan Sean Adams](https://twitter.com/RyanSAdams) - Crypto investor going bankless. 🏴
 - [Samantha Marin](https://twitter.com/samanthajmarin) - Writing and comms @aragonproject | I write about DAOs and the humans behind them.
 - [scottrepreneur.eth](https://twitter.com/scottrepreneur_) - building the decentralized future. @scottrepreneur is in robot purgatory, RIP.
 - [Stani Kulechov](https://twitter.com/StaniKulechov) - Founder of @LensProtocol 🌿 and @AaveAave 👻
