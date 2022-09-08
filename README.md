@@ -119,6 +119,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Discord](https://discord.com/) -  is a free voice, video, and text chat app
 - [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more
+- [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging
 - [Session](https://getsession.org/) - a private messenger offering privacy, anonymity, and security. With end-to-end encryption, no phone numbers for sign-up, and decentralisation, Session is a messenger that truly keeps your messages private and secure.
 - [Syndicate](https://syndicat.es/) - web3 community chat app
 - [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
@@ -172,6 +173,8 @@ This list is intended as a public good open source project, and as such contribu
 - [arweave](https://www.arweave.org/) - a Decentralized Storage Network (DSN) that connects people who have extra available computer disk space with those who need more computer storage
 - [ceramic](https://ceramic.network/) - a permissionless protocol for creating and accessing mutable, tamper-proof documents that serve as the foundation for a web without silos. Ceramic's infrastructure provides a verifiable, censorship-resistant source of truth for important information that is public and interoperable.
 - [IPFS](https://ipfs.tech/) - a protocol, hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts.
+- [Kepler](https://www.kepler.xyz/) - Securely store digital credentials, dapp preferences, private files, and more–all using your Web3 wallet, with rules set by you.
+
 
 
 ## Defi DAOs
@@ -289,14 +292,21 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Identity/Reputation
 
-- [Hats](https://mobile.twitter.com/hatsprotocol) - A protocol for emitting and revoking DAO role NFTs
+- [C-Voxel](https://testnet.cvoxel.xyz/intro) - You can change your transactions into “C-Voxel” and easiliy share them on Web3.0 as your on-chain CV.
+- [Cyberconnect](https://cyberconnect.me/) - Cyberconnect is a decentralized social graph protocol that helps dapps bootstrap neywork effects and build personalized social experiences.
+- [Deep Skills Protocol](https://deepwork.studio/case-studies/deep-skills%20protocol) - "Deep Skills is a software that lets organizations use the same recruitment and coordination infrastructure that Deep Work uses to onboard and vet experts
+- [Gitcoin Passport](https://passport.gitcoin.co/) - Grow a decentralized identity record with various credentials about you. Through the network of sources about your personhood, applications like Gitcoin Grants 2.0 gives you rights like matching weight in Quadratic Funding.
+- [Hats Protocol](https://mobile.twitter.com/hatsprotocol) - A protocol for emitting and revoking DAO role NFTs
+- [Identity Link Services](https://github.com/ceramicstudio/identitylink-services)Services for issuing verifiable credentials that link a DID to social accounts including Twitter, Github, and Discord 
 - [IDX](https://idx.xyz/) -  an open source multi-platform identity protocol that allows users to build up a unified digital identity and freely share their data between apps
 - [Karma](https://www.showkarma.xyz/) - Karma aggregates and curates DAO contributor activity and provides visibility to the DAOs and helps contributors showcase their work. See your reputation.
+- [Krebit](https://testnet.krebit.id/#/) - Get verified once, reuse it a billion times. We help you build it, you own it. Say goodbye to job applications and background checks.
 - [Lens Protocol](https://lens.xyz/) - a decentralized and composable social graph. 
 - [Otterspace](https://www.otterspace.xyz/) - Otterspace’s non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance 
 - [Orange Protocol](https://www.orangeprotocol.io/) - Orange is a protocol for building trustless, decentralized, and portable reputation for Web3. 
 - [poap](https://app.poap.xyz/) - POAP is an acronym for "Proof of Attendance Protocol," and NFTs are non-fungible tokens. Simply put, an NFT is a unique digital collectible.
 - [Sourcecred](https://sourcecred.io/) - A tool for communities to measure and reward value creation
+- [Spruce](https://www.spruceid.com/spruceid) - Decentralized Identity Toolkit for Decentralized Identity. Everything you need for signing, sharing, and verifying trusted information.
 - [WallID](https://wallid.io/) - The digital wallet for ID assets ; Build an ID portfolio only you control
 
 ## Impact DAOs
@@ -385,6 +395,7 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Publishing
 
+ - [Headline](https://viaheadline.xyz/) - Whether an independent creator, member of a DAO or part of a token community, create your own publication with a HEADLINE newsletter channel. When readers choose to subscribe, your content will arrive conveniently in their inbox.
  - [Mirror](https://mirror.xyz/) - a publishing platform for writers that leverages cryptocurrency and blockchain technology. 
  - [Paragraph](https://paragraph.xyz/notes) - Paragraph turns your subscribers into members. NFTs give your audience ownership in your community, and help supercharge your growth & earning potential.
  - [WIPP](https://wippublishing.com/) -  WIP Publishing is re-envisioning how authors produce, distribute, and monetize their creative works in new, exciting ways that directly connects them with their readers through #NFTBooks.
@@ -454,6 +465,8 @@ This list is intended as a public good open source project, and as such contribu
 ## Social Media
 
 - [Lenster](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol
+- [Minds](https://www.minds.com/) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media. 
+- [Orbis Club](https://orbis.club/) - Orbis is a decentralized web3 social protocol built on Ceramic. On Orbis, users own their profile, their posts, their audience, their direct messages etc and they can access it from wherever they want.
 - [Phaver](https://phaver.com/)  - Share-to-earn decentralized social platform
 - [Twitter](https://twitter.com) - a social media site, and its primary purpose is to connect people and allow people to share their thoughts with a big audience.
 - [Typfully](https://typefully.com/) Write, schedule, and publish great Twitter tweets & threads. Grow your following on Twitter with analytics and metrics about your account.
