@@ -54,6 +54,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
+- [Personal Planning](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#personal-planning)
 - [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
 - [Publishing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#publishing)
 - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
@@ -95,6 +96,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Ethereum](https://ethereum.org/en/)
 - [Gnosis](https://gnosis.io/)
 - [Gorli](https://goerli.net/)
+- [NEAR](https://near.org/)
 - [Optimism](https://www.optimism.io/)
 - [Polygon](https://polygon.technology/)
 - [Solana](https://solana.com/)
@@ -363,6 +365,11 @@ This list is intended as a public good open source project, and as such contribu
 - [Superfluid](https://www.superfluid.finance/) - the leading asset streaming protocol that enables Web3 native subscriptions, salaries and rewards for DAOs and crypto-native businesses. It can be used to describe cash flows and execute them automatically on-chain over time in a non-interactive way.
 - [Utopia](https://www.utopialabs.com/) - streamlining management of contributor payments is a game changer for any team in the Web3 space! Unify Accounting
 
+## Personal Planning
+
+- [Planner DAO](https://www.plannerdao.com/) - empowering financial professionals to make digital assets & decentralized finance accessible to all investors
+- [Sarcophagus DAO](https://sarcophagus.io/) - Sarcophagus is an autonomous, incentivized dead man's switch dApp built on Ethereum and Arweave
+
 ## Podcasts
 
 - [Bankless Podcast](http://podcast.banklesshq.com/) - The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.
@@ -436,7 +443,6 @@ This list is intended as a public good open source project, and as such contribu
 - [Meta Factory](https://www.metafactory.ai/) - a crowdfunding platform for the creation of community-owned brands with an initial focus on fashion/apparel
 - [Open Law](https://www.openlaw.io/) -  a blockchain-based protocol for the creation and execution of legal agreements.
 - [Raid Guild](https://www.raidguild.org/) - the premier design and dev agency of the Web3 ecosystem
-- [Sarcophagus DAO](https://sarcophagus.io/) - Sarcophagus is an autonomous, incentivized dead man's switch dApp built on Ethereum and Arweave
 - [Surge](https://www.surgewomen.io/) -  an online media company on a mission “to engage readers with storytelling.”
 - [The DAOist](https://www.thedaoist.co/) - Summoning conferences, un-conferences, assemblages, informal gatherings and meetups. All kinds of IRL and online gatherings for DAOists of all backgrounds
 - [YAP DAO](https://www.yapdao.xyz/) - a community that provides public relations and communications support to the DeFi world.
@@ -521,6 +527,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Jess](https://twitter.com/thattallguy) - Building @seedclubhq, the leading network for builders and operators of DAOs and Tokenized Communities 🌱
 - [Keith Axline](https://twitter.com/kaxline) - Mobile and web developer, building @republicdao. @JournoDAO. @factlanddao. Formerly of @Medium, @Wired, Raw File. Writer, dadder, musicer. @developer_dao
 - [Kevin Owocki](https://twitter.com/owocki) - internet citizen, DAO cartographer, EVM whisperer & chaos magician @web3eventco (ex @gitcoinDAO) I spin bits for fun/profit, watch out for my MegaByte!
+- [mattwright.eth](https://twitter.com/mateo_ventures) - Community + DAOs @ConsenSys | Contributing @evmfund @wgmicommunity @jpegfunddoteth @dao_nyc_xyz | Prev: @jpmorgan
 - [Metadreamer.ETH](https://twitter.com/META_DREAMER) - DAO engineer piecing together the web3 puzzle 🌱 Dev + Design + Strategy @TheMetaFactory @MetaFam @astrodrop_xyz @VENTURE_DAO @meta_cred @coordinape 🤖🌶🐙
 - [Michael Kisselgof](https://twitter.com/SerKisselgof) - Co-founder @popcorn_dao | Hiring degenuity
 - [ohmzeus](https://twitter.com/ohmzeus) - memes and dreams @OlympusDAO
