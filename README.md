@@ -80,8 +80,11 @@ This list is intended as a public good open source project, and as such contribu
 
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
 - [Building and Running a DAO: Why Governance Matters](https://future.com/building-and-running-a-dao-why-governance-matters/)
+- [Everything you need to know about DAOs](https://foundation.app/blog/everything-you-need-to-know-about-daos)
 - [Evolutionary Organizations](https://orca.mirror.xyz/Kx2hWV3tr1crlBHy2WBTBdR6Dup76AKHKbpbSzYW2kw)
 - [How the devil do I use a Moloch DAO?](https://daohaus.mirror.xyz/9zJrqvsPGwwqrz89Eea6RdsBd8ba9ZG0oCjY05_BXsY)
+- [How to get paid by DAOs](https://newsletter.banklesshq.com/p/how-to-get-paid-by-daos)
+- [What is a DAO](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
 - [What the devil are Moloch DAOs, and why should you care?](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc)
 
 
@@ -192,8 +195,10 @@ This list is intended as a public good open source project, and as such contribu
 - [Buildspace](https://buildspace.so/) - Buildspace accelerates your builder journey into web3. Whether you're just starting out, a seasoned vet transitioning from web2, or thinking of building something cool, you have a home with us. Join 60k+ incredible builders doing just that.
 - [Developer DAO](https://www.developerdao.com/) - a community of thousands of web3 builders creating a better internet.
 - [Forefront](https://forefront.market/) - the launchpad empowering web3 explorers to create at the frontier of tokenized communities. We strive to empower and serve the Web3 world-builders of tomorrow via 1) literacy, 2) tribe and 3) tools.
-- [Guild Protocol](https://guildprotocol.io/) - Our mission is to onboard a new wave of users to the web3 ecosystem by gamifying the user experience of learning 
+- [Guild Protocol](https://guildprotocol.io/) - Our mission is to onboard a new wave of users to the web3 ecosystem by gamifying the user experience of learning
+- [Invisible College](https://www.invisiblecollege.xyz/) - Invisible College is a learning DAO that helps people invest, build, and contribute to web3 projects.
 - [Odyssey DAO](https://www.odysseydao.com/) - a Web3 learning community helping one million people join the Web3 economy. Learn about web3, blockchain, crypto, smart contracts, NFTs, ...
+- [Protein Community](https://www.protein.xyz/learn) - Explore tools, tips, concepts, guides and discussions about the world of Web3
 - [Quest Chains](https://questchains.xyz/) - a gamified learning & onboarding platform. The platform enables both creation and completion of quest chains, which is a gamified equivalent of courses.
 - [Rabbithole](https://rabbithole.gg/) - Complete tasks, learn skills, and earn credentials that prove your knowledge. 
 - [Voice DAO](https://www.voicedao.fun/) - We help non-techies Onboard into the Web3 space
@@ -351,6 +356,8 @@ This list is intended as a public good open source project, and as such contribu
 ## Podcasts
 
 - [Bankless Podcast](http://podcast.banklesshq.com/) - The Ultimate Guide to Crypto Finance. DeFi, NFTs, and cryptocurrencies. Level up. Go bankless.
+- [Club](https://pod.link/1589640079) - by Seed Club DAO: DAOs, Social Tokens, NFTs and more. Club brings you conversations with the people pushing at the edges of the social crypto space.
+- [Crypto Altruism](https://www.cryptoaltruism.org/podcast) - Each episode, we dive into the intersections of cryptocurrency, blockchain, and social impact and cover inspiring use cases, new technological breakthroughs, or mission-driven projects hoping to change the world for the better.
 - [Crypto Sapiens](https://www.cryptosapiens.xyz/) - Crypto Sapiens hosts discussions with innovative Web 3.0 builders to help everyone learn about decentralized money systems including Ethereum, Bitcoin and DeFi. It empowers people with information to better understand the complex crypto ecosystem and go from crypto curious to crypto natives.
 - [DAO or Never](https://dao-or-never.simplecast.com/) -DAO or Never offers an appreciation of DAOs' potential and shares current DAO news, trends, and opportunities. Brought to you by Logos DAO
 - [DAOs Unknown](https://podcasts.apple.com/us/podcast/daos-unknown/id1622875930) - DAOs Unknown is daopedia's podcast. daopedia is THE destination for people to easily discover, learn and get involved in DAOs.
@@ -361,7 +368,9 @@ This list is intended as a public good open source project, and as such contribu
 - [The Daily Gwei](https://www.youtube.com/channel/UCvCp6vKY5jDr87htKH6hgDA) - Daily commentary on the Ethereum ecosystem.
 - [The Forefront Podcast](https://anchor.fm/forefront-podcast) -  We are pioneers exploring & building at the forefront of the Web3 playground. We’ve dug through the noise and surfaced the signal on the state-of-the-art of tokenized communities in the internet-native economy.  
 - [The Green Pill Podcast](https://greenpill.party/) - GreenPill is about crypto-economic systems that create positive externalities for their neighbors & for the world.
-
+- [unchained](https://unchainedpodcast.com/) Tune in every Tuesday for an hour-long interview or discussion with the most interesting thinkers and doers in the space. On Fridays, hear about the hottest news of the week, through a Q&A, plus in the weekly news recap.
+- [Ventures Podcast](https://satchel.works/@wclittle/ventures-podcast) an audio/video podcast devoted to exploring entrepreneurial stories, market landscapes, problem spaces, and opportunities to create for-profit and nonprofit ventures to benefit human beings.
+- [web3 with a16z](https://web3-with-a16z.simplecast.com/) - a show about the next generation of the internet, and about how builders and users -- whether artists, coders, creators, developers, companies, organizations, or communities -- now have the ability to not just "read" (web1) + "write" (web2) but "own" (web3) pieces of the internet, unlocking a new wave of creativity and entrepreneurship
 
 ## Project Management
 
