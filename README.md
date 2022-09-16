@@ -529,6 +529,7 @@ This list is intended as a public good open source project, and as such contribu
  🧠 ᵍᵐ
 - [Issac Patka](https://twitter.com/isaacpatka) - DAO or Never Podcast | http://logos.xyz @0xlogos | isaacpatka.eth | @nowdaoit 🟨| @meta_cartel 🌶 | http://isaacpatka.buidlguidl.com
 - [James.ETH](https://twitter.com/blockchainjames) - DAOs will eat the world. Governance @ 🔥_🔥. 🌶 @meta_cartel 🧙‍♂️ @VENTURE_DAO ✨ @PleasrDAO Digital Art @ http://gallery.so/james
+- [James Young](https://twitter.com/jamesyoung) - @Abridged_io (@Collab_land_) 🦾🤖. Prev FarmVille, AdToken, Spankchain. DAOs: Moloch, MetaCartel. BAYC #5834 :http://verify.collab.land/TmEqcH7CkeDl
 - [Jess](https://twitter.com/thattallguy) - Building @seedclubhq, the leading network for builders and operators of DAOs and Tokenized Communities 🌱
 - [Keith Axline](https://twitter.com/kaxline) - Mobile and web developer, building @republicdao. @JournoDAO. @factlanddao. Formerly of @Medium, @Wired, Raw File. Writer, dadder, musicer. @developer_dao
 - [Kevin Owocki](https://twitter.com/owocki) - internet citizen, DAO cartographer, EVM whisperer & chaos magician @web3eventco (ex @gitcoinDAO) I spin bits for fun/profit, watch out for my MegaByte!
