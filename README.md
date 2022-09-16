@@ -339,8 +339,8 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Legal
 
-- [Lex DAO](https://www.lexdao.coop/) - Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code 
--[Wrapper.wtf](https://www.wrappr.wtf/) - Wrappr is a legal NFT minter and gallery. It comes with premade legal wrappers for wallets and DAOs. The Wrappr suite also gives attorneys and other drafters the power to plug agreements into NFTs and get paid for their awesome open source work.
+- [Lex DAO](https://www.lexdao.coop/) - Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code
+- [Wrapper.wtf](https://www.wrappr.wtf/) - Wrappr is a legal NFT minter and gallery. It comes with premade legal wrappers for wallets and DAOs. The Wrappr suite also gives attorneys and other drafters the power to plug agreements into NFTs and get paid for their awesome open source work.
 
 ## NFT DAOs
 
