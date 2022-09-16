@@ -52,6 +52,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Intellectual Property](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
+- [Legal](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#legal)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
 - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
 - [Personal Planning](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#personal-planning)
@@ -336,6 +337,11 @@ This list is intended as a public good open source project, and as such contribu
 - [Orange DAO](https://www.orangedao.xyz/) - a decentralized venture capital organization
 - [The LAO](https://www.thelao.io/) - The LAO is building infrastructure to support DeFi protocols beyond just providing capital through venture-backed financing
 
+## Legal
+
+- [Lex DAO](https://www.lexdao.coop/) - Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code 
+-[Wrapper.wtf](https://www.wrappr.wtf/) - Wrappr is a legal NFT minter and gallery. It comes with premade legal wrappers for wallets and DAOs. The Wrappr suite also gives attorneys and other drafters the power to plug agreements into NFTs and get paid for their awesome open source work.
+
 ## NFT DAOs
 
 - [Bright Moments](https://www.brightmoments.io/) -  an NFT art gallery, pioneering the future of art being co-created and co-consumed
@@ -439,7 +445,6 @@ This list is intended as a public good open source project, and as such contribu
 - [Domain DAO](http://thedomaindao.org/) - DAO is the NFT domain name ending for the pioneers of decentralized communities
 - [Ethereum Name Service](https://ens.domains/) - a distributed, open, and extensible naming system based on the Ethereum blockchain
 - [H.E.R. DAO](https://linktr.ee/H.E.R.DAO) - H.E.R. is a womxn-driven developer DAO that includes self-identifying women, trans women and non-binary audiences. Our goal is to sustainably diversify the blockchain ecosystem, leading to more versatile product & venture development within.
-- [Lex DAO](https://www.lexdao.coop/) - Our mission is to research, develop and evangelize first-class legal methods and blockchain protocols that secure rules and promises with code 
 - [Meta Factory](https://www.metafactory.ai/) - a crowdfunding platform for the creation of community-owned brands with an initial focus on fashion/apparel
 - [Open Law](https://www.openlaw.io/) -  a blockchain-based protocol for the creation and execution of legal agreements.
 - [Raid Guild](https://www.raidguild.org/) - the premier design and dev agency of the Web3 ecosystem
