@@ -60,6 +60,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Publishing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#publishing)
 - [Project Management](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#project-management)
 - [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
+- [Reddit](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#reddit)
 - [Research-Science](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science)
 - [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#scheduling)
 - [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
@@ -418,6 +419,11 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Cabin DAO](https://www.creatorcabins.com/) - Cabin DAO is creating a community of cabins for web3 workers
 - [City DAO](https://www.citydao.io/) - CityDAO is exploring decentralized asset ownership on chain, starting with a piece of land in Wyoming
+
+## Reddit
+
+- [r/DAO](https://www.reddit.com/r/dao/) - We discuss key architectural principles, layers in the DAO protocol suite (Internet layer, machine learning layer, cryptocurrency layer, crypto-market layer, etc.) and especially applications. We lay the philosophic, economic, and technical groundwork for the coders of tomorrow.
+- [r/TheDao](https://www.reddit.com/r/TheDao/) - This sub was originally created for The DAO by Slock.it. It will now be used as a place to foster growth for the many DAOs that have sprung from the void The DAO left behind.
 
 ## Research-Science
 
