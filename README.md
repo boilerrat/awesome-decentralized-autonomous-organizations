@@ -260,6 +260,7 @@ This list is intended as a public good open source project, and as such contribu
 - [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as) - OpenSea Ecosystem Grants seek to empower creators, developers, and passionate community members working to enrich and expand the NFT ecosystem.
 - [Optimism Grants](https://gov.optimism.io/c/proposals/38) -  These funds will be distributed strategically by the Optimism Foundation to grow the Optimism ecosystem for the benefit of the entire Collective
 - [Protocol Labs](https://protocol.ai/) - The Protocol Labs Research Grant Program aims to both support collaborative work on problems defined by the broader research community
+- [Public Nouns](https://publicnouns.wtf/) - Nouns for the Public Good.
 - [Questbook](https://t.co/f7O4zCHFqc) - The best way to run grant and bounty programs for DAOs and foundations.
 - [Radicle Grants](https://radicle.mirror.xyz/7RDTvdxABVndpZge9VT09Ku5JXD8lCCCpLRRZaVrtJU) - Radicle Grants: Funding Open Source to Grow Open Source
 - [steamr](https://streamr.network/fund/) - The Data Fund supports projects that further the vision of a decentralized data economy
