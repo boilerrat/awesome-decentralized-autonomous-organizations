@@ -21,7 +21,7 @@ tags: DAOs, Awesome List
 A curated list of resources and projects for decentralized autonomous organizations, or DAOs. Everything needed to start your own DAO.
 
 DAOs are a way to form organizations leveraging smart contracts on blockchains. This enables people to work together democratically across great divides.
-This list is intended as a public good open source project, and as such contributions are open to the public. The list will be curated for quality and to avoid duplication, however, if an item fits equally in more than one category, duplication should be fine. This will enable users to better pinpoint queries, without having to go through the entire list. The repo will not accept pull requests that in any way can be construed as harmful or disrepectful to our fellow human beings.
+This list is intended as a public good open source project, and as such contributions are open to the public. The list will be curated for quality and to avoid duplication, however, if an item fits equally in more than one category, duplication should be fine. This will enable users to better pinpoint queries, without having to go through the entire list. The repo will not accept pull requests that in any way can be construed as harmful or disrespectful to our fellow human beings.
 
 ## Contents
 
@@ -29,7 +29,6 @@ This list is intended as a public good open source project, and as such contribu
 - [Blockchains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains)
 - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
 - [Comics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comics)
-- [Communication Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#communication-apps)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-aggregators)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-analytics)
 - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
@@ -46,7 +45,7 @@ This list is intended as a public good open source project, and as such contribu
   - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants)
   - [Incubators](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#incubators)
 - [Gaming DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#gaming-daos)
-- [Governance Exentsions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
+- [Governance Extensions](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#governance-extensions)
 - [Identity/Reputation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#identityreputation)
 - [Impact DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#impact-daos)
 - [Insurance](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#insurance)
@@ -69,7 +68,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Social DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-daos)
 - [Sybil](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sybil)
 - [Social Tokens](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-tokens)
-- [Social Media](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-media)
+- [Social Platforms](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-platforms)
 - [Treasury](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#treasury)
 - [Twitter](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter) 
   - [Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#influencers)
@@ -110,7 +109,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Double Counter](https://dcounter.space/) Discord Alt Blocker
 - [Dyno](https://dyno.gg/) - General Server Management
 - [mee6](https://mee6.xyz/) - General Server Management
-- [Sesh](https://sesh.fyi/) - Calender and Events Discord Bot
+- [Sesh](https://sesh.fyi/) - Calendar and Events Discord Bot
 - [tip.cc](https://tip.cc/) - Send and Receive crypto tips
 - [Wick](https://wickbot.com/) - Discord security and moderation
 
@@ -118,15 +117,6 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Comics DAO](https://juicebox.money/v2/p/31) - Partial Ownership of high value Comics
 - [Hero DAO](https://herodao.org/) - focused on rebooting comic book heroes who have fallen into the public domain, and building a community owned franchise
-
-## Communication Apps
-
-- [Discord](https://discord.com/) -  is a free voice, video, and text chat app
-- [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more
-- [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging
-- [Session](https://getsession.org/) - a private messenger offering privacy, anonymity, and security. With end-to-end encryption, no phone numbers for sign-up, and decentralisation, Session is a messenger that truly keeps your messages private and secure.
-- [Syndicate](https://syndicat.es/) - web3 community chat app
-- [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
 
 ## DAO Aggregators
 
@@ -405,6 +395,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Hackmd](https://hackmd.io/) - HackMD is a real-time, multi-platform collaborative Markdown editor. You can use HackMD to write notes with other people on your computer, tablet, or phone.
 - [Nestr](https://nestr.io/) - Nestr lets you collaborate with your colleagues, friends & family. Simply invite them to the workspaces you would like to share and start collaborating. Request work, have discussions, hold meetings or share files, it's all there!
 - [Notion](https://www.notion.so/) - Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.
+- [Murmur](https://www.murmur.com/) - Decisions, not documents. Murmur doesn't have static documents. It has a process — for new ideas and collaborative decisions.
 - [Radicle](https://radicle.xyz/) - A peer-to-peer stack for building software together
 - [Wonderverse](https://www.wonderverse.xyz/) - an all-in-one tool that aims to increase global accessibility to entrepreneurship and empower DAOs to launch and scale projects on a native web3 platform.
 
@@ -480,19 +471,26 @@ This list is intended as a public good open source project, and as such contribu
 - [MetaGame](https://metagame.wtf/) - A DAO building a massive online coordination game about finding the most optimal ways to play life on a personal as well as the collective level.
 - [Spork DAO](https://www.sporkdao.com/) - SporkDAO represents the final leg of the journey towards transitioning ETHDenver to a community owned ecosystem
 
-## Social Media
+## Social Platforms
 
+- [Discord](https://discord.com/) -  is a free voice, video, and text chat app
+- [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more
+- [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging
 - [Lenster](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol
-- [Minds](https://www.minds.com/) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media. 
+- [Minds](https://www.minds.com/) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
+- [Orb](https://orb.ac/) - Decentralized professional social media app for web3 working professionals with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on the Polygon chain.  
 - [Orbis Club](https://orbis.club/) - Orbis is a decentralized web3 social protocol built on Ceramic. On Orbis, users own their profile, their posts, their audience, their direct messages etc and they can access it from wherever they want.
 - [Phaver](https://phaver.com/)  - Share-to-earn decentralized social platform
+- [Session](https://getsession.org/) - a private messenger offering privacy, anonymity, and security. With end-to-end encryption, no phone numbers for sign-up, and decentralisation, Session is a messenger that truly keeps your messages private and secure.
+- [Syndicate](https://syndicat.es/) - web3 community chat app
+- [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
 - [Twitter](https://twitter.com) - a social media site, and its primary purpose is to connect people and allow people to share their thoughts with a big audience.
 - [Typfully](https://typefully.com/) Write, schedule, and publish great Twitter tweets & threads. Grow your following on Twitter with analytics and metrics about your account.
 
 ## Social Tokens
 
 - [Rally](https://rally.io/) - a platform for creators and their communities to build their own independent digital economies by enabling creators, artists, celebrities, communities and brands to launch their own social tokens and NFTs.
-- [Roll](https://tryroll.com/) - provides custodial Ethereum wallets capable of sending social tokens from the Etherum blockchain and within the Roll network
+- [Roll](https://tryroll.com/) - provides custodial Ethereum wallets capable of sending social tokens from the Ethereum blockchain and within the Roll network
 
 ## Sybil
 
