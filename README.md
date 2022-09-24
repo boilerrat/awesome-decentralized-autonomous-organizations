@@ -136,6 +136,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Adam](https://alpha.adamdao.io/) - a platform for communities to unleash their values with no-code DAO creation within minutes
 - [Aragon](https://aragon.org/) - Aragon is an open-source software used to maintain and create decentralized autonomous organizations (DAOs) on the Ethereum blockchain
 - [Astro DAO](https://astrodao.com/) - Astro is home to hundreds of Decentralized Autonomous Organizations on NEAR Protocol. Start earning by contributing your skills or supercharge your own community with the power of web3
+- [Ciety](https://www.ciety.xyz/) - Future Communication tool for WEB3 Game & DAO
 - [Colony](https://colony.io/) - Colony makes it easy for people all over the world to build organizations together, online.
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium) - Application developers can build their own custom workflows and interfaces to facilitate the participation of their users and communities in Compound governance. 
 - [DAOhaus](https://daohaus.club/) - a no-code platform for launching and operating DAOs, which uses the Moloch open source code. It includes functionality to: Launch, vote on, and process proposals.
