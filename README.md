@@ -29,6 +29,7 @@ This list is intended as a public good open source project, and as such contribu
 - [Blockchains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains)
 - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
 - [Comics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comics)
+- [Communication](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#Communication)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-aggregators)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-analytics)
 - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
@@ -117,6 +118,12 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Comics DAO](https://juicebox.money/v2/p/31) - Partial Ownership of high value Comics
 - [Hero DAO](https://herodao.org/) - focused on rebooting comic book heroes who have fallen into the public domain, and building a community owned franchise
+
+## Communication
+
+- [Clubhouse](https://www.clubhouse.com/) - A private place to meet up regularly, talk about anything, and hop from room to room
+- [Push Protocol](https://push.org/) - an on-chain credit protocol that helps unlock crypto commerce, allowing users to create and pay invoices in an entirely decentralized way.
+
 
 ## DAO Aggregators
 
@@ -211,6 +218,7 @@ This list is intended as a public good open source project, and as such contribu
 ## Finding Work
 
 - [Angel List](https://angel.co/) - AngelList is a platform for startups
+- [Cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - The leading job board for blockchain jobs and cryptocurrency jobs
 - [Opolis](https://opolis.co/) - A Member-Owned Employment Cooperative.
 - [Voice DAO](https://www.voicedao.fun/) - We help non-techies Onboard into the Web3 space
 
@@ -436,6 +444,7 @@ This list is intended as a public good open source project, and as such contribu
 
 - [Calendy](https://calendly.com/) -  the modern scheduling platform that makes “finding time” a breeze
 - [lettucemeet](https://lettucemeet.com/) - the easiest way to schedule group meetings. Instead of having to preselect time blocks, LettuceMeet lets everyone add their availability on a grid so you can see the slot that best overlaps.
+- [Meet With Wallet](https://meetwithwallet.xyz/) -  Meet with Wallet provides an easy way to share your (or your DAO's) calendar and schedule meetings without any hassle or back-and-forth communication. All possible by simply connecting your crypto wallet.
 
 ## Service DAOs
 
