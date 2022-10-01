@@ -3,7 +3,7 @@ tags: DAOs, Awesome List
 ---
 
 # awesome-decentralized-autonomous-organizations
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![hackmd-github-sync-badge](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ/badge)](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ)
 
 
@@ -589,26 +589,5 @@ This list is intended as a public good open source project, and as such contribu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## License
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
