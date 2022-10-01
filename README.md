@@ -274,6 +274,8 @@ This list is intended as a public good open source project, and as such contribu
 
 ## Gaming DAOs
 
+- [Illuvium](https://www.illuvium.io/) - The genesis of the Illuvium project was a desire to make a collectible NFT game that was open, transparent, and governed by the community.
+- [Tollan Worlds](https://tollan.io/) - Pixel 2D MMORPG owned by its players
 - [Treasure DAO](https://treasure.lol/) -  a decentralized network of games and communities connected through imagination, $MAGIC, and NFTs.
 
 ## Governance Extensions
