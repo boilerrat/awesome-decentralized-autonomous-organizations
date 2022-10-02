@@ -66,8 +66,8 @@ This list is intended as a public good open source project, and as such contribu
 - [Sports DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sports-daos)
 - [Social DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-daos)
 - [Sybil](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sybil)
-- [Social Tokens](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-tokens)
 - [Social Platforms](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#social-platforms)
+- [Token Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#token-creation)
 - [Treasury](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#treasury)
 - [Twitter](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#twitter) 
   - [Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#influencers)
@@ -497,16 +497,18 @@ This list is intended as a public good open source project, and as such contribu
 - [Twitter](https://twitter.com) - a social media site, and its primary purpose is to connect people and allow people to share their thoughts with a big audience.
 - [Typfully](https://typefully.com/) Write, schedule, and publish great Twitter tweets & threads. Grow your following on Twitter with analytics and metrics about your account.
 
-## Social Tokens
-
-- [Rally](https://rally.io/) - a platform for creators and their communities to build their own independent digital economies by enabling creators, artists, celebrities, communities and brands to launch their own social tokens and NFTs.
-- [Roll](https://tryroll.com/) - provides custodial Ethereum wallets capable of sending social tokens from the Ethereum blockchain and within the Roll network
-
 ## Sybil
 
 - [BrightID](https://www.brightid.org/) - a personal identifier that allows you to receive rights and benefits based on your ability to prove that you're a unique person
 - [Governor](https://onlyoneme.governordao.org/) - Through our Proof of Existence Token & Governance Services (GaaS) we aim to set the standard for decentralized governance & biometric voting on the blockchain.
 - [Proof of Humanity](https://www.proofofhumanity.org/) -  a system combining webs of trust, with reverse Turing tests, and dispute resolution to create a sybil-proof list of humans.
+
+## Token Creation
+
+- [Coinvise](https://www.coinvise.co/) - Powerful Tools For Creators To Build & Operate Tokenized Communities
+- [Open Zeppelin](https://www.openzeppelin.com/) - The standard for secure blockchain applications. OpenZeppelin provides security products to build, automate, and operate decentralized applications.
+- [Rally](https://rally.io/) - a platform for creators and their communities to build their own independent digital economies by enabling creators, artists, celebrities, communities and brands to launch their own social tokens and NFTs.
+- [Roll](https://tryroll.com/) - provides custodial Ethereum wallets capable of sending social tokens from the Ethereum blockchain and within the Roll network
 
 ## Treasury
 
