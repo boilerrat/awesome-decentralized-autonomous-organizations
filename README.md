@@ -172,6 +172,8 @@ This list is intended as a public good open source project, and as such contribu
 
 - [arweave](https://www.arweave.org/) - a Decentralized Storage Network (DSN) that connects people who have extra available computer disk space with those who need more computer storage
 - [ceramic](https://ceramic.network/) - a permissionless protocol for creating and accessing mutable, tamper-proof documents that serve as the foundation for a web without silos. Ceramic's infrastructure provides a verifiable, censorship-resistant source of truth for important information that is public and interoperable.
+- [Crust](https://crust.network/) - Crust Network is a decentralized cloud storage provider which was designed to realize our three core values: decentralization, privacy, and assurance. Crust supports multiple storage-layer protocols such as IPFS, and exposes instant accessible on-chain storage functions to users.
+- [Filecoin](https://filecoin.io/) - Filecoin is an open-source cloud storage marketplace, protocol, and incentive layer. 
 - [IPFS](https://ipfs.tech/) - a protocol, hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts.
 - [Kepler](https://www.kepler.xyz/) - Securely store digital credentials, dapp preferences, private files, and more–all using your Web3 wallet, with rules set by you.
 
@@ -484,7 +486,8 @@ This list is intended as a public good open source project, and as such contribu
 ## Social Platforms
 
 - [Discord](https://discord.com/) -  is a free voice, video, and text chat app
-- [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more
+- [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more.
+- [Farcaster](https://www.farcaster.xyz/) - Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. 
 - [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging
 - [Lenster](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol
 - [Minds](https://www.minds.com/) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
