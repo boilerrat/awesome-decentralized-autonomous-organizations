@@ -579,6 +579,7 @@ This list is intended as a public good open source project, and as such contribu
 *Note to contributor's, only add regularily repeating events.*
 
 - [HAUSparty](https://twitter.com/nowdaoit) Thursday's 2:00 PM Eastern / 11:00 AM Pacific Discussing the latest topics facing the DAO community.
+- [Meta Cartel Demo Daze](https://twitter.com/Meta_Cartel) - A Showcase of Meta Cartel grant recipients, every other Friday commencing Oct 14, 2002
 
 ## Voting Apps
 
