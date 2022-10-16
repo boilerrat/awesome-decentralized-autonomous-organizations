@@ -88,6 +88,12 @@ This list is intended as a public good open source project, and as such contribu
 - [What is a DAO](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
 - [What the devil are Moloch DAOs, and why should you care?](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc)
 
+This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
+🍃 Your project is available at:
+
+   (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno                                            
+   (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno/remotes/hydcdhgg8w7xkdwk3sse3i45hprs6twhrntthkwudytar1j8zy3tog                                                          
+   (git) https://willow.radicle.garden/hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno.git     
 
 ## Blockchains
 
