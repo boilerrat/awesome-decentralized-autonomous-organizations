@@ -21,6 +21,16 @@ A curated list of resources and projects for decentralized autonomous organizati
 DAOs are a way to form organizations leveraging smart contracts on blockchains. This enables people to work together democratically across great divides.
 This list is intended as a public good open source project, and as such contributions are open to the public. The list will be curated for quality and to avoid duplication, however, if an item fits equally in more than one category, duplication should be fine. This will enable users to better pinpoint queries, without having to go through the entire list. The repo will not accept pull requests that in any way can be construed as harmful or disrespectful to our fellow human beings.
 
+---
+
+This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
+🍃 :
+   (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno                                            
+   (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno/remotes/hydcdhgg8w7xkdwk3sse3i45hprs6twhrntthkwudytar1j8zy3tog                                                          
+   (git) https://willow.radicle.garden/hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno.git    
+   
+---
+
 ## Contents
 
 - [Articles](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#articles)
@@ -74,8 +84,6 @@ This list is intended as a public good open source project, and as such contribu
   - [Lists to Follow](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#lists-to-follow)
 - [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
 
----
-
 
 ## Articles
 
@@ -87,13 +95,6 @@ This list is intended as a public good open source project, and as such contribu
 - [How to get paid by DAOs](https://newsletter.banklesshq.com/p/how-to-get-paid-by-daos)
 - [What is a DAO](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
 - [What the devil are Moloch DAOs, and why should you care?](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc)
-
-This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
-🍃 Your project is available at:
-
-   (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno                                            
-   (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno/remotes/hydcdhgg8w7xkdwk3sse3i45hprs6twhrntthkwudytar1j8zy3tog                                                          
-   (git) https://willow.radicle.garden/hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno.git     
 
 ## Blockchains
 
