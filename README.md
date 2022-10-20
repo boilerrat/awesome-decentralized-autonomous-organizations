@@ -62,6 +62,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Investment DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#investment-daos)
 - [Legal](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#legal)
 - [NFT DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#nft-daos)
+- [Notifications](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#notifications)
 - [Payroll](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#payroll)
 - [Personal Planning](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#personal-planning)
 - [Podcasts](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#podcasts)
@@ -368,6 +369,11 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Tessera](https://tessera.co/) - a NFT platform that unlocks liquidity, reduces entry costs, and allows for synergy with other DeFi primitives.
 - [Ultra DAO](https://ultradao.org/) - a future-thinking creative arts organization bringing together artists, developers, and entrepreneurs to create unique entertainment media, decentralized brands, and NFT projects
 
+## Notifications
+
+- [HAL](https://hal.xyz/) - Turn smart contracts into APIs. Implement Web3 notifications for your users. Query, trigger, monitor, and automate blockchain data quickly and easily.
+- [Push Protocol](https://push.org/) - Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.
+- 
 ## Payroll
 
 - [Bulla Network](https://bulla.network/) - an on-chain credit protocol that helps unlock crypto commerce, allowing users to create and pay invoices in an entirely decentralized way.
