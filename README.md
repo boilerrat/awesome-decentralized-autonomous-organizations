@@ -37,7 +37,6 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Blockchains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains)
 - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
 - [Comics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comics)
-- [Communication](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#Communication)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-aggregators)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#data-analytics)
 - [DAO Creation](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-creation)
@@ -124,12 +123,6 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 
 - [Comics DAO](https://juicebox.money/v2/p/31) - Partial Ownership of high value Comics
 - [Hero DAO](https://herodao.org/) - focused on rebooting comic book heroes who have fallen into the public domain, and building a community owned franchise
-
-## Communication
-
-- [Clubhouse](https://www.clubhouse.com/) - A private place to meet up regularly, talk about anything, and hop from room to room
-- [Push Protocol](https://push.org/) - an on-chain credit protocol that helps unlock crypto commerce, allowing users to create and pay invoices in an entirely decentralized way.
-
 
 ## DAO Aggregators
 
@@ -498,7 +491,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 
 ## Social Platforms
 
-- [Discord](https://discord.com/) -  is a free voice, video, and text chat app
+- [Clubhouse](https://www.clubhouse.com/) - A private place to meet up regularly, talk about anything, and hop from room to room- [Discord](https://discord.com/) -  is a free voice, video, and text chat app
 - [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more.
 - [Farcaster](https://www.farcaster.xyz/) - Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. 
 - [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging
