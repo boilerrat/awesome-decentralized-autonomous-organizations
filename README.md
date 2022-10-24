@@ -303,6 +303,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Cyberconnect](https://cyberconnect.me/) - Cyberconnect is a decentralized social graph protocol that helps dapps bootstrap neywork effects and build personalized social experiences.
 - [Deep Skills Protocol](https://deepwork.studio/case-studies/deep-skills%20protocol) - "Deep Skills is a software that lets organizations use the same recruitment and coordination infrastructure that Deep Work uses to onboard and vet experts
 - [Gitcoin Passport](https://passport.gitcoin.co/) - Grow a decentralized identity record with various credentials about you. Through the network of sources about your personhood, applications like Gitcoin Grants 2.0 gives you rights like matching weight in Quadratic Funding.
+- [GitPOAP](https://www.gitpoap.io/) - Recognition for Your Contributions. Issue digital badges as a special way to nurture your community. Earn them to build an unbiased track record of your work.
 - [Hats Protocol](https://mobile.twitter.com/hatsprotocol) - A protocol for emitting and revoking DAO role NFTs
 - [Identity Link Services](https://github.com/ceramicstudio/identitylink-services)Services for issuing verifiable credentials that link a DID to social accounts including Twitter, Github, and Discord 
 - [IDX](https://idx.xyz/) -  an open source multi-platform identity protocol that allows users to build up a unified digital identity and freely share their data between apps
