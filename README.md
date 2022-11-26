@@ -313,6 +313,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Otterspace](https://www.otterspace.xyz/) - Otterspace’s non-transferable badge protocol helps DAOs create better incentive systems, automate permissions and enable non-financialized governance 
 - [Orange Protocol](https://www.orangeprotocol.io/) - Orange is a protocol for building trustless, decentralized, and portable reputation for Web3. 
 - [poap](https://app.poap.xyz/) - POAP is an acronym for "Proof of Attendance Protocol," and NFTs are non-fungible tokens. Simply put, an NFT is a unique digital collectible.
+- [rep3](https://rep3.gg/) - Credentialing for Communities
 - [Sourcecred](https://sourcecred.io/) - A tool for communities to measure and reward value creation
 - [Spruce](https://www.spruceid.com/spruceid) - Decentralized Identity Toolkit for Decentralized Identity. Everything you need for signing, sharing, and verifying trusted information.
 - [WallID](https://wallid.io/) - The digital wallet for ID assets ; Build an ID portfolio only you control
