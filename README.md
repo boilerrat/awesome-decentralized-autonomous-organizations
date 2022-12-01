@@ -320,11 +320,12 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 
 ## Impact DAOs
 
-- [ReFi DAO](https://refidao.com/) - ReFi DAO is a founder-led startup community that accelerates impact for people and planet. We're building an ecosystem and a protocol to catalyze a regenerative economy through 2050 and beyond
+- [Giveth](https://giveth.io) - Giveth is building a culture and economy that rewards and empowers those who give.
 - [Koknut Network](https://kokonut.network/) - Kokonut Network brings blockchain governance & open-source accounting to the agriculture industry
 - [Kolektivo](https://www.kolektivo.co/) -  leverages the latest web3 technologies to shape a world where human coordination pivots radical change.
+- [ReFi DAO](https://refidao.com/) - ReFi DAO is a founder-led startup community that accelerates impact for people and planet. We're building an ecosystem and a protocol to catalyze a regenerative economy through 2050 and beyond
 - [Ukraine DAO](https://linktr.ee/ukrainedao) - organized sale is the largest NFT-based crypto contribution to Ukraine's war efforts to date.
-- [Giveth](https://giveth.io) - Giveth is building a culture and economy that rewards and empowers those who give.
+
 
 ## Insurance
 
@@ -464,6 +465,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Domain DAO](http://thedomaindao.org/) - DAO is the NFT domain name ending for the pioneers of decentralized communities
 - [Ethereum Name Service](https://ens.domains/) - a distributed, open, and extensible naming system based on the Ethereum blockchain
 - [H.E.R. DAO](https://linktr.ee/H.E.R.DAO) - H.E.R. is a womxn-driven developer DAO that includes self-identifying women, trans women and non-binary audiences. Our goal is to sustainably diversify the blockchain ecosystem, leading to more versatile product & venture development within.
+- [Llama](https://llama.xyz/) - The Home for DAO Contributors. Llama is a community that works with DAOs on protocol engineering, treasury management, and analytics.
 - [Meta Factory](https://www.metafactory.ai/) - a crowdfunding platform for the creation of community-owned brands with an initial focus on fashion/apparel
 - [Open Law](https://www.openlaw.io/) -  a blockchain-based protocol for the creation and execution of legal agreements.
 - [Raid Guild](https://www.raidguild.org/) - the premier design and dev agency of the Web3 ecosystem
