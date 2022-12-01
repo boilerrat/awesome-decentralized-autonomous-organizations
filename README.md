@@ -324,6 +324,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Koknut Network](https://kokonut.network/) - Kokonut Network brings blockchain governance & open-source accounting to the agriculture industry
 - [Kolektivo](https://www.kolektivo.co/) -  leverages the latest web3 technologies to shape a world where human coordination pivots radical change.
 - [Ukraine DAO](https://linktr.ee/ukrainedao) - organized sale is the largest NFT-based crypto contribution to Ukraine's war efforts to date.
+- [Giveth](https://giveth.io) - Giveth is building a culture and economy that rewards and empowers those who give.
 
 ## Insurance
 
