@@ -70,7 +70,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Real Estate](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#real-estate)
 - [Reddit](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#reddit)
 - [Research-Science](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#research-science)
-- [Schedluing](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#scheduling)
+- [Scheduling](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#scheduling)
 - [Service DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#service-daos)
 - [Smart Contracts and Development](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#smart-contracts-and-development)
 - [Sports DAOs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#sports-daos)
@@ -246,7 +246,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 
 - [Alchemy WAGBI Grants](https://www.alchemy.com/developer-grant-program) - Introducing WAGBI Grants (We're All Gonna Build It)! We're committing $25 million to help developers continue building DeFi protocols, NFT experiences, or any project that helps bring web3 to the world. Each project will be eligible to receive up to $50,000 in credits. 
 - [Bit DAO](https://www.bitdao.io/) - BitDAO is a collective of builders, products, and mutually beneficial ecosystems governed by $BIT token holders.
-- [clr.fund](https://clr.fund/#) - a protocol for efficiently allocating funds to public goods that benefit the Ethereum Network according to the prefences of the Ethereum Community.
+- [clr.fund](https://clr.fund/#) - a protocol for efficiently allocating funds to public goods that benefit the Ethereum Network according to the preferences of the Ethereum Community.
 - [Cult DAO](https://cultdao.io/) - a completely decentralized funding mechanism that allows everybody to contribute novel solutions.
 - [Ethereum Foundation](https://ethereum.org/en/community/grants/) - Our mission is to do what is best for Ethereum's long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.
 - [Gitcoin](https://gitcoin.co/) - Gitcoin Grants sustain projects with Quadratic Funding
@@ -300,7 +300,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 ## Identity/Reputation
 
 - [C-Voxel](https://testnet.cvoxel.xyz/intro) - You can change your transactions into “C-Voxel” and easiliy share them on Web3.0 as your on-chain CV.
-- [Cyberconnect](https://cyberconnect.me/) - Cyberconnect is a decentralized social graph protocol that helps dapps bootstrap neywork effects and build personalized social experiences.
+- [Cyberconnect](https://cyberconnect.me/) - Cyberconnect is a decentralized social graph protocol that helps dapps bootstrap network effects and build personalized social experiences.
 - [Deep Skills Protocol](https://deepwork.studio/case-studies/deep-skills%20protocol) - "Deep Skills is a software that lets organizations use the same recruitment and coordination infrastructure that Deep Work uses to onboard and vet experts
 - [Gitcoin Passport](https://passport.gitcoin.co/) - Grow a decentralized identity record with various credentials about you. Through the network of sources about your personhood, applications like Gitcoin Grants 2.0 gives you rights like matching weight in Quadratic Funding.
 - [GitPOAP](https://www.gitpoap.io/) - Recognition for Your Contributions. Issue digital badges as a special way to nurture your community. Earn them to build an unbiased track record of your work.
@@ -355,7 +355,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Bright Moments](https://www.brightmoments.io/) -  an NFT art gallery, pioneering the future of art being co-created and co-consumed
 - [Doodles](https://doodles.app/) - Doodles are a collection of 10,000 NFTs (non-fungible tokens) that are made up of hundreds of exciting visual traits designed by Burnt Toas
 - [Emergence DAO](https://opensea.io/Emergence_DAO_Burner_Account) - A collection born out of the fire
-- [Fingerprints DAO](https://fingerprintsdao.xyz/) - We are launching the Fingeprints DAO, owner of the Fingerprints Collection. The main goal of the DAO is to curate, collect and promote on-chain artwork.
+- [Fingerprints DAO](https://fingerprintsdao.xyz/) - We are launching the Fingerprints DAO, owner of the Fingerprints Collection. The main goal of the DAO is to curate, collect and promote on-chain artwork.
 - [Flamingo DAO](https://flamingodao.xyz/) - an NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets.
 - [Lil Nouns](https://lilnouns.wtf/) - Lil Nouns are just like Nouns, but Lil! An expansion DAO based on Nouns DAO, Lil Nouns DAO works to create a new layer within the Nouns ecosystem; Nouns as kids.
 - [NIL DAO](https://www.nildao.xyz/) - Nil is a community-curated marketplace looking to harmonize the relationship between the creator economy participants.We are a cooperative of hackers & painters looking to collectively establish the decentralized foundations on which the creator economy will thrive.
@@ -452,7 +452,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Vita DAO](https://www.vitadao.com/) - VitaDAO is a DAO collective for community-governed and decentralized drug development. Our core mission is the acceleration of research and development (R&D) in the longevity space and the extension of human life and healthspan.
 - [Wagmi Labs](https://wagmi.ink/) - We love tinkering with decentralized algorithmic currencies
 
-## Schedluing
+## Scheduling
 
 - [Calendy](https://calendly.com/) -  the modern scheduling platform that makes “finding time” a breeze
 - [lettucemeet](https://lettucemeet.com/) - the easiest way to schedule group meetings. Instead of having to preselect time blocks, LettuceMeet lets everyone add their availability on a grid so you can see the slot that best overlaps.
@@ -587,7 +587,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [DAOs to keep an 👁 on](https://twitter.com/i/lists/1467034519807016960)
 
 ### Spaces
-*Note to contributor's, only add regularily repeating events.*
+*Note to contributors, only add regularly repeating events.*
 
 - [HAUSparty](https://twitter.com/nowdaoit) Thursday's 2:00 PM Eastern / 11:00 AM Pacific Discussing the latest topics facing the DAO community.
 - [Meta Cartel Demo Daze](https://twitter.com/Meta_Cartel) - A Showcase of Meta Cartel grant recipients, every other Friday commencing Oct 14, 2002
