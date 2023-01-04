@@ -114,6 +114,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Collab.Land](https://collab.land/) - Tokenized Community Management
 - [Double Counter](https://dcounter.space/) Discord Alt Blocker
 - [Dyno](https://dyno.gg/) - General Server Management
+- [Guild.xyz](https://guild.xyz/) - Build your tokenized Guild Automated membership management for the platforms your community already uses.
 - [mee6](https://mee6.xyz/) - General Server Management
 - [Sesh](https://sesh.fyi/) - Calendar and Events Discord Bot
 - [tip.cc](https://tip.cc/) - Send and Receive crypto tips
