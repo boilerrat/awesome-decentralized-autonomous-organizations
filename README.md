@@ -285,7 +285,8 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [AUT](https://aut.id/) - Aut is an expandable community protocol, powering the next level of collective coordination in DAOs. It does so by adding Role-based Membership & Governance in Web3 communities.
 - [Avenue](https://avenue.place/) - A platform to surface Discord’s core context on projects, ways to contribute, and contributor engagement so DAOs and teams can focus on their work.
 - [Boardroom](https://boardroom.io/) - a governance aggregator helping members. make faster, smarter, and more informed decisions.
-- [Commonwealth](https://commonwealth.im/) - an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again. 
+- [Commonwealth](https://commonwealth.im/) - an all-in-one platform for on-chain communities to discuss, vote, and fund projects together. Never miss an on-chain event, proposal, or important discussion again.
+- [den](https://www.onchainden.com/) -  Get your multisig transactions signed and executed fast. Stop wrangling signers, squinting at addresses, and spending hours creating transactions. Start executing fast.
 - [Governor DAO](https://governordao.org/) - Governance as a Service – Effective solutions ensuring proper governance for blockchain projects of all sizes Governor DAO – Biometrics, Blockchain development
 - [Govrn](https://linktr.ee/Govrn) - At Govrn, we believe that anything that governs you, you should be able to govern. 
 - [Guild](https://guild.xyz/) - Automated membership management for the platforms your community already uses.
