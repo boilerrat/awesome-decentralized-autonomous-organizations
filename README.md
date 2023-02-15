@@ -99,6 +99,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 ## Blockchains
 
 - [Arbitrum](https://portal.arbitrum.one/)
+- [Canto](https://canto.io/)
 - [Celo](https://celo.org/)
 - [Ethereum](https://ethereum.org/en/)
 - [Gnosis](https://gnosis.io/)
@@ -276,7 +277,9 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 
 ## Gaming DAOs
 
+- [GuildFi](https://guildfi.com/) - GuildFi aspires to create an interconnected ecosystem of games, NFTs, and communities, to maximize players' benefits and enable interoperability across the metaverse.
 - [Illuvium](https://www.illuvium.io/) - The genesis of the Illuvium project was a desire to make a collectible NFT game that was open, transparent, and governed by the community.
+- [Merit Circle](https://meritcircle.io/) - Merit Circle DAO is an ever-evolving digital ecosystem built by a global community to ensure the future of gaming.
 - [Tollan Worlds](https://tollan.io/) - Pixel 2D MMORPG owned by its players
 - [Treasure DAO](https://treasure.lol/) -  a decentralized network of games and communities connected through imagination, $MAGIC, and NFTs.
 
