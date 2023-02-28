@@ -105,6 +105,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Gorli](https://goerli.net/)
 - [NEAR](https://near.org/)
 - [Optimism](https://www.optimism.io/)
+- [Polkadot](https://polkadot.network/)
 - [Polygon](https://polygon.technology/)
 - [Solana](https://solana.com/)
 
