@@ -1,7 +1,3 @@
----
-tags: DAOs, Awesome List
----
-
 # awesome-decentralized-autonomous-organizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![hackmd-github-sync-badge](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ/badge)](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ)
 
 
@@ -15,20 +11,12 @@ tags: DAOs, Awesome List
 /__(  )__\ \_/ \_/    \____/____/   \____(/          \\____\ (______//__(  )__\\____/   
                                                                                         
 ```
-
+## Description
 A curated list of resources and projects for decentralized autonomous organizations, or DAOs. Everything needed to start your own DAO.
 
 DAOs are a way to form organizations leveraging smart contracts on blockchains. This enables people to work together democratically across great divides.
 This list is intended as a public good open source project, and as such contributions are open to the public. The list will be curated for quality and to avoid duplication, however, if an item fits equally in more than one category, duplication should be fine. This will enable users to better pinpoint queries, without having to go through the entire list. The repo will not accept pull requests that in any way can be construed as harmful or disrespectful to our fellow human beings.
 
----
-
-This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
-🍃 :
-+ (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno                                            
-+ (web) https://app.radicle.network/seeds/willow.radicle.garden/rad:git:hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno/remotes/hydcdhgg8w7xkdwk3sse3i45hprs6twhrntthkwudytar1j8zy3tog                                                          
-+ (git) https://willow.radicle.garden/hnrkq7fjg9iut3hz4boiq49n6h3ou7i45ywno.git    
-   
 ---
 
 ## Contents
