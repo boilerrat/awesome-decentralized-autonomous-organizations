@@ -1,4 +1,4 @@
-# awesome-decentralized-autonomous-organizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![hackmd-github-sync-badge](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ/badge)](https://hackmd.io/C5QKAM1SQeKxyLxEvIsUqQ)
+# Awesome Decentralized Autonomous Organizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 ```
@@ -12,8 +12,9 @@
                                                                                         
 ```
 ## Description
-A curated list of resources and projects for decentralized autonomous organizations, or DAOs. Everything needed to start your own DAO.
-DAOs are a way to form organizations leveraging smart contracts on blockchains. This enables people to work together democratically across great divides.
+A curated list of resources and projects for decentralized autonomous organizations, or DAOs. Everything needed to start or to become involved in DAOs.
+
+A DAO, or Decentralized Autonomous Organization, is a digital organization that operates through a blockchain network and is run by smart contracts. It allows for transparent decision-making, democratic control, and community-driven governance, where each member has a say in the organization's direction and decisions. DAOs can be used for various purposes, from managing digital assets to funding projects, and can potentially eliminate the need for intermediaries in certain transactions, making them more efficient and cost-effective. Overall, DAOs represent a new way of organizing collective action that is decentralized, transparent, and community-driven.
 
 ---
 
@@ -596,6 +597,9 @@ DAOs are a way to form organizations leveraging smart contracts on blockchains. 
 
 
 
-
-## License
+## Footnotes
+### Contributing
+[https://github.com/boilerrat/awesome-decentralized-autonomous-organizations/blob/main/contributing.md](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations/blob/main/contributing.md)
+### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
