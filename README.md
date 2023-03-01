@@ -590,6 +590,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 - [CultureStake](https://www.furtherfield.org/culturestake-2/) - connects communities, artists and organisations through collective cultural decision-making utilising Quadratic Voting.
 - [Snapshot](https://snapshot.org/) - a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types.
+- [Polkassembly](https://polkassembly.io/) - a unified platform to discuss and vote on governance proposals, motions and referandas. #polkadot
 - [RadicalxChange](https://quadraticvote.radicalxchange.org/) - An easy tool to host a quadratic vote.
 - [QuadraticVote.co](https://quadraticvote.co/) - Plural Voting (also known as Quadratic Voting or QV) is a redesigned voting method reflecting the intensity of people's preferences in collective decisions.
 - [Vocdoni](https://aragon.org/vocdoni) - Powered by an auditable, censorship-resistant and anonymous digital voting protocol.
