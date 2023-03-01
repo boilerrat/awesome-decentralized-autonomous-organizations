@@ -13,9 +13,7 @@
 ```
 ## Description
 A curated list of resources and projects for decentralized autonomous organizations, or DAOs. Everything needed to start your own DAO.
-
 DAOs are a way to form organizations leveraging smart contracts on blockchains. This enables people to work together democratically across great divides.
-This list is intended as a public good open source project, and as such contributions are open to the public. The list will be curated for quality and to avoid duplication, however, if an item fits equally in more than one category, duplication should be fine. This will enable users to better pinpoint queries, without having to go through the entire list. The repo will not accept pull requests that in any way can be construed as harmful or disrespectful to our fellow human beings.
 
 ---
 
