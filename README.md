@@ -261,6 +261,7 @@ This Repo is also available on [Radicle.xyz](https://app.radicle.xyz/)
 - [Moloch DAO](https://molochdao.com/) - MolochDAO is a grant giving Decentralized Autonomous Organization, deployed on Ethereum mainnet, to fund essential digital public goods.
 - [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as) - OpenSea Ecosystem Grants seek to empower creators, developers, and passionate community members working to enrich and expand the NFT ecosystem.
 - [Optimism Grants](https://gov.optimism.io/c/proposals/38) -  These funds will be distributed strategically by the Optimism Foundation to grow the Optimism ecosystem for the benefit of the entire Collective
+- [Polkadot: Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program#web3-foundation-grants-program)
 - [Protocol Labs](https://protocol.ai/) - The Protocol Labs Research Grant Program aims to both support collaborative work on problems defined by the broader research community
 - [Public Nouns](https://publicnouns.wtf/) - Nouns for the Public Good.
 - [Questbook](https://t.co/f7O4zCHFqc) - The best way to run grant and bounty programs for DAOs and foundations.
