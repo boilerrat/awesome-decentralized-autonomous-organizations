@@ -80,6 +80,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Evolutionary Organizations](https://orca.mirror.xyz/Kx2hWV3tr1crlBHy2WBTBdR6Dup76AKHKbpbSzYW2kw)
 - [How the devil do I use a Moloch DAO?](https://daohaus.mirror.xyz/9zJrqvsPGwwqrz89Eea6RdsBd8ba9ZG0oCjY05_BXsY)
 - [How to get paid by DAOs](https://newsletter.banklesshq.com/p/how-to-get-paid-by-daos)
+- [Polkadot OpenGov](https://wiki.polkadot.network/docs/learn-opengov)
 - [What is a DAO](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
 - [What the devil are Moloch DAOs, and why should you care?](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc)
 
