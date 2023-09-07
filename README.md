@@ -167,6 +167,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Crust](https://crust.network/) - Crust Network is a decentralized cloud storage provider which was designed to realize our three core values: decentralization, privacy, and assurance. Crust supports multiple storage-layer protocols such as IPFS, and exposes instant accessible on-chain storage functions to users.
 - [Filecoin](https://filecoin.io/) - Filecoin is an open-source cloud storage marketplace, protocol, and incentive layer. 
 - [IPFS](https://ipfs.tech/) - a protocol, hypermedia and file sharing peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting IPFS hosts.
+- [Polybase](https://polybase.xyz) - A database that understands tokens, wallets & ZK. An open-source decentralized alternative to Firebase.
 - [Kepler](https://www.kepler.xyz/) - Securely store digital credentials, dapp preferences, private files, and more–all using your Web3 wallet, with rules set by you.
 
 
