@@ -238,6 +238,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 - [Alchemy WAGBI Grants](https://www.alchemy.com/developer-grant-program) - Introducing WAGBI Grants (We're All Gonna Build It)! We're committing $25 million to help developers continue building DeFi protocols, NFT experiences, or any project that helps bring web3 to the world. Each project will be eligible to receive up to $50,000 in credits.
 - [Bit DAO](https://www.bitdao.io/) - BitDAO is a collective of builders, products, and mutually beneficial ecosystems governed by $BIT token holders.
+- [Blockworks Grant Farm](https://blockworks.co/grants) Protocols and projects launch grant programs to reward teams and individuals to build in their ecosystem. Blockworks has compiled the largest real-time directory list of all grants, RFPs, and bug bounties.
 - [clr.fund](https://clr.fund/#) - a protocol for efficiently allocating funds to public goods that benefit the Ethereum Network according to the preferences of the Ethereum Community.
 - [Cult DAO](https://cultdao.io/) - a completely decentralized funding mechanism that allows everybody to contribute novel solutions.
 - [Ethereum Foundation](https://ethereum.org/en/community/grants/) - Our mission is to do what is best for Ethereum's long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.
@@ -249,6 +250,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Meta Cartel](https://www.metacartel.org/grants) - Non-profit grants fund focused on creation and impact; Funded mostly by individuals in the community.
 - [Meta Gamma Delta](https://t.co/OWOwZu9zUC) - Meta Gamma Delta is uniquely positioned to provide grants to worthy women-led projects in Web3 and DeFi.
 - [Moloch DAO](https://molochdao.com/) - MolochDAO is a grant giving Decentralized Autonomous Organization, deployed on Ethereum mainnet, to fund essential digital public goods.
+- [Octant]()
 - [OpenSea Ecosystem Grants Program](https://airtable.com/shrC6zgCb3lZo51as) - OpenSea Ecosystem Grants seek to empower creators, developers, and passionate community members working to enrich and expand the NFT ecosystem.
 - [Optimism Grants](https://gov.optimism.io/c/proposals/38) -  These funds will be distributed strategically by the Optimism Foundation to grow the Optimism ecosystem for the benefit of the entire Collective.
 - [Polkadot: Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program#web3-foundation-grants-program) - Web3 Foundation offers grants for open source software development and research around Substrate, Polkadot, Kusama and ink!.

@@ -1,13 +1,25 @@
-# Contributing
+# Contribution Guidelines
 
-To contribute to the list please:
-- only add high quality items. Startups without a user base will not be accpted.
-- Please follow the etablish formatting
-- Check your links!
-- Check you spelling and grammar
-- No NSFW sites 
-- No profanity or otherwise harmful language 
-- No sites a 10 year old couldn't look at.
+Please note that this project is released with a
+[Contributor Code of Conduct](code-of-conduct.md). By participating in this
+project you agree to abide by its terms.
 
-Submit pull requests for any high quality project. They will be reviewed by boilerrat and 99/100 approved, if it fits the guidelines of this list and is a quality project.
-If you find any broken links or dead projects, please fix the errors and submit a PR or you may open an issue describing the problem.
+---
+
+Ensure your pull request adheres to the following guidelines:
+
+- Make sure you take care of this
+- And this as well
+- And don't forget to check this
+
+Thank you for your suggestions!
+
+
+## Updating your PR
+
+A lot of times, making a PR adhere to the standards above can be difficult.
+If the maintainers notice anything that we'd like changed, we'll ask you to
+edit your PR before we merge it. There's no need to open a new PR, just edit
+the existing one. If you're not sure how to do that,
+[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
+on the different ways you can update your PR so that we can merge it.
