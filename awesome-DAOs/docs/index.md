@@ -451,10 +451,12 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ## Service DAOs
 
 - [banyan DAO](https://www.banyandao.xyz/) - an awesome group of humans creating an inclusive and accessible transition for anyone who wants to build in web3.
+- [Bootleggers](https://bootleggers.wtf/) - Distilling the spirit of community into tools for coordination.
 - [Commons Stack](https://commonsstack.org/) - an open source development project, building infrastructure for the sustainable funding and management of community-driven economies.
+- [DAO Masons](https://www.daomasons.com) - Bespoke Web3 Solutions
 - [Domain DAO](http://thedomaindao.org/) - DAO is the NFT domain name ending for the pioneers of decentralized communities
 - [Ethereum Name Service](https://ens.domains/) - a distributed, open, and extensible naming system based on the Ethereum blockchain.
-- [H.E.R. DAO](https://linktr.ee/H.E.R.DAO) - H.E.R. is a womxn-driven developer DAO that includes self-identifying women, trans women and non-binary audiences. Our goal is to sustainably diversify the blockchain ecosystem, leading to more versatile product & venture development within.
+- [H.E.R. DAO](https://linktr.ee/H.E.R.DAO) - H.E.R. is a woman-driven developer DAO that includes self-identifying women, trans women and non-binary audiences. Our goal is to sustainably diversify the blockchain ecosystem, leading to more versatile product & venture development within.
 - [Llama](https://llama.xyz/) - The Home for DAO Contributors. Llama is a community that works with DAOs on protocol engineering, treasury management, and analytics.
 - [Meta Factory](https://www.metafactory.ai/) - a crowdfunding platform for the creation of community-owned brands with an initial focus on fashion/apparel.
 - [Open Law](https://www.openlaw.io/) -  a blockchain-based protocol for the creation and execution of legal agreements.
@@ -463,11 +465,12 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [The DAOist](https://www.thedaoist.co/) - Summoning conferences, un-conferences, assemblages, informal gatherings and meetups. All kinds of IRL and online gatherings for DAOists of all backgrounds.
 - [YAP DAO](https://www.yapdao.xyz/) - a community that provides public relations and communications support to the DeFi world.
 - [Wildfire DAO](https://twitter.com/Wildfire_DAO) - a meta-governance initiative to connect and align community members from across the ecosystem, creating community-focused working groups to tackle token design, governance and coordination problems in an open and collaborative manner.
-- [WGMI](https://www.wgmi.community/) - WGMI was built for educating up and coming community professionals & leaders in the Web3 space.
+
 
 ## Smart Contracts and Development
 
 - [api3](https://api3.org/) - API3 is a platform that enables blockchain-based decentralized applications (dApps) to access blockchain-external, real-world data and services via application programming interfaces (APIs).
+- [Cookbook.dev](https://www.cookbook.dev/) - Find any smart contract, Build your project faster.Find smart contracts, solidity libraries, and discover protocols.
 - [Open Zeppelin](https://www.openzeppelin.com/) - an open-source framework to build secure smart contracts.
 
 ## Sports DAOs
