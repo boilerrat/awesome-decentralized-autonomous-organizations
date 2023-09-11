@@ -576,13 +576,6 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Boilerrat's DAO List](https://twitter.com/i/lists/1421301149777514497) Curated Twitter List on the topic of DAOs.
 - [DAOs to keep an 👁 on](https://twitter.com/i/lists/1467034519807016960) Curated list of people that twet about DAOs.
 
-### Spaces
-
-*Note to contributors, only add regularly repeating events.*
-
-- [HAUSparty](https://twitter.com/nowdaoit) Thursday's 2:00 PM Eastern / 11:00 AM Pacific Discussing the latest topics facing the DAO community.
-- [Meta Cartel Demo Daze](https://twitter.com/Meta_Cartel) - A Showcase of Meta Cartel grant recipients, every other Friday commencing Oct 14, 2002.
-
 ## Voting Apps
 
 - [CultureStake](https://www.furtherfield.org/culturestake-2/) - connects communities, artists and organisations through collective cultural decision-making utilising Quadratic Voting.
