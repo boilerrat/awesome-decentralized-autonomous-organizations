@@ -1,6 +1,10 @@
-# Contribution Guidelines for [Awesome Decentralized Autonomous Organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
+# Contribution Guidelines for [https://github.com/boilerrat/awesome-decentralized-autonomous-organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
 
-> **Note**: This project follows a [Contributor Code of Conduct](code-of-conduct.md). By participating, you are expected to uphold this code.
+
+
+> **Note**: This project follows a [Contributor Code of Conduct]
+> 
+> (code-of-conduct.md). By participating, you are expected to uphold this code.
 
 ---
 

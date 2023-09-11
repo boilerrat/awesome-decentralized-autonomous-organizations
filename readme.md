@@ -143,6 +143,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Myco](https://www.myco.space/) - Myco makes it easy to earn money with friends by helping you assemble, collaborate, and launch social networks together.
 - [NiNDAO](https://nindao.xyz/) - NinDAO is a cyborg-ninja programmed with a future-funk nindō: to build infrastructures for communities as they happen.
 - [NnsDAO](https://nnsdao.org/) - NnsDAO is simply a borderless autonomous organization that provides some basic modular programmable services for building the world of DAOn.
+- [Nouns Builder](https://nouns.build/) - Nouns builder allows anyone to easily deploy a DAO in minutes. Inspired by NounsDAO, Nouns builder uses a factory contract called the Manager to create custom Nouns-styled DAOs.
 - [Party Bid](https://www.partybid.app/) - PartyBid is the protocol for buying NFTs as a team. Start a party on any NFT, contribute ETH with others and win together.
 - [Station](https://www.station.express/) -  Station has been committed to building products that transport a new class of workers to participate in the crypto economy. Proposals are a universal expression of intent for high-commitment, high-quality contribution to DAOs.
 - [Superdao](https://superdao.co/) - Superdao is the operating system for the DAO. The system will be able to generate DASuperdao is an operating system for DAOs. It supports one-click DAO creation.
