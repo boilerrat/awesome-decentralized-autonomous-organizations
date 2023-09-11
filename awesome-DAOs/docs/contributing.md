@@ -5,12 +5,10 @@
 ---
 
 ## Table of Contents
-- [Contribution Guidelines for Awesome Decentralized Autonomous Organizations](#contribution-guidelines-for-awesome-decentralized-autonomous-organizations)
-  - [Table of Contents](#table-of-contents)
-  - [General Guidelines](#general-guidelines)
-  - [Pull Request Process](#pull-request-process)
-  - [Updating Your PR](#updating-your-pr)
-  - [Additional Resources](#additional-resources)
+- [General Guidelines](#general-guidelines)
+- [Pull Request Process](#pull-request-process)
+- [Updating Your PR](#updating-your-pr)
+- [Additional Resources](#additional-resources)
 
 ---
 

@@ -1,3 +1,7 @@
 site_name: Awesome DAOs
-theme: material
+theme: readthedocs
 site_url: https://awesomedao.on.fleek.co/
+nav:
+  - Home: index.md
+  - Contribute: contributing.md
+  - License: license.md
