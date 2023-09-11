@@ -360,7 +360,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ## Notifications
 
 - [HAL](https://hal.xyz/) - Turn smart contracts into APIs. Implement Web3 notifications for your users. Query, trigger, monitor, and automate blockchain data quickly and easily.
-- [Push Protocol](https://push.org/) - Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.
+- [Push Protocol](https://push.org) - Push Protocol is a web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.
 
 ## Payroll
 
@@ -601,3 +601,6 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+[def]: https://push.org/
