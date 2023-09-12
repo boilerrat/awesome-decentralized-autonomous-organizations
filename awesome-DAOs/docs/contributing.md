@@ -1,5 +1,4 @@
-# Contribution Guidelines for [https://github.com/boilerrat/awesome-decentralized-autonomous-organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
-
+# Contribution Guidelines for [Awesome Decentralized Autonomous Organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
 
 
 > **Note**: This project follows a [Contributor Code of Conduct]
@@ -9,10 +8,13 @@
 ---
 
 ## Table of Contents
-- [General Guidelines](#general-guidelines)
-- [Pull Request Process](#pull-request-process)
-- [Updating Your PR](#updating-your-pr)
-- [Additional Resources](#additional-resources)
+
+- [Contribution Guidelines for Awesome Decentralized Autonomous Organizations](#contribution-guidelines-for-awesome-decentralized-autonomous-organizations)
+  - [Table of Contents](#table-of-contents)
+  - [General Guidelines](#general-guidelines)
+  - [Pull Request Process](#pull-request-process)
+  - [Updating Your PR](#updating-your-pr)
+  - [Additional Resources](#additional-resources)
 
 ---
 
@@ -20,19 +22,22 @@
 
 Before submitting a pull request, please ensure you've addressed the following:
 
-1. **Code Quality**: Ensure that your code is clean, well-commented, and adheres to best practices.
-2. **Documentation**: Update any relevant documentation to reflect your changes.
-3. **Testing**: Make sure to test your changes thoroughly and ensure they don't break existing functionality.
+1. **Link Project Quality**: Ensure that link you are providing is to a high quality project.
+2. **Project Choices**: Should be Web3 based and/or be a product that is widely used in the space. Discord would be a good example of this.
+3. **Project Description**: Keep this short, most often you can find a single line statement describing the project on its website.
+4. **Harmful and Malicious Content**: This, obviously is strictly forbidden. Don't do it or shame will follow you forever.
+5. **Broken Links**: They don't help, make sure what you post, works. Also, if you see any in the list that are broekn, be a pal and fix it.
+6. **I'm not into making a PR**: That's fine, just drop your link or change request as an [issue](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations/issues)
 
 ---
 
 ## Pull Request Process
 
 1. **Fork the Repository**: If you're not a direct contributor, first fork the repository.
-2. **Clone Your Fork Locally**: `git clone https://github.com/boilerrat/awesome-decentralized-autonomous-organizations`
-3. **Create a New Branch**: `git checkout -b new-feature-branch`
+2. **Clone Your Fork Locally**: ``` git clone https://github.com/boilerrat/awesome-decentralized-autonomous-organizations ```
+3. **Create a New Branch**: ```git checkout -b new-feature-branch```
 4. **Make Changes**: Implement your changes and commit them.
-5. **Push to GitHub**: `git push origin new-feature-branch`
+5. **Push to GitHub**: ```git push origin new-feature-branch```
 6. **Submit a Pull Request**: Go to the original repository and create a new pull request.
 
 ---
