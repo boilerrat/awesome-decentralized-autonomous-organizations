@@ -298,6 +298,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Gitcoin Passport](https://passport.gitcoin.co/) - Grow a decentralized identity record with various credentials about you. Through the network of sources about your personhood, applications like Gitcoin Grants 2.0 gives you rights like matching weight in Quadratic Funding.
 - [GitPOAP](https://www.gitpoap.io/) - Recognition for Your Contributions. Issue digital badges as a special way to nurture your community. Earn them to build an unbiased track record of your work.
 - [Hats Protocol](https://mobile.twitter.com/hatsprotocol) - A protocol for emitting and revoking DAO role NFTs.
+- [Hypercerts](https://hypercerts.org/) - To solve the challenges we face this century, we need scalable and sustainable financing models for public goods that reward contributors for the positive impact they create.
 - [Identity Link Services](https://github.com/ceramicstudio/identitylink-services)Services for issuing verifiable credentials that link a DID to social accounts including Twitter, Github, and Discord.
 - [IDX](https://idx.xyz/) -  an open source multi-platform identity protocol that allows users to build up a unified digital identity and freely share their data between apps.
 - [Karma](https://www.showkarma.xyz/) - Karma aggregates and curates DAO contributor activity and provides visibility to the DAOs and helps contributors showcase their work. See your reputation.
