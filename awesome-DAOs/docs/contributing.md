@@ -1,8 +1,7 @@
 # Contribution Guidelines for [Awesome Decentralized Autonomous Organizations](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations)
 
-
 > **Note**: This project follows a [Contributor Code of Conduct]
-> 
+>
 > (code-of-conduct.md). By participating, you are expected to uphold this code.
 
 ---
@@ -11,14 +10,14 @@
 
 - [Contribution Guidelines for Awesome Decentralized Autonomous Organizations](#contribution-guidelines-for-awesome-decentralized-autonomous-organizations)
   - [Table of Contents](#table-of-contents)
-  - [General Guidelines](#general-guidelines)
+  - [Contribution Guidlines](#contribution-guidlines)
   - [Pull Request Process](#pull-request-process)
   - [Updating Your PR](#updating-your-pr)
   - [Additional Resources](#additional-resources)
 
 ---
 
-## General Guidelines
+## Contribution Guidlines
 
 Before submitting a pull request, please ensure you've addressed the following:
 
