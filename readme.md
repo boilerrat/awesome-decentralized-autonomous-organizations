@@ -239,6 +239,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Gitcoin](https://gitcoin.co/) - Gitcoin Grants sustain projects with Quadratic Funding.
 - [Giveth](https://giveth.io/) - Giveth allows anyone to open crypto funding portals by creating projects for their for-good initiatives on our DApp.
 - [Gnosis DAO](https://forum.gnosis.io/t/readme-gnosisdao-governance-process/736) - The Gnosis Ecosystem Fund empowers teams to drive the global adoption of decentralized applications by leveraging the full potential of Gnosis' products and protocols.
+- [Grant Ships](https://grantships.fun) - An Evolutionry Grants Game where subDAOs compete to provide high impact grants.
 - [Hyperscale Fund](https://www.hyperscalefund.com/) - Tap into human potential around the world. Hyperscale is a fund that deploys ultra-fast and universally accessible capital. Projects fill out a 5-minute application and receive a crypto native investment in under a week. Crypto native investments allow us to tap into human potential around the world.
 - [Layer2DAO](https://www.layer2dao.org/#/) - Layer2DAO is an investment DAO focused on investing in the future of the Ethereum Layer2 ecosystem.
 - [Meta Cartel](https://www.metacartel.org/grants) - Non-profit grants fund focused on creation and impact; Funded mostly by individuals in the community.
@@ -373,6 +374,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Sablier](https://sablier.finance/) -  a protocol for real-time finance built on the Ethereum blockchain which allows you to create money streams.
 - [Smart Invoice](https://smartinvoice.xyz/) - Smart Invoice enables clients and service providers to transact with fewer intermediaries.
 - [Superfluid](https://www.superfluid.finance/) - the leading asset streaming protocol that enables Web3 native subscriptions, salaries and rewards for DAOs and crypto-native businesses. It can be used to describe cash flows and execute them automatically on-chain over time in a non-interactive way.
+- [Thrivecoin](https://www.thrivecoin.com/) - scalable, equitable rewards for web3 communities. We make it easier and faster for web3 communities to reward contributors - and it’s all on-chain.
 - [Utopia](https://www.utopialabs.com/) - streamlining management of contributor payments is a game changer for any team in the Web3 space! Unify Accounting.
 
 ## Personal Planning
