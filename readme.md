@@ -583,6 +583,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ## Voting Apps
 
 - [CultureStake](https://www.furtherfield.org/culturestake-2/) - connects communities, artists and organisations through collective cultural decision-making utilising Quadratic Voting.
+- [Jokerace](https://jokerace.xyz/) - contests for communities to make,execute, and reward decisions
 - [Snapshot](https://snapshot.org/) - a decentralized voting system. It provides flexibility on how voting power is calculated for a vote. Snapshot supports various voting types.
 - [Polkassembly](https://polkassembly.io/) - a unified platform to discuss and vote on governance proposals, motions and referandas. #polkadot
 - [RadicalxChange](https://quadraticvote.radicalxchange.org/) - An easy tool to host a quadratic vote.
