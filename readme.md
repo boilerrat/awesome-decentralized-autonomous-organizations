@@ -573,7 +573,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Stephen Reid](https://twitter.com/lunarpunk_0x) - Teacher, technologist & transformational coach 🌱 #ReFi #regen #gameB #metamodern #teal #solarpunk #lunarpunk.
 - [Spencer Graham](https://twitter.com/spengrah) - Build more housing 🥑 • I love DAOs, burritos, and puns • @nowdaoit 🏰 • @hatsprotocol 🧢🎩👒 • @groundw3rk 🌾 • @RaidGuild ⚔️• KB0.
 - [vengist.eth](https://twitter.com/0xd2_eth) - design generalist and meta coordinatooor @meta_cartel @daointel @nowdaoit @raidguild @molochdao.
-- [Yalor Mewn](https://twitter.com/YalorMewn) - on the bus.
+
 
 ### Lists
 
