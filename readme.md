@@ -136,6 +136,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Compound](https://docs.compound.finance/v2/governance/?ref=medium) - Application developers can build their own custom workflows and interfaces to facilitate the participation of their users and communities in Compound governance.
 - [DAOhaus](https://daohaus.club/) - a no-code platform for launching and operating DAOs, which uses the Moloch open source code. It includes functionality to: Launch, vote on, and process proposals.
 - [DAOstack](https://daostack.io/) - DAOstack is designed to catalyze the future of collaboration. It's a platform for decentralized governance that enables collectives to self-organize around shared goals or values, easily and efficiently.
+- [DeXe Protocol](https://dexe.network/) - An innovative infrastructure for creating and governing DAOs. 50+ smart-contracts for your web-3 product. Create your DAO through easy interface
 - [Gardens](https://gardens.1hive.org/#/home) - Gardens are composable, sufficiently decentralized, and self-improving DAOs, limited only by your collective imagination.
 - [jokedao](https://joke.mirror.xyz/) - JokeDAO is an open-source, collaborative decision-making platform.
 - [Kali DAO](https://www.kali.gg/) - DAOs are what you make of decentralized infra Launch a tokenized LLC and issue equity on KALI in minutes.
