@@ -69,6 +69,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
   - [Influencers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#influencers)
   - [Lists to Follow](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#lists-to-follow)
 - [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
+- [Whitepapers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#whitepapers)
 
 ## Articles
 
@@ -590,6 +591,11 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [RadicalxChange](https://quadraticvote.radicalxchange.org/) - An easy tool to host a quadratic vote.
 - [QuadraticVote.co](https://quadraticvote.co/) - Plural Voting (also known as Quadratic Voting or QV) is a redesigned voting method reflecting the intensity of people's preferences in collective decisions.
 - [Vocdoni](https://aragon.org/vocdoni) - Powered by an auditable, censorship-resistant and anonymous digital voting protocol.
+
+## Whitepapers
+- [DAI](https://makerdao.com/en/whitepaper/) - The Maker Protocol, also known as the Multi-Collateral Dai (MCD) system, allows users to generate Dai by leveraging collateral assets approved by “Maker Governance.” 
+- [Ethereum](https://ethereum.org/en/whitepaper/) - This introductory paper was originally published in 2014 by Vitalik Buterin, the founder of Ethereum, before the project's launch in 2015
+- [Lido DAO](https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf) - Lido DAO is a community that builds liquid staking service for Ethereum.
 
 ## Contributing
 
