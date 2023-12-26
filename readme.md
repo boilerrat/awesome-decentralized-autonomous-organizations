@@ -596,6 +596,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [DAI](https://makerdao.com/en/whitepaper/) - The Maker Protocol, also known as the Multi-Collateral Dai (MCD) system, allows users to generate Dai by leveraging collateral assets approved by “Maker Governance.” 
 - [Ethereum](https://ethereum.org/en/whitepaper/) - This introductory paper was originally published in 2014 by Vitalik Buterin, the founder of Ethereum, before the project's launch in 2015
 - [Lido DAO](https://lido.fi/static/Lido:Ethereum-Liquid-Staking.pdf) - Lido DAO is a community that builds liquid staking service for Ethereum.
+- [Whitepaper.io](https://whitepaper.io) - Find hidden gems and make better investments withWhitepaper.io. The World’s Largest Crypto Whitepaper Database since 2017
 
 ## Contributing
 
