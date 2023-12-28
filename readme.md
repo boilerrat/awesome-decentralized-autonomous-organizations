@@ -465,9 +465,9 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Meta Factory](https://www.metafactory.ai/) - a crowdfunding platform for the creation of community-owned brands with an initial focus on fashion/apparel.
 - [Open Law](https://www.openlaw.io/) -  a blockchain-based protocol for the creation and execution of legal agreements.
 - [Raid Guild](https://www.raidguild.org/) - the premier design and dev agency of the Web3 ecosystem.
+- [Story Guild](https://www.storyguild.io/) - a community that provides public relations, marketing, and communications support to the Web3 world
 - [Surge](https://www.surgewomen.io/) -  an online media company on a mission “to engage readers with storytelling.
 - [The DAOist](https://www.thedaoist.co/) - Summoning conferences, un-conferences, assemblages, informal gatherings and meetups. All kinds of IRL and online gatherings for DAOists of all backgrounds.
-- [YAP DAO](https://www.yapdao.xyz/) - a community that provides public relations and communications support to the DeFi world.
 - [Wildfire DAO](https://twitter.com/Wildfire_DAO) - a meta-governance initiative to connect and align community members from across the ecosystem, creating community-focused working groups to tackle token design, governance and coordination problems in an open and collaborative manner.
 
 ## Smart Contracts and Development
