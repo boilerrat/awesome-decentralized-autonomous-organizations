@@ -347,6 +347,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ## NFT DAOs
 
 - [Bright Moments](https://www.brightmoments.io/) -  an NFT art gallery, pioneering the future of art being co-created and co-consumed
+- [Curators Society](https://www.curatorssociety.io/) - Building a blue chip vault for the benefit of our community and Web3
 - [Doodles](https://doodles.app/) - Doodles are a collection of 10,000 NFTs (non-fungible tokens) that are made up of hundreds of exciting visual traits designed by Burnt Toast.
 - [Emergence DAO](https://opensea.io/Emergence_DAO_Burner_Account) - A collection born out of the fire.
 - [Fingerprints DAO](https://fingerprintsdao.xyz/) - We are launching the Fingerprints DAO, owner of the Fingerprints Collection. The main goal of the DAO is to curate, collect and promote on-chain artwork.
