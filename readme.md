@@ -62,6 +62,16 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Voting Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#voting-apps)
 - [Whitepapers](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#whitepapers)
 
+---
+```
+ █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗    ██████╗  █████╗  ██████╗ 
+██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗
+███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗      ██║  ██║███████║██║   ██║
+██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝      ██║  ██║██╔══██║██║   ██║
+██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗    ██████╔╝██║  ██║╚██████╔╝
+╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                                                                                           
+```
+---
 ## Articles
 
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
