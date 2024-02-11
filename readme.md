@@ -1,14 +1,5 @@
 # Awesome Decentralized Autonomous Organizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-```
-  _____    ________  ___ ___  _______   ____  ___  ___  
- // \\|    |||  (( \// \\||\\//|||      || \\// \\// \\ 
- ||=|\\ /\ //|== \\((   ))| \/ |||==    ||  ))|=|((   ))
- || ||\V/\V/||__\_))\\_//||    |||___   ||_//|| ||\\_// 
-                                                            
-                                                                                        
-```
-
 ## Description
 
 A curated list of resources and projects for decentralized autonomous organizations, or DAOs. Everything needed to start or to become involved in DAOs.
@@ -404,6 +395,8 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [unchained](https://unchainedpodcast.com/) Tune in every Tuesday for an hour-long interview or discussion with the most interesting thinkers and doers in the space. On Fridays, hear about the hottest news of the week, through a Q&A, plus in the weekly news recap.
 - [Ventures Podcast](https://satchel.works/@wclittle/ventures-podcast) an audio/video podcast devoted to exploring entrepreneurial stories, market landscapes, problem spaces, and opportunities to create for-profit and nonprofit ventures to benefit human beings.
 - [web3 with a16z](https://web3-with-a16z.simplecast.com/) - a show about the next generation of the internet, and about how builders and users -- whether artists, coders, creators, developers, companies, organizations, or communities -- now have the ability to not just "read" (web1) + "write" (web2) but "own" (web3) pieces of the internet, unlocking a new wave of creativity and entrepreneurship.
+- [Web3 with Sam Kamani](https://web3pod.xyz/) - Web 3.0 with Sam Kamani Podcast is all about Web 3 and how it is going to change the world.
+- [Web3 Galaxy Brain](https://web3galaxybrain.com/) -  Technical conversations with Web3 builders.Hosted by @nnnnicholas. 
 
 ## Project Management
 
@@ -498,7 +491,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more.
 - [Farcaster](https://www.farcaster.xyz/) - Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email.
 - [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging.
-- [Lenster](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol.
+- [HEY](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol. (formery Lenster)
 - [Minds](https://www.minds.com/) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
 - [Orb](https://orb.ac/) - Decentralized professional social media app for web3 working professionals with an end-to-end on-chain credibility system; connecting companies, projects, and people; built with Lens protocol on the Polygon chain.
 - [Orbis Club](https://orbis.club/) - Orbis is a decentralized web3 social protocol built on Ceramic. On Orbis, users own their profile, their posts, their audience, their direct messages etc and they can access it from wherever they want.
@@ -508,6 +501,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
 - [Twitter](https://twitter.com) - a social media site, and its primary purpose is to connect people and allow people to share their thoughts with a big audience.
 - [Typfully](https://typefully.com/) Write, schedule, and publish great Twitter tweets & threads. Grow your following on Twitter with analytics and metrics about your account.
+- [Warpcast](https://warpcast.com/) - Warpcast is a decentralized farcaster client enabling real-time, peer-to-peer streaming and data sharing across the web3 ecosystem.
 
 ## Sybil
 
@@ -541,14 +535,11 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Alex Masmej](https://twitter.com/AlexMasmej) - Founder @Showtime_xyz, a web3 social network (we’re hiring!) ✦ Previously: created $ALEX, the first social token.
 - [ameen.eth](https://twitter.com/ameensol) - full spank dev @spankchain.
 - [andy](https://twitter.com/andy8052) - "They want me to act professional on the internet. No, I won’t lol" hacking NFTs @tessera.
-- [boilerrat](https://twitter.com/boilerrat) - Dad Husband Deadhead DAOhead. Contributing to the Commons | @nowdaoit.
- | @metacartel.
- | Boilermaker - Radiation Tech. | boilerrat.eth.
+- [boilerrat](https://twitter.com/boilerrat) - DAO Masons, Grant Ships, DAOhaus, Meta Cartel
 - [Brian Flynn](https://twitter.com/Flynnjamm) - ceo & co-founder @rabbithole_gg 🐇 prev @opensea @dapperlabs.
 - [Chase Chapman](https://twitter.com/chaserchapman) - building a better society with web3 🔮 podcast @ <http://othersidepod.xyz> // doing stuff @0xMetropolis // investing @thecowfund.
 - [Coopahtroopa](https://twitter.com/Cooopahtroopa) - Music NFTs.
 - [Corbin Page](https://twitter.com/corbpage) - ✨🌐💸 Web3 builder 🏗@DustSweeperDAO @paymagic_ 👼 Investor ⏪ @ConsenSys Tweets about novel products in #Web3 #NFTs #DeFi #DAOs.
-- [Daniele](https://twitter.com/danielesesta) - #OccupyDeFi Building Printers full time.
 - [David Hoffman](https://twitter.com/TrustlessState) - Founding Father @banklesshq Nation🏴 🔥 Recruiting an army to slay Moloch 🔪👹 1D=1B.
 - [David Phelps](https://twitter.com/divine_economy) - 2x founder write on web3@ <http://davidphelps.substack.com> cocreated @ecodao_@jokedao_ invest @thecowfund threads <http://bit.ly/3nCF8AY> jokedao maxi david at cowfund dot co.
 - [Dekan Brown](https://twitter.com/DekanBro) - Daohaus / moloch / metacartel / raidguild.
@@ -574,9 +565,8 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Samantha Marin](https://twitter.com/samanthajmarin) - Writing and comms @aragonproject | I write about DAOs and the humans behind them.
 - [scottrepreneur.eth](https://twitter.com/scottrepreneur_) - building the decentralized future. @scottrepreneur is in robot purgatory, RIP.
 - [Stani Kulechov](https://twitter.com/StaniKulechov) - Founder of @LensProtocol 🌿 and @AaveAave 👻.
-- [Stephen Reid](https://twitter.com/lunarpunk_0x) - Teacher, technologist & transformational coach 🌱 #ReFi #regen #gameB #metamodern #teal #solarpunk #lunarpunk.
 - [Spencer Graham](https://twitter.com/spengrah) - Build more housing 🥑 • I love DAOs, burritos, and puns • @nowdaoit 🏰 • @hatsprotocol 🧢🎩👒 • @groundw3rk 🌾 • @RaidGuild ⚔️• KB0.
-- [vengist.eth](https://twitter.com/0xd2_eth) - design generalist and meta coordinatooor @meta_cartel @daointel @nowdaoit @raidguild @molochdao.
+
 
 
 ### Lists
