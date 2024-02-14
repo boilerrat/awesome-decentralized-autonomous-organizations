@@ -75,6 +75,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ## Articles
 
 - [A beginner’s guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+- [Anti-capture: Towards a Framework of Capture-Resistant Governance](https://spengrah.mirror.xyz/f6bZ6cPxJpP-4K_NB7JcjbU0XblJcaf7kVLD75dOYRQ)
 - [Building and Running a DAO: Why Governance Matters](https://future.com/building-and-running-a-dao-why-governance-matters/)
 - [Everything you need to know about DAOs](https://foundation.app/blog/everything-you-need-to-know-about-daos)
 - [Evolutionary Organizations](https://orca.mirror.xyz/Kx2hWV3tr1crlBHy2WBTBdR6Dup76AKHKbpbSzYW2kw)
