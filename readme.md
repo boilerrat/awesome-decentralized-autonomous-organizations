@@ -11,7 +11,10 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 ## Contents
 
 - [Articles](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#articles)
-- [Blockchains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains)
+- [Blockchains With DAO Support](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#blockchains-with-dao-support)
+  - [Layer 1 Chains](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#layer-1-chains)
+  - [EVM-Compatible Chains (L1 and L2)](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#evm-compatible-chains-l1-and-l2)
+  - [ZK Rollups and zkEVMs](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#zk-rollups-and-zkevm)
 - [Bots](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bots)
 - [Comics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#comics)
 - [DAO Analytics](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#dao-aggregators)
@@ -25,6 +28,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Finding Work](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#finding-work)
   - [Bounties](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#bounties)
   - [Job Boards](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#job-boards)
+- [Farcaster Mini-Apps](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#farcaster-mini-apps)
 - [Funding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#funding)
   - [Crowdfunding](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#crowdfunding)
   - [Grants](https://github.com/boilerrat/awesome-decentralized-autonomous-organizations#grants)
@@ -76,18 +80,36 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Polkadot OpenGov](https://wiki.polkadot.network/docs/learn-opengov)
 - [What is a DAO](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
 
-## Blockchains
+## Blockchains with DAO Support
 
-- [Arbitrum](https://portal.arbitrum.one/)
-- [Canto](https://canto.io/)
-- [Celo](https://celo.org/)
+### Layer 1 Chains
 - [Ethereum](https://ethereum.org/en/)
-- [Gnosis](https://gnosis.io/)
-- [Gorli](https://goerli.net/)
-- [NEAR](https://near.org/)
-- [Optimism](https://www.optimism.io/)
-- [Polygon](https://polygon.technology/)
 - [Solana](https://solana.com/)
+- [NEAR Protocol](https://near.org/)
+- [Cardano](https://cardano.org/)
+- [Algorand](https://algorand.com/)
+- [Polkadot](https://polkadot.network/)
+- [Avalanche](https://avax.network/)
+- [Celo](https://celo.org/)
+- [Gnosis Chain](https://gnosis.io/)
+
+### EVM-Compatible Chains (L1 and L2)
+- [Arbitrum](https://arbitrum.io/)
+- [Optimism](https://www.optimism.io/)
+- [Polygon PoS](https://polygon.technology/)
+- [BNB Chain](https://www.bnbchain.org/)
+- [Fantom](https://fantom.foundation/)
+- [Moonbeam](https://moonbeam.network/)
+- [Harmony](https://www.harmony.one/)
+- [Metis](https://www.metis.io/)
+
+### ZK Rollups and zkEVMs
+- [zkSync Era](https://zksync.io/)
+- [StarkNet](https://starknet.io/)
+- [Polygon zkEVM](https://polygon.technology/polygon-zkevm)
+- [Linea](https://linea.build/)
+- [Scroll](https://scroll.io/)
+- [Aztec](https://aztec.network/)
 
 ## Bots
 
@@ -180,7 +202,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [ETHGlobal](https://ethglobal.com/) - Hackathons teach new skills, strengthen developer communities, and push the limits of new technologies.
 
 
-## Farcaster Mini-Apps
+## Farcaster Mini Apps
 
 - [Cura](https://farcaster.xyz/miniapps/LGJrqqqaQjzd/cura) - community curation powered by openrank. 
 - [Crowdfund](https://farcaster.xyz/miniapps/gmCdY4LOmur4/crowdfund) - fund good ideas
