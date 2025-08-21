@@ -133,9 +133,6 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [DAO Central](https://daocentral.com/) - Find and learn about DAOs.
 - [DAO Wow](https://daowow.app/search) - a search engine that allows you to search for DAOs and proposals.
 
-## DAO Analytics
-
-
 ## DAO Creation
 
 - [Aragon](https://aragon.org/) - Aragon is an open-source software used to maintain and create decentralized autonomous organizations (DAOs) on the Ethereum blockchain.
