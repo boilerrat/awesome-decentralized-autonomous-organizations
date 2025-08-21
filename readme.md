@@ -95,6 +95,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 ### EVM-Compatible Chains (L1 and L2)
 - [Arbitrum](https://arbitrum.io/)
+- [Base](base.org)
 - [Optimism](https://www.optimism.io/)
 - [Polygon PoS](https://polygon.technology/)
 - [BNB Chain](https://www.bnbchain.org/)
