@@ -178,7 +178,20 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 - [EthDenver](https://www.ethdenver.com/) - ETHDenver is a member-owned Community Innovation Festival.
 - [ETHGlobal](https://ethglobal.com/) - Hackathons teach new skills, strengthen developer communities, and push the limits of new technologies.
-- [mcon](https://www.mcon.fun/) - MCON gives you an experience of valuable conversations, learnings and experimental growth.
+
+
+## Farcaster Mini-Apps
+
+- [Cura](https://farcaster.xyz/miniapps/LGJrqqqaQjzd/cura) - community curation powered by openrank. 
+- [Crowdfund](https://farcaster.xyz/miniapps/gmCdY4LOmur4/crowdfund) - fund good ideas
+- [Flowcaster](https://farcaster.xyz/miniapps/0EyeQpCD0lSP/flowcaster)- We use programmable money streams to fund impact faster.
+- [Fundraiser](https://farcaster.xyz/miniapps/1yjhfKFj3s7X/fundraiser) - Crypto fundraising. Your next adventure starts here.
+- [Payflow](https://farcaster.xyz/miniapps/sG1QREXwQfiv/payflow) - 1-click payments • No gas fees • AI Agent powered automated payments.
+- [Ponder](https://farcaster.xyz/miniapps/0193c1f0-4278-b067-2d52-ea68da125a29/ponder) - Predict what the world is thinking.
+- [Proposals](https://farcaster.xyz/miniapps/vXuQeg39VVzl/proposals) - Allows DAOs using the DAOhaus protocol to create and vote on proposals using Farcaster.
+- [Purple DAO](https://farcaster.xyz/miniapps/f8R1tT8mj4vg/purple-dao) - Purple is a DAO whose goal is to proliferate and expand the Farcaster protocol and ecosystem.
+- [Rounds.wtf](https://farcaster.xyz/miniapps/7ARwoAdU2p9k/roundswtf) - Rounds is an easy and fun way for communities to reward contributors.
+- [Superfluid Claim App](https://farcaster.xyz/miniapps/1NTJKdUZCsPI/superfluid-claim-app)Every time you use Superfluid-powered apps, you earn SUP.  help govern the protocol and shape the future of the money streaming economy.
 
 ## Finding Work
 
@@ -421,7 +434,6 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 ## Social DAOs
 
-- [Apecoin DAO](https://apecoin.com/) - The ApeCoin community governs itself via the ApeCoin DAO, the decentralized governance framework that supports the Ecosystem Fund.
 - [Bankless](https://www.bankless.community/) - a decentralized community to coordinate and propagate bankless media, culture, and education.
 - [Friends With Benefits](https://www.fwb.help/) -  a token-gated community dedicated to fostering culture and creative agency using Web3 tools.
 - [MetaGame](https://metagame.wtf/) - A DAO building a massive online coordination game about finding the most optimal ways to play life on a personal as well as the collective level.
@@ -431,7 +443,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 
 - [Clubhouse](https://www.clubhouse.com/) - A private place to meet up regularly, talk about anything, and hop from room to room- [Discord](https://discord.com/) -  is a free voice, video, and text chat app.
 - [Discourse](https://www.discourse.org/) - modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat room, and more.
-- [Farcaster](https://www.farcaster.xyz/) - Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email.
+- [Farcaster](https://www.farcaster.xyz/) - Farcaster is a sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. Farcaster is also the main client for the protocol.
 - [Hash Chat](https://alpha.hashchat.xyz/) - Encrypted, cross-chain, web3 wallet messaging.
 - [HEY](https://lenster.xyz/) - a composable, decentralized, and permissionless social media web app built with Lens Protocol. (formery Lenster)
 - [Minds](https://www.minds.com/) - Minds is an open source social network dedicated to Internet freedom. Speak freely, protect your privacy, earn crypto rewards and take back control of your social media.
@@ -440,7 +452,7 @@ A DAO, or Decentralized Autonomous Organization, is a digital organization that 
 - [Session](https://getsession.org/) - a private messenger offering privacy, anonymity, and security. With end-to-end encryption, no phone numbers for sign-up, and decentralisation, Session is a messenger that truly keeps your messages private and secure.
 - [Telegram](https://telegram.org/) - Telegram lets you access your chats from multiple devices. Fast. Telegram delivers messages faster than any other application.
 - [Typfully](https://typefully.com/) Write, schedule, and publish great Twitter tweets & threads. Grow your following on Twitter with analytics and metrics about your account.
-- [Warpcast](https://warpcast.com/) - Warpcast is a decentralized farcaster client enabling real-time, peer-to-peer streaming and data sharing across the web3 ecosystem.
+
 
 ## Sybil
 
